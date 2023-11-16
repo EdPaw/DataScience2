@@ -29,9 +29,9 @@ PORÓWNANIE I WNIOSKI
 <br />15. Użyto metod statystyki: mean, variance, count
 
 BIBLIOTEKI
-numpy
-sklearn.cluster KMeans
-sklearn.preprocessing StandardScaler
+<br />numpy
+<br />sklearn.cluster KMeans
+<br />sklearn.preprocessing StandardScaler
 
 WNIOSKI
-w notatniku
+<br />w notatniku

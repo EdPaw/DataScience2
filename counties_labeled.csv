@@ -1,0 +1,2556 @@
+county,rate,< 95% CI,> 95% CI,< CI*rank,> CI*rank,avg annual count,recent 5y trend,label-level-0,label-level-1
+"Greer County, Oklahoma(6)",234.0,163.6,326.4,1.0,20.0,8.0,39.4,0,0
+"Monona County, Iowa(7)",220.3,165.2,288.6,1.0,37.0,14.0,2.1,0,0
+"Shelby County, Missouri(6)",214.1,149.9,297.6,1.0,69.0,9.0,4.0,0,0
+"Pickens County, Alabama(6)",212.5,175.4,255.3,1.0,6.0,26.0,5.7,0,0
+"Phelps County, Nebraska(6)",200.2,149.7,263.1,1.0,33.0,12.0,1.8,0,0
+"Williamsburg City, Virginia(6)",196.4,151.1,251.9,1.0,83.0,15.0,1.3,0,0
+"Nantucket County, Massachusetts(7)",192.2,145.1,250.1,1.0,9.0,12.0,0.3,0,0
+"Union County, Florida(6)",190.2,141.5,250.1,1.0,38.0,11.0,1.6,0,0
+"Mills County, Iowa(7)",183.7,146.4,228.3,1.0,45.0,18.0,0.3,0,0
+"Lee County, Arkansas(6)",181.1,131.1,244.8,1.0,52.0,10.0,15.9,0,0
+"Kingsbury County, South Dakota(6)",180.9,121.8,262.3,1.0,36.0,7.0,3.8,0,0
+"Grundy County, Missouri(6)",178.5,131.6,236.7,1.0,76.0,12.0,4.0,0,0
+"Tillman County, Oklahoma(6)",174.3,123.1,240.6,1.0,57.0,9.0,3.5,0,0
+"Harrison County, Iowa(7)",173.7,137.0,217.9,1.0,65.0,17.0,1.2,0,0
+"Torrance County, New Mexico(7)",173.4,135.6,219.0,1.0,10.0,17.0,2.5,0,0
+"Warren County, Illinois(6)",173.1,136.3,216.8,1.0,80.0,17.0,2.9,0,0
+"Essex County, Virginia(6)",172.6,132.0,222.7,1.0,108.0,14.0,4.7,0,0
+"Owyhee County, Idaho(7)",171.8,129.0,224.8,1.0,24.0,12.0,4.2,0,0
+"Cavalier County, North Dakota(6)",170.5,89.7,291.6,1.0,30.0,4.0,-0.6,0,0
+"Bullock County, Alabama(6)",170.3,122.8,230.2,1.0,61.0,10.0,2.1,0,0
+"Rosebud County, Montana(6)",169.7,121.3,231.4,1.0,35.0,9.0,4.3,0,0
+"Scott County, Illinois(6)",169.5,115.9,243.3,1.0,99.0,7.0,1.1,0,0
+"Stillwater County, Montana(6)",168.2,124.4,224.3,1.0,29.0,11.0,1.4,0,0
+"St. James Parish, Louisiana(7)",167.6,137.7,202.5,1.0,32.0,24.0,3.9,0,0
+"Ford County, Illinois(6)",167.6,131.3,211.8,1.0,83.0,16.0,2.2,0,0
+"Sargent County, North Dakota(6)",167.5,96.3,272.8,1.0,30.0,4.0,3.9,0,0
+"Cooper County, Missouri(6)",167.5,132.8,208.8,1.0,64.0,18.0,2.1,0,0
+"Oneida County, Wisconsin(6)",167.3,144.2,193.5,1.0,30.0,47.0,1.6,0,0
+"Greene County, Illinois(6)",167.0,131.4,210.4,1.0,80.0,16.0,5.2,0,0
+"Palo Alto County, Iowa(7)",167.0,118.6,228.8,1.0,89.0,9.0,0.3,0,0
+"Wyoming County, New York(7)",166.8,143.4,193.1,1.0,37.0,40.0,1.8,0,0
+"Dickey County, North Dakota(6)",166.8,105.8,251.3,1.0,29.0,5.0,-1.2,0,0
+"Latah County, Idaho(7)",166.6,139.4,197.4,1.0,15.0,29.0,-9.0,0,1
+"Brookings County, South Dakota(6)",166.5,136.9,200.4,1.0,24.0,24.0,2.6,0,0
+"Adams County, North Dakota(6)",165.7,87.2,296.0,1.0,30.0,3.0,1.2,0,0
+"Galax City, Virginia(6)",165.7,114.2,233.4,1.0,123.0,8.0,42.2,0,0
+"St. Helena Parish, Louisiana(7)",164.4,119.5,220.7,1.0,59.0,10.0,3.5,0,0
+"Boone County, Nebraska(6)",164.2,110.8,238.2,1.0,60.0,7.0,2.1,0,0
+"Vilas County, Wisconsin(6)",164.1,135.4,198.3,1.0,47.0,32.0,0.6,0,0
+"Daviess County, Missouri(6)",163.4,115.5,225.3,1.0,101.0,9.0,-5.4,0,0
+"McLean County, North Dakota(6)",163.1,117.9,220.9,1.0,26.0,10.0,2.3,0,0
+"Marion County, Missouri(6)",163.0,137.4,192.3,1.0,50.0,31.0,2.7,0,0
+"Trimble County, Kentucky(7)",162.4,115.7,222.5,1.0,111.0,8.0,4.3,0,0
+"Mercer County, Illinois(6)",162.3,128.2,203.4,1.0,81.0,18.0,1.6,0,0
+"Fluvanna County, Virginia(6)",161.9,136.6,190.9,1.0,84.0,31.0,6.9,0,0
+"Los Alamos County, New Mexico(7)",160.8,129.0,198.8,1.0,11.0,19.0,-1.0,0,0
+"Clinch County, Georgia(7)",160.3,104.6,234.5,1.0,148.0,6.0,19.7,0,0
+"Quay County, New Mexico(7)",160.0,115.8,217.2,1.0,18.0,10.0,1.9,0,0
+"Knox County, Nebraska(6)",160.0,111.3,223.5,1.0,56.0,9.0,4.6,0,0
+"Lafayette County, Wisconsin(6)",159.7,123.8,202.7,1.0,64.0,15.0,2.6,0,0
+"Boise County, Idaho(7)",159.5,110.6,227.2,1.0,34.0,8.0,3.0,0,0
+"Keith County, Nebraska(6)",159.0,111.9,220.7,1.0,56.0,10.0,1.4,0,0
+"Petersburg City, Virginia(6)",159.0,135.1,186.1,1.0,84.0,35.0,2.7,0,0
+"Prince Edward County, Virginia(6)",158.7,126.6,196.7,1.0,109.0,19.0,1.6,0,0
+"Grundy County, Illinois(6)",158.3,137.7,181.2,1.0,57.0,44.0,1.0,0,0
+"Turner County, South Dakota(6)",158.1,112.8,217.0,1.0,37.0,9.0,5.3,0,0
+"Butler County, Iowa(7)",157.6,122.8,199.9,1.0,78.0,16.0,0.6,0,0
+"Belknap County, New Hampshire(6)",157.4,140.3,176.3,1.0,7.0,69.0,0.5,0,1
+"Lamar County, Alabama(6)",157.3,122.7,199.4,1.0,55.0,16.0,5.2,0,0
+"Sherman County, Nebraska(6)",157.1,79.5,280.6,1.0,64.0,3.0,2.8,0,0
+"Mountrail County, North Dakota(6)",156.8,108.9,218.6,1.0,28.0,7.0,3.0,0,0
+"Hardin County, Iowa(7)",156.8,124.2,195.9,1.0,78.0,19.0,0.2,0,0
+"Dukes County, Massachusetts(7)",156.7,125.1,194.5,1.0,13.0,20.0,0.9,0,0
+"Orange County, North Carolina(6)",156.3,143.8,169.7,1.0,31.0,123.0,0.7,0,1
+"New Kent County, Virginia(6)",156.2,126.5,191.3,1.0,107.0,22.0,0.7,0,0
+"Madison Parish, Louisiana(7)",155.9,116.2,205.3,1.0,59.0,11.0,1.5,0,0
+"Lexington City, Virginia(6)",155.8,99.7,238.0,1.0,128.0,6.0,2.6,0,0
+"Claiborne Parish, Louisiana(7)",155.8,119.4,200.3,1.0,56.0,15.0,1.5,0,0
+"Barnstable County, Massachusetts(7)",155.3,146.6,164.5,1.0,5.0,312.0,-0.1,0,1
+"Carroll County, Missouri(6)",155.3,112.1,210.6,1.0,100.0,10.0,2.9,0,0
+"Chaffee County, Colorado(6)",155.0,123.5,193.0,1.0,31.0,21.0,2.8,0,0
+"Merrimack County, New Hampshire(6)",154.8,143.5,166.9,1.0,6.0,153.0,1.1,0,1
+"Adair County, Missouri(6)",154.8,124.3,190.6,1.0,81.0,20.0,1.8,0,0
+"Beadle County, South Dakota(6)",154.7,119.3,197.0,1.0,35.0,15.0,2.9,0,0
+"Scotland County, Missouri(6)",154.7,95.5,237.9,1.0,109.0,5.0,3.8,0,0
+"Adams County, Nebraska(6)",154.5,129.2,183.3,1.0,37.0,30.0,0.9,0,0
+"East Feliciana Parish, Louisiana(7)",154.4,122.0,193.1,1.0,53.0,18.0,3.6,0,0
+"Middlesex County, Connecticut(7)",154.3,144.0,165.2,1.0,3.0,183.0,0.4,0,1
+"Rush County, Indiana(6)",154.2,122.3,192.5,1.0,71.0,17.0,2.2,0,0
+"Benton County, Iowa(7)",154.1,127.7,184.8,1.0,65.0,26.0,1.3,0,0
+"Fredericksburg City, Virginia(6)",154.1,125.7,187.0,1.0,110.0,21.0,0.7,0,0
+"Clay County, Nebraska(6)",154.0,102.0,224.7,1.0,62.0,6.0,6.2,0,0
+"Clarke County, Alabama(6)",153.6,128.0,183.3,1.0,43.0,27.0,1.2,0,0
+"White County, Illinois(6)",153.6,119.1,195.6,1.0,91.0,16.0,2.1,0,0
+"Pasquotank County, North Carolina(6)",153.4,131.4,178.1,1.0,75.0,38.0,1.7,0,0
+"Norfolk County, Massachusetts(7)",153.2,147.9,158.5,1.0,5.0,693.0,0.5,0,1
+"Cheyenne County, Nebraska(6)",153.0,110.6,206.9,1.0,56.0,9.0,-0.8,0,0
+"Albany County, New York(7)",152.9,144.8,161.4,1.0,21.0,290.0,1.1,0,1
+"Douglas County, Colorado(6)",152.8,144.3,161.7,1.0,8.0,261.0,1.1,0,1
+"Pushmataha County, Oklahoma(6)",152.8,113.8,201.7,1.0,59.0,12.0,14.8,0,0
+"Platte County, Missouri(6)",152.5,138.2,167.8,2.0,38.0,88.0,2.2,0,1
+"Morgan County, Tennessee(6)",152.4,122.1,188.4,1.0,71.0,19.0,3.9,0,0
+"Lucas County, Iowa(7)",152.4,106.4,212.2,1.0,94.0,9.0,1.8,0,0
+"Butler County, Nebraska(6)",152.2,108.5,209.6,1.0,58.0,9.0,2.7,0,0
+"Shelby County, Illinois(6)",152.1,123.3,186.0,1.0,85.0,23.0,4.4,0,0
+"Montgomery County, Missouri(6)",152.1,114.4,199.2,1.0,94.0,13.0,1.1,0,0
+"Richardson County, Nebraska(6)",152.0,109.4,208.0,1.0,58.0,10.0,-0.2,0,0
+"Valley County, Nebraska(6)",152.0,95.6,234.4,1.0,63.0,5.0,4.0,0,0
+"Valley County, Montana(6)",151.9,103.6,215.9,1.0,37.0,8.0,2.7,0,0
+"Richland County, Montana(6)",151.9,111.1,203.2,1.0,36.0,10.0,2.1,0,0
+"Wilkes County, Georgia(7)",151.8,112.7,201.4,1.0,136.0,12.0,2.4,0,0
+"Price County, Wisconsin(6)",151.7,119.9,191.4,1.0,65.0,17.0,3.9,0,0
+"Tazewell County, Illinois(6)",151.7,139.9,164.2,2.0,44.0,134.0,1.5,0,1
+"Union County, Illinois(6)",151.5,120.9,188.2,1.0,89.0,19.0,4.4,0,0
+"Nez Perce County, Idaho(7)",151.5,130.6,175.0,1.0,18.0,42.0,1.3,0,1
+"Montgomery County, Iowa(7)",151.4,110.9,202.8,1.0,90.0,11.0,0.9,0,0
+"Guilford County, North Carolina(6)",151.3,145.2,157.6,1.0,25.0,479.0,1.8,0,1
+"Rockingham County, New Hampshire(6)",151.3,143.5,159.4,1.0,6.0,310.0,0.6,0,1
+"St. Louis County, Missouri(6)",151.2,146.9,155.6,4.0,20.0,1023.0,0.8,0,1
+"Worth County, Iowa(7)",151.1,103.4,214.4,1.0,94.0,7.0,0.7,0,0
+"Greene County, Mississippi(6)",151.0,111.8,200.1,1.0,72.0,11.0,3.3,0,0
+"Marin County, California(7)",151.0,142.9,159.4,1.0,7.0,295.0,4.4,0,1
+"Thurston County, Nebraska(6)",150.7,97.1,222.8,1.0,63.0,5.0,5.0,0,0
+"Macon County, Missouri(6)",150.7,116.9,191.7,1.0,91.0,16.0,1.1,0,0
+"Lyon County, Kentucky(7)",150.6,104.8,213.1,1.0,116.0,10.0,3.0,0,0
+"Terrell County, Georgia(7)",150.5,106.4,207.3,1.0,144.0,9.0,3.3,0,0
+"Chatham County, North Carolina(6)",150.5,135.4,167.0,1.0,59.0,84.0,1.1,0,0
+"Hanover County, Virginia(6)",150.4,137.3,164.6,3.0,64.0,103.0,0.8,0,1
+"Crook County, Oregon(6)",150.2,122.5,183.0,1.0,23.0,25.0,0.3,0,0
+"Poweshiek County, Iowa(7)",150.2,118.1,188.6,1.0,83.0,18.0,1.2,0,0
+"Franklin County, North Carolina(6)",150.1,133.7,168.0,1.0,66.0,65.0,1.6,0,0
+"Waynesboro City, Virginia(6)",150.1,122.1,182.8,1.0,109.0,22.0,1.5,0,0
+"Windsor County, Vermont(6)",150.0,132.6,169.2,1.0,8.0,63.0,0.8,0,1
+"Teton County, Montana(6)",149.8,99.1,218.9,1.0,39.0,7.0,-1.2,0,0
+"Carroll County, Illinois(6)",149.7,113.7,193.9,1.0,94.0,14.0,4.3,0,0
+"Pointe Coupee Parish, Louisiana(7)",149.6,121.3,182.7,1.0,50.0,23.0,0.9,0,0
+"Richmond County, Virginia(6)",149.4,105.0,208.3,1.0,125.0,9.0,0.7,0,0
+"Rolette County, North Dakota(6)",149.3,111.6,195.7,1.0,27.0,11.0,0.2,0,0
+"Clark County, Ohio(6)",149.2,137.7,161.5,1.0,26.0,138.0,1.8,0,1
+"Warren County, New York(7)",149.2,133.3,166.7,1.0,46.0,73.0,1.3,0,1
+"Morgan County, Illinois(6)",149.2,125.9,175.8,1.0,81.0,33.0,1.3,0,0
+"Tipton County, Indiana(6)",149.0,116.2,189.0,1.0,79.0,16.0,4.2,0,0
+"Sussex County, Virginia(6)",149.0,107.2,202.9,1.0,123.0,10.0,0.6,0,0
+"Sangamon County, Illinois(6)",148.9,139.3,159.0,4.0,43.0,196.0,0.8,0,1
+"Chester County, South Carolina(6)",148.9,126.0,175.0,1.0,39.0,33.0,2.9,0,0
+"Pleasants County, West Virginia(6)",148.7,101.5,212.2,1.0,53.0,7.0,5.6,0,0
+"Livingston County, Illinois(6)",148.7,126.8,173.4,1.0,81.0,36.0,3.2,0,0
+"Carson City, Nevada(6)",148.6,130.2,169.1,1.0,4.0,53.0,0.9,0,1
+"Washington County, Wisconsin(6)",148.5,136.9,160.9,1.0,30.0,130.0,1.0,0,1
+"Monroe County, New York(7)",148.4,143.3,153.6,2.0,22.0,710.0,0.4,0,1
+"Burleigh County, North Dakota(6)",148.3,133.6,164.3,3.0,18.0,80.0,1.3,0,1
+"Fountain County, Indiana(6)",148.3,117.6,185.3,1.0,75.0,18.0,1.6,0,0
+"Greenbrier County, West Virginia(6)",148.3,126.8,172.7,1.0,27.0,39.0,1.7,0,0
+"Chesapeake City, Virginia(6)",148.3,139.1,157.9,5.0,51.0,203.0,1.1,0,1
+"Waukesha County, Wisconsin(6)",148.2,141.5,155.2,2.0,20.0,398.0,0.5,0,1
+"Decatur County, Iowa(7)",148.2,99.5,212.7,1.0,96.0,7.0,1.1,0,0
+"Lee County, South Carolina(6)",148.2,116.2,186.7,1.0,45.0,17.0,2.3,0,0
+"Green County, Kentucky(7)",148.1,110.6,195.3,1.0,109.0,12.0,0.8,0,0
+"Linn County, Iowa(7)",148.1,138.6,158.1,6.0,39.0,191.0,0.4,0,1
+"Chester County, Pennsylvania(6)",148.1,142.0,154.4,1.0,15.0,472.0,0.6,0,1
+"Hamilton County, Indiana(6)",148.1,139.7,156.8,1.0,19.0,244.0,0.9,0,1
+"Morris County, New Jersey(7)",148.1,142.0,154.3,1.0,9.0,480.0,0.0,0,1
+"Bottineau County, North Dakota(6)",148.0,97.2,217.6,1.0,30.0,7.0,1.2,0,0
+"Bond County, Illinois(6)",148.0,116.0,186.8,1.0,92.0,16.0,-1.1,0,0
+"Lewis County, Kentucky(7)",147.8,113.6,189.8,1.0,104.0,14.0,2.3,0,0
+"McCurtain County, Oklahoma(6)",147.7,124.4,174.3,1.0,41.0,31.0,0.4,0,0
+"Montgomery County, Pennsylvania(6)",147.7,143.0,152.6,1.0,12.0,798.0,0.6,0,1
+"Nicholas County, Kentucky(7)",147.7,98.8,213.0,1.0,117.0,6.0,-0.1,0,0
+"Washington County, Nebraska(6)",147.7,118.6,182.2,2.0,47.0,19.0,1.7,0,0
+"Erie County, New York(7)",147.6,143.1,152.2,2.0,22.0,906.0,1.0,0,1
+"Davie County, North Carolina(6)",147.6,128.3,169.4,1.0,76.0,45.0,3.1,0,0
+"Lincoln County, Washington(6)",147.5,109.1,197.0,1.0,36.0,12.0,4.9,0,0
+"Kearney County, Nebraska(6)",147.4,98.2,214.1,1.0,62.0,6.0,1.3,0,0
+"Hampshire County, Massachusetts(7)",147.4,136.2,159.4,2.0,9.0,143.0,0.0,0,1
+"Tolland County, Connecticut(7)",147.4,135.9,159.7,1.0,6.0,131.0,0.2,0,1
+"Richland County, South Carolina(6)",147.4,140.1,155.0,1.0,13.0,319.0,0.3,0,1
+"Durham County, North Carolina(6)",147.3,139.0,156.1,2.0,40.0,243.0,-5.8,0,1
+"Southampton County, Virginia(6)",147.3,116.4,184.4,1.0,118.0,18.0,1.6,0,0
+"Fairfield County, South Carolina(6)",147.2,121.1,177.9,1.0,43.0,25.0,0.4,0,0
+"Sharp County, Arkansas(6)",147.2,115.7,185.3,1.0,59.0,19.0,2.7,0,0
+"Putnam County, New York(7)",147.2,133.7,161.7,1.0,43.0,95.0,0.0,0,1
+"Natchitoches Parish, Louisiana(7)",147.1,124.6,172.5,1.0,45.0,33.0,3.5,0,0
+"Warren County, Iowa(7)",147.1,127.5,168.9,3.0,67.0,43.0,1.5,0,0
+"Fairfield County, Connecticut(7)",147.1,142.6,151.7,1.0,4.0,866.0,0.0,0,1
+"Schenectady County, New York(7)",147.0,136.1,158.5,1.0,38.0,146.0,0.4,0,1
+"Burlington County, New Jersey(7)",147.0,140.7,153.6,1.0,11.0,433.0,1.3,0,1
+"Virginia Beach City, Virginia(6)",146.9,140.3,153.9,8.0,45.0,380.0,1.4,0,1
+"Anderson County, Kentucky(7)",146.9,119.3,179.3,1.0,92.0,21.0,-0.9,0,0
+"Woodruff County, Arkansas(6)",146.9,97.0,214.1,1.0,74.0,7.0,2.7,0,0
+"West Carroll Parish, Louisiana(7)",146.8,108.6,194.9,1.0,61.0,11.0,0.5,0,0
+"San Luis Obispo County, California(7)",146.8,138.4,155.6,1.0,12.0,266.0,0.8,0,1
+"Gasconade County, Missouri(6)",146.5,114.5,185.7,1.0,87.0,17.0,0.7,0,0
+"Nassau County, New York(7)",146.5,142.8,150.2,3.0,22.0,1312.0,0.1,0,1
+"Anson County, North Carolina(6)",146.4,119.5,177.9,1.0,91.0,23.0,3.8,0,0
+"Douglas County, Georgia(7)",146.4,134.3,159.3,3.0,65.0,113.0,1.2,0,1
+"Washington County, Rhode Island(6)",146.4,134.6,159.0,1.0,4.0,131.0,0.5,0,1
+"Alamance County, North Carolina(6)",146.3,135.9,157.4,1.0,51.0,153.0,2.1,0,1
+"Kent County, Rhode Island(6)",146.2,136.1,157.0,1.0,4.0,171.0,0.9,0,1
+"Hunterdon County, New Jersey(7)",146.2,134.5,158.8,1.0,16.0,129.0,0.2,0,1
+"Lamoille County, Vermont(6)",146.2,119.5,177.3,1.0,12.0,22.0,-0.2,0,0
+"Monmouth County, New Jersey(7)",146.2,140.8,151.7,1.0,10.0,616.0,0.1,0,1
+"Skagit County, Washington(7)",146.2,133.9,159.3,1.0,19.0,119.0,0.1,0,1
+"Ozaukee County, Wisconsin(6)",146.1,132.2,161.3,1.0,42.0,89.0,0.1,0,1
+"Honolulu County, Hawaii(7)",146.0,141.5,150.6,1.0,1.0,862.0,2.0,0,1
+"Yellowstone County, Montana(6)",146.0,135.0,157.7,3.0,18.0,142.0,1.6,0,1
+"Yazoo County, Mississippi(6)",146.0,118.2,178.4,1.0,61.0,21.0,6.8,0,0
+"Washburn County, Wisconsin(6)",146.0,113.9,185.3,1.0,66.0,18.0,0.8,0,0
+"Sarpy County, Nebraska(6)",145.9,134.7,157.8,6.0,30.0,129.0,0.4,0,1
+"Winnebago County, Iowa(7)",145.9,106.2,196.4,1.0,91.0,11.0,1.2,0,0
+"Clarke County, Iowa(7)",145.7,102.9,201.0,1.0,95.0,8.0,1.0,0,0
+"Blaine County, Idaho(7)",145.7,116.5,180.3,1.0,28.0,19.0,0.2,0,0
+"Greene County, Pennsylvania(6)",145.6,123.5,170.8,1.0,60.0,35.0,2.8,0,0
+"Forest County, Pennsylvania(6)",145.6,92.8,225.2,1.0,67.0,6.0,0.0,0,0
+"Thayer County, Nebraska(6)",145.6,83.3,235.4,1.0,64.0,5.0,2.2,0,0
+"Chowan County, North Carolina(6)",145.6,110.0,189.3,1.0,97.0,14.0,0.8,0,0
+"West Feliciana Parish, Louisiana(7)",145.5,105.9,195.8,1.0,62.0,10.0,0.6,0,0
+"Yalobusha County, Mississippi(6)",145.5,111.6,187.6,1.0,71.0,14.0,0.6,0,0
+"Williamson County, Tennessee(6)",145.5,135.9,155.6,1.0,19.0,179.0,0.8,0,1
+"Cabarrus County, North Carolina(6)",145.4,135.5,155.8,2.0,55.0,166.0,1.7,0,1
+"Surry County, Virginia(6)",145.3,99.8,207.8,1.0,125.0,8.0,5.7,0,0
+"Conecuh County, Alabama(6)",145.3,109.0,190.4,1.0,63.0,13.0,1.4,0,0
+"Greene County, Alabama(6)",145.1,100.3,203.6,1.0,66.0,9.0,1.5,0,0
+"Avery County, North Carolina(6)",145.0,113.8,183.1,1.0,96.0,17.0,4.1,0,0
+"Grant County, Kentucky(7)",144.9,117.5,176.8,1.0,96.0,20.0,0.6,0,0
+"Wake County, North Carolina(6)",144.8,140.2,149.5,5.0,34.0,786.0,0.8,0,1
+"Harford County, Maryland(6)",144.8,136.4,153.6,1.0,11.0,236.0,1.7,0,1
+"Millard County, Utah(7)",144.7,105.8,193.4,1.0,20.0,10.0,1.9,0,0
+"Suffolk City, Virginia(6)",144.7,130.3,160.4,4.0,79.0,76.0,2.0,0,0
+"St. Tammany Parish, Louisiana(7)",144.7,136.2,153.6,3.0,22.0,233.0,0.4,0,1
+"Henderson County, Illinois(6)",144.5,101.8,202.6,1.0,99.0,8.0,0.0,0,0
+"Shasta County, California(7)",144.4,134.6,154.8,1.0,15.0,184.0,1.6,0,1
+"Marion County, Illinois(6)",144.4,122.8,168.8,1.0,82.0,36.0,1.1,0,0
+"Cape Girardeau County, Missouri(6)",144.3,128.8,161.3,2.0,53.0,68.0,1.8,0,1
+"Knox County, Maine(6)",144.3,124.3,167.0,1.0,11.0,45.0,0.6,0,1
+"Gloucester County, New Jersey(7)",144.3,136.4,152.5,1.0,14.0,267.0,0.3,0,1
+"Salem City, Virginia(6)",144.3,119.1,173.5,1.0,115.0,26.0,1.4,0,0
+"McLean County, Illinois(6)",144.2,133.0,156.1,5.0,57.0,129.0,1.0,0,1
+"Westchester County, New York(7)",144.2,139.9,148.6,4.0,27.0,907.0,0.3,0,1
+"Bedford County, Pennsylvania(6)",144.2,126.1,164.4,1.0,55.0,52.0,3.2,0,0
+"Somerset County, New Jersey(7)",144.2,136.8,151.8,1.0,14.0,306.0,0.1,0,1
+"Tioga County, New York(7)",144.2,125.7,164.8,1.0,54.0,49.0,1.3,0,0
+"Fayette County, Kentucky(7)",144.1,136.0,152.6,3.0,40.0,248.0,-0.1,0,1
+"Rockland County, New York(7)",144.1,136.3,152.2,2.0,36.0,273.0,0.4,0,1
+"Tishomingo County, Mississippi(6)",144.0,115.2,178.3,1.0,62.0,19.0,5.5,0,0
+"Bolivar County, Mississippi(6)",144.0,120.2,171.2,1.0,55.0,28.0,6.3,0,0
+"Sumter County, Alabama(6)",144.0,107.2,189.7,1.0,63.0,12.0,3.2,0,0
+"Sunflower County, Mississippi(6)",143.9,116.3,176.1,1.0,62.0,20.0,4.1,0,0
+"Brown County, South Dakota(6)",143.9,121.1,169.7,2.0,30.0,32.0,0.7,0,0
+"Geauga County, Ohio(6)",143.7,130.3,158.3,1.0,47.0,94.0,0.5,0,1
+"Tripp County, South Dakota(6)",143.7,91.7,216.9,1.0,42.0,6.0,0.8,0,0
+"Ontario County, New York(7)",143.7,131.3,157.0,1.0,45.0,111.0,6.4,0,0
+"Buncombe County, North Carolina(6)",143.6,135.4,152.1,3.0,49.0,255.0,0.7,0,1
+"Madison County, Mississippi(6)",143.6,129.8,158.5,1.0,31.0,83.0,0.0,0,1
+"Oswego County, New York(7)",143.5,131.0,156.9,1.0,44.0,104.0,6.7,0,0
+"Hancock County, Indiana(6)",143.4,127.8,160.5,1.0,47.0,65.0,1.6,0,1
+"Wayne County, New York(7)",143.4,129.7,158.3,1.0,46.0,87.0,0.3,0,1
+"Perry County, Illinois(6)",143.4,113.6,178.9,1.0,93.0,18.0,1.7,0,0
+"Strafford County, New Hampshire(6)",143.4,131.1,156.5,1.0,9.0,107.0,0.8,0,1
+"Calhoun County, Mississippi(6)",143.3,111.3,182.4,1.0,68.0,15.0,2.3,0,0
+"Broome County, New York(7)",143.3,133.7,153.5,1.0,40.0,184.0,1.2,0,1
+"Colonial Heights City, Virginia(6)",143.3,112.2,180.6,1.0,118.0,17.0,1.3,0,0
+"Perry County, Arkansas(6)",143.2,102.1,195.8,1.0,72.0,9.0,0.4,0,0
+"Lycoming County, Pennsylvania(6)",143.1,131.0,156.2,1.0,42.0,113.0,2.0,0,1
+"Towns County, Georgia(7)",143.1,105.5,191.9,1.0,141.0,14.0,2.5,0,0
+"Humboldt County, Iowa(7)",143.1,103.6,193.9,1.0,93.0,10.0,0.3,0,0
+"Person County, North Carolina(6)",143.1,122.6,166.2,1.0,83.0,39.0,2.4,0,0
+"Greensville County, Virginia(6)",143.1,101.3,197.5,1.0,126.0,9.0,0.6,0,0
+"Hendricks County, Indiana(6)",143.0,132.0,154.7,1.0,34.0,129.0,0.4,0,1
+"Franklin County, Iowa(7)",143.0,102.7,194.7,1.0,94.0,10.0,0.6,0,0
+"Whatcom County, Washington(7)",142.9,133.5,152.9,1.0,18.0,184.0,0.0,0,1
+"Lake County, Oregon(6)",142.9,98.6,202.9,1.0,33.0,8.0,2.1,0,0
+"Claiborne County, Tennessee(6)",142.9,119.9,169.3,1.0,67.0,30.0,1.7,0,0
+"Lake County, Illinois(6)",142.8,137.5,148.3,10.0,44.0,581.0,0.5,0,1
+"Cerro Gordo County, Iowa(7)",142.8,123.5,164.5,4.0,70.0,46.0,-0.2,0,0
+"Mitchell County, Georgia(7)",142.8,115.3,175.2,1.0,128.0,20.0,0.7,0,0
+"Winkler County, Texas(6)",142.8,93.9,208.1,1.0,194.0,6.0,4.0,0,0
+"Grafton County, New Hampshire(6)",142.7,128.9,157.6,1.0,9.0,89.0,0.9,0,1
+"Middlesex County, Massachusetts(7)",142.6,139.2,146.2,4.0,8.0,1373.0,-0.1,0,1
+"Brunswick County, Virginia(6)",142.6,110.7,181.7,1.0,119.0,16.0,2.2,0,0
+"Wicomico County, Maryland(6)",142.6,128.9,157.2,1.0,19.0,87.0,0.7,0,1
+"Bath County, Virginia(6)",142.5,90.5,220.4,1.0,130.0,5.0,1.8,0,0
+"Kankakee County, Illinois(6)",142.5,129.6,156.4,5.0,66.0,95.0,5.1,0,1
+"Franklin County, Georgia(7)",142.4,115.2,174.5,1.0,128.0,21.0,2.7,0,0
+"Columbia County, Wisconsin(6)",142.4,124.7,162.0,1.0,56.0,51.0,0.6,0,0
+"Orleans County, Vermont(6)",142.3,117.3,171.3,1.0,12.0,27.0,1.4,0,0
+"Morgan County, Indiana(6)",142.2,126.4,159.6,1.0,48.0,62.0,0.3,0,1
+"Mason County, Washington(7)",142.2,126.2,159.9,1.0,25.0,66.0,0.2,0,1
+"Staunton City, Virginia(6)",142.2,117.6,170.8,2.0,113.0,27.0,3.0,0,0
+"DuPage County, Illinois(6)",142.2,137.7,146.8,12.0,42.0,811.0,0.6,0,1
+"Marion County, Iowa(7)",142.1,119.2,168.4,3.0,78.0,30.0,0.2,0,0
+"Lunenburg County, Virginia(6)",142.1,105.5,188.5,1.0,123.0,12.0,0.9,0,0
+"St. Charles County, Missouri(6)",142.1,135.1,149.4,7.0,36.0,323.0,1.0,0,1
+"Chittenden County, Vermont(6)",142.1,131.1,153.7,1.0,8.0,133.0,-0.2,0,1
+"Peoria County, Illinois(6)",142.1,132.0,152.7,7.0,57.0,161.0,0.2,0,1
+"Clay County, Missouri(6)",142.0,133.1,151.5,6.0,41.0,194.0,0.6,0,1
+"Isle of Wight County, Virginia(6)",142.0,120.9,166.1,2.0,108.0,36.0,1.3,0,0
+"Mercer County, New Jersey(7)",141.9,134.8,149.3,1.0,15.0,316.0,0.2,0,1
+"Baltimore County, Maryland(6)",141.9,137.3,146.6,1.0,10.0,770.0,0.4,0,1
+"Estill County, Kentucky(7)",141.9,109.2,182.0,1.0,108.0,14.0,-0.8,0,0
+"Knox County, Indiana(6)",141.9,121.1,165.5,1.0,64.0,36.0,1.3,0,0
+"Kent County, Maryland(6)",141.8,112.9,176.5,1.0,24.0,22.0,0.8,0,0
+"Benton County, Oregon(6)",141.8,126.5,158.6,1.0,18.0,69.0,0.0,0,1
+"Jefferson County, Illinois(6)",141.8,120.6,165.9,2.0,85.0,35.0,0.5,0,0
+"Winchester City, Virginia(6)",141.8,116.2,171.3,1.0,117.0,23.0,1.9,0,0
+"McDonough County, Illinois(6)",141.7,116.4,171.1,1.0,90.0,25.0,1.6,0,0
+"Marion County, Alabama(6)",141.7,118.6,168.3,2.0,53.0,30.0,2.8,0,0
+"Sandusky County, Ohio(6)",141.7,125.2,159.9,1.0,62.0,58.0,1.6,0,0
+"Poquoson City, Virginia(6)",141.7,107.5,184.7,1.0,122.0,12.0,0.0,0,0
+"Somerset County, Maryland(6)",141.7,113.6,174.9,1.0,24.0,20.0,1.2,0,0
+"Delaware County, Pennsylvania(6)",141.7,136.0,147.5,2.0,24.0,510.0,0.3,0,1
+"Hillsborough County, New Hampshire(6)",141.6,135.0,148.5,3.0,9.0,362.0,0.3,0,1
+"Butler County, Alabama(6)",141.6,113.4,175.0,1.0,59.0,19.0,2.7,0,0
+"Wells County, North Dakota(6)",141.6,84.2,229.7,1.0,30.0,5.0,4.3,0,0
+"Fulton County, Illinois(6)",141.5,119.3,166.8,2.0,84.0,33.0,2.0,0,0
+"Newton County, Georgia(7)",141.5,128.0,156.0,3.0,84.0,84.0,5.3,0,0
+"Centre County, Pennsylvania(6)",141.4,129.6,154.1,1.0,44.0,113.0,1.6,0,1
+"Meriwether County, Georgia(7)",141.3,113.5,174.2,1.0,129.0,21.0,1.4,0,0
+"Niagara County, New York(7)",141.3,132.4,150.7,2.0,41.0,207.0,0.2,0,1
+"Minnehaha County, South Dakota(6)",141.3,130.6,152.7,5.0,24.0,137.0,0.0,0,1
+"Cobb County, Georgia(7)",141.3,136.1,146.7,8.0,48.0,573.0,1.5,0,1
+"King County, Washington(7)",141.3,138.2,144.4,2.0,13.0,1668.0,0.1,0,1
+"Otoe County, Nebraska(6)",141.3,107.6,182.3,2.0,56.0,14.0,1.6,0,0
+"Merrick County, Nebraska(6)",141.1,97.3,199.3,1.0,61.0,7.0,-1.2,0,0
+"Allegheny County, Pennsylvania(6)",141.1,137.3,145.0,3.0,20.0,1181.0,0.8,0,1
+"Camden County, New Jersey(7)",141.0,135.1,147.2,1.0,15.0,450.0,0.6,0,1
+"Nelson County, Virginia(6)",141.0,110.4,178.8,1.0,119.0,18.0,1.1,0,0
+"Placer County, California(7)",141.0,134.4,147.9,1.0,14.0,363.0,-0.1,0,1
+"Kootenai County, Idaho(7)",141.0,130.1,152.5,2.0,17.0,136.0,-0.1,0,1
+"Teton County, Wyoming(6)",141.0,112.0,175.4,1.0,16.0,17.0,-0.1,0,0
+"Bucks County, Pennsylvania(6)",140.9,135.7,146.3,2.0,25.0,603.0,0.6,0,1
+"New York County, New York(7)",140.9,137.5,144.4,9.0,32.0,1398.0,0.3,0,1
+"Oakland County, Michigan(7)",140.9,137.1,144.7,1.0,12.0,1137.0,0.7,0,1
+"Bergen County, New Jersey(7)",140.8,136.5,145.2,3.0,13.0,865.0,0.5,0,1
+"Northampton County, North Carolina(6)",140.8,112.5,174.6,1.0,96.0,21.0,1.9,0,0
+"Runnels County, Texas(6)",140.7,103.2,188.8,1.0,173.0,10.0,1.2,0,0
+"Huron County, Ohio(6)",140.7,123.0,160.2,1.0,68.0,50.0,3.0,0,0
+"Clinton County, Missouri(6)",140.7,113.2,173.4,1.0,87.0,20.0,3.1,0,0
+"Bibb County, Alabama(6)",140.7,112.7,173.9,2.0,60.0,19.0,2.6,0,0
+"Loudon County, Tennessee(6)",140.6,123.3,159.9,1.0,56.0,58.0,1.7,0,0
+"De Witt County, Illinois(6)",140.6,109.6,178.2,1.0,95.0,15.0,0.2,0,0
+"Kitsap County, Washington(7)",140.6,132.1,149.4,1.0,20.0,230.0,-0.3,0,1
+"Fall River County, South Dakota(6)",140.5,94.2,204.7,1.0,41.0,8.0,-0.8,0,0
+"Perry County, Kentucky(7)",140.5,116.1,168.8,1.0,95.0,25.0,1.7,0,0
+"New Castle County, Delaware(6)",140.4,134.6,146.3,1.0,2.0,472.0,0.8,0,1
+"Tift County, Georgia(7)",140.3,119.3,164.1,2.0,117.0,33.0,2.6,0,0
+"Douglas County, Nebraska(6)",140.3,134.1,146.6,10.0,30.0,412.0,1.0,0,1
+"Sullivan County, Pennsylvania(6)",140.2,94.6,206.7,1.0,67.0,8.0,1.5,0,0
+"Howard County, Maryland(6)",140.2,132.5,148.3,1.0,14.0,259.0,0.0,0,1
+"Iowa County, Wisconsin(6)",140.2,113.7,171.4,1.0,66.0,21.0,2.5,0,0
+"Sanders County, Montana(6)",140.2,106.2,184.1,1.0,36.0,14.0,2.1,0,0
+"Fairfax City, Virginia(6)",140.1,113.0,171.9,1.0,118.0,20.0,0.8,0,0
+"Plymouth County, Massachusetts(7)",140.1,134.3,146.1,4.0,10.0,482.0,3.8,0,1
+"Snohomish County, Washington(7)",140.1,135.1,145.3,1.0,16.0,618.0,0.1,0,1
+"Clinton County, Iowa(7)",140.1,121.7,160.6,5.0,74.0,46.0,-0.3,0,1
+"Watauga County, North Carolina(6)",140.1,120.0,162.7,1.0,87.0,39.0,0.2,0,0
+"Dutchess County, New York(7)",140.0,132.3,148.1,3.0,41.0,265.0,0.0,0,1
+"Black Hawk County, Iowa(7)",140.0,127.7,153.1,7.0,59.0,107.0,-0.1,0,1
+"Orange County, New York(7)",139.8,132.6,147.4,4.0,41.0,294.0,0.1,0,1
+"Hamlin County, South Dakota(6)",139.8,86.6,214.0,1.0,42.0,5.0,3.7,0,0
+"Halifax County with South Boston City, Virginia(6)",139.7,117.8,164.8,3.0,113.0,35.0,1.8,0,0
+"Pamlico County, North Carolina(6)",139.7,105.1,183.9,1.0,99.0,15.0,-0.8,0,0
+"Orange County, Virginia(6)",139.7,118.9,163.4,2.0,111.0,36.0,0.4,0,0
+"Barnes County, North Dakota(6)",139.7,100.6,189.7,1.0,29.0,10.0,-2.3,0,0
+"Newberry County, South Carolina(6)",139.7,119.4,162.7,1.0,42.0,37.0,0.0,0,0
+"Livingston County, New York(7)",139.7,122.9,158.3,1.0,56.0,56.0,-0.1,0,1
+"Hamilton County, Ohio(6)",139.6,134.9,144.6,2.0,28.0,693.0,0.4,0,1
+"Grundy County, Tennessee(6)",139.6,106.7,180.5,1.0,89.0,14.0,0.3,0,0
+"Westmoreland County, Pennsylvania(6)",139.6,132.9,146.5,2.0,31.0,382.0,1.2,0,1
+"Bristol County, Rhode Island(6)",139.6,121.8,159.5,1.0,5.0,49.0,-0.8,0,1
+"Genesee County, New York(7)",139.6,123.0,157.9,1.0,55.0,55.0,-0.8,0,1
+"Uinta County, Wyoming(6)",139.5,107.9,177.5,1.0,18.0,15.0,7.3,0,0
+"Goochland County, Virginia(6)",139.5,113.7,170.3,2.0,115.0,23.0,0.5,0,0
+"Delaware County, Ohio(6)",139.5,129.7,150.0,1.0,46.0,153.0,-0.1,0,1
+"Marion County, Arkansas(6)",139.5,108.3,177.8,1.0,64.0,19.0,2.4,0,0
+"Howard County, Iowa(7)",139.4,96.1,195.9,1.0,97.0,8.0,0.8,0,0
+"Alachua County, Florida(6)",139.4,130.2,149.0,1.0,14.0,188.0,-0.1,0,1
+"Huntington County, Indiana(6)",139.4,118.0,163.7,1.0,69.0,33.0,1.3,0,0
+"Gallatin County, Montana(6)",139.3,124.3,155.5,3.0,26.0,68.0,-0.5,0,1
+"Franklin City, Virginia(6)",139.2,96.4,195.0,1.0,126.0,8.0,-0.2,0,0
+"New Hanover County, North Carolina(6)",139.2,130.2,148.6,4.0,61.0,193.0,0.5,0,1
+"Mitchell County, North Carolina(6)",139.0,107.1,178.4,1.0,98.0,16.0,2.8,0,0
+"Webster County, Mississippi(6)",139.0,100.6,188.3,1.0,77.0,9.0,1.1,0,0
+"Adams County, Illinois(6)",139.0,123.1,156.5,4.0,78.0,63.0,1.8,0,0
+"Josephine County, Oregon(6)",139.0,125.8,153.4,1.0,19.0,99.0,0.2,0,1
+"Calhoun County, Georgia(7)",139.0,88.0,211.6,1.0,150.0,5.0,-0.4,0,0
+"Ada County, Idaho(7)",139.0,132.2,146.0,3.0,15.0,334.0,1.4,0,1
+"Onondaga County, New York(7)",139.0,132.8,145.3,6.0,40.0,418.0,0.1,0,1
+"Litchfield County, Connecticut(7)",138.9,129.5,148.9,2.0,7.0,183.0,-0.2,0,1
+"Whiteside County, Illinois(6)",138.9,121.8,157.8,3.0,83.0,53.0,0.6,0,0
+"Oconto County, Wisconsin(6)",138.8,117.9,162.8,1.0,61.0,34.0,3.5,0,0
+"Roanoke County, Virginia(6)",138.8,125.8,152.8,7.0,90.0,95.0,0.6,0,1
+"Grundy County, Iowa(7)",138.7,105.4,180.4,1.0,92.0,13.0,0.3,0,0
+"Pierce County, Washington(7)",138.7,133.9,143.6,2.0,17.0,664.0,0.0,0,1
+"Knox County, Illinois(6)",138.7,120.6,158.8,3.0,83.0,50.0,1.3,0,0
+"McCook County, South Dakota(6)",138.6,85.2,214.1,1.0,42.0,5.0,-1.7,0,0
+"Oconee County, Georgia(7)",138.6,117.0,163.3,2.0,120.0,30.0,0.0,0,0
+"Franklin County, Missouri(6)",138.6,125.6,152.7,5.0,56.0,90.0,1.6,0,1
+"Pickens County, Georgia(7)",138.6,116.1,164.6,2.0,126.0,30.0,4.9,0,0
+"Kodiak Island Borough, Alaska(6)",138.6,98.7,189.3,1.0,14.0,9.0,-0.5,0,0
+"Mecklenburg County, North Carolina(6)",138.6,134.1,143.2,12.0,47.0,754.0,0.8,0,1
+"Tulsa County, Oklahoma(6)",138.5,133.0,144.2,4.0,21.0,503.0,0.7,0,1
+"Harris County, Georgia(7)",138.4,116.2,164.0,2.0,125.0,30.0,0.4,0,0
+"Screven County, Georgia(7)",138.4,106.1,178.3,1.0,134.0,14.0,1.6,0,0
+"Boyle County, Kentucky(7)",138.4,114.7,165.8,1.0,97.0,27.0,2.9,0,0
+"Ohio County, West Virginia(6)",138.4,119.2,159.9,1.0,36.0,44.0,0.9,0,1
+"Caddo County, Oklahoma(6)",138.4,113.8,166.8,2.0,54.0,24.0,0.7,0,0
+"Essex County, Massachusetts(7)",138.3,133.6,143.2,5.0,10.0,700.0,0.7,0,1
+"Lanier County, Georgia(7)",138.3,98.2,190.0,1.0,145.0,8.0,2.9,0,0
+"Jefferson Parish, Louisiana(7)",138.3,132.0,144.9,5.0,26.0,388.0,0.8,0,1
+"Gloucester County, Virginia(6)",138.3,117.9,161.4,4.0,110.0,36.0,1.1,0,0
+"McCormick County, South Carolina(6)",138.2,100.0,190.5,1.0,46.0,12.0,2.0,0,0
+"Grant County, Wisconsin(6)",138.2,118.8,159.9,1.0,62.0,41.0,3.5,0,0
+"Monroe County, Alabama(6)",138.2,110.7,170.6,2.0,62.0,20.0,0.9,0,0
+"Flathead County, Montana(6)",138.1,125.0,152.3,4.0,24.0,90.0,-0.1,0,1
+"San Mateo County, California(7)",138.1,133.3,143.1,2.0,15.0,654.0,-0.1,0,1
+"Floyd County, Indiana(6)",138.1,123.3,154.3,1.0,54.0,67.0,0.9,0,1
+"Saratoga County, New York(7)",138.1,129.6,147.1,4.0,45.0,208.0,-0.3,0,1
+"Milwaukee County, Wisconsin(6)",138.1,133.5,142.7,7.0,31.0,731.0,0.7,0,1
+"Henrico County, Virginia(6)",138.1,130.7,145.7,14.0,71.0,280.0,0.2,0,1
+"Will County, Illinois(6)",138.0,132.7,143.5,15.0,53.0,522.0,1.1,0,1
+"Taylor County, Kentucky(7)",137.9,113.3,166.7,1.0,99.0,24.0,2.5,0,0
+"Union County, North Carolina(6)",137.9,128.7,147.7,6.0,69.0,170.0,1.6,0,1
+"Lemhi County, Idaho(7)",137.9,97.9,192.5,1.0,35.0,10.0,1.5,0,0
+"Polk County, Texas(6)",137.8,118.7,159.3,1.0,101.0,44.0,0.3,0,0
+"McHenry County, Illinois(6)",137.7,130.0,145.8,11.0,60.0,250.0,1.0,0,1
+"Dallas County, Alabama(6)",137.7,117.6,160.4,2.0,52.0,37.0,1.4,0,0
+"Forsyth County, North Carolina(6)",137.7,130.9,144.8,10.0,61.0,320.0,0.4,0,1
+"Floyd County, Kentucky(7)",137.7,117.0,161.3,1.0,90.0,34.0,0.7,0,0
+"Pickens County, South Carolina(6)",137.7,125.4,150.9,1.0,35.0,99.0,5.5,0,1
+"New Haven County, Connecticut(7)",137.7,133.2,142.3,3.0,7.0,771.0,-0.2,0,1
+"La Crosse County, Wisconsin(6)",137.6,125.0,151.3,3.0,53.0,95.0,-0.4,0,1
+"McLean County, Kentucky(7)",137.6,98.7,188.0,1.0,116.0,9.0,1.2,0,0
+"Lenoir County, North Carolina(6)",137.5,121.2,155.6,1.0,84.0,58.0,0.3,0,0
+"Deschutes County, Oregon(6)",137.4,127.8,147.7,1.0,17.0,165.0,0.4,0,1
+"Shelby County, Indiana(6)",137.4,118.3,158.9,1.0,67.0,39.0,2.8,0,0
+"Essex County, New Jersey(7)",137.4,132.6,142.3,5.0,16.0,641.0,1.9,0,1
+"Rockcastle County, Kentucky(7)",137.4,106.7,174.6,1.0,109.0,15.0,2.4,0,0
+"Richland County, North Dakota(6)",137.3,105.0,176.7,2.0,27.0,14.0,1.3,0,0
+"Thurston County, Washington(7)",137.2,129.3,145.6,1.0,21.0,240.0,-0.4,0,1
+"Furnas County, Nebraska(6)",137.2,83.8,215.3,1.0,64.0,5.0,5.1,0,0
+"Johnson County, Missouri(6)",137.2,117.0,159.9,2.0,76.0,35.0,1.0,0,0
+"Walthall County, Mississippi(6)",137.2,105.2,176.4,1.0,73.0,14.0,3.5,0,0
+"Washington County, Pennsylvania(6)",137.1,128.3,146.4,2.0,45.0,204.0,0.8,0,1
+"Appomattox County, Virginia(6)",137.1,106.6,174.3,1.0,122.0,15.0,1.3,0,0
+"Oldham County, Kentucky(7)",137.1,119.7,156.4,2.0,80.0,48.0,-0.4,0,0
+"Cabell County, West Virginia(6)",137.1,123.7,151.6,1.0,28.0,86.0,1.0,0,1
+"Onslow County, North Carolina(6)",137.1,125.0,149.9,4.0,77.0,99.0,1.3,0,1
+"Larimer County, Colorado(6)",137.0,129.3,145.1,2.0,19.0,255.0,0.5,0,1
+"Williamson County, Texas(6)",137.0,130.7,143.6,2.0,32.0,360.0,0.1,0,1
+"St. Clair County, Alabama(6)",137.0,123.0,152.3,3.0,39.0,75.0,2.7,0,1
+"Warren County, Pennsylvania(6)",137.0,117.7,159.0,1.0,64.0,42.0,1.3,0,0
+"Worcester County, Massachusetts(7)",137.0,132.3,141.8,5.0,10.0,688.0,0.6,0,1
+"Douglas County, Illinois(6)",137.0,108.0,171.7,1.0,96.0,17.0,-1.7,0,0
+"Hopewell City, Virginia(6)",137.0,110.4,168.3,2.0,119.0,20.0,2.0,0,0
+"Vance County, North Carolina(6)",137.0,118.0,158.3,1.0,89.0,41.0,2.2,0,0
+"Warrick County, Indiana(6)",136.9,120.9,154.6,1.0,60.0,56.0,1.1,0,0
+"Johnson County, Iowa(7)",136.9,124.0,150.7,8.0,65.0,88.0,0.0,0,1
+"York County, Maine(6)",136.9,128.0,146.2,1.0,9.0,198.0,0.4,0,1
+"Manitowoc County, Wisconsin(6)",136.9,122.4,152.7,2.0,56.0,75.0,0.8,0,1
+"Humphreys County, Mississippi(6)",136.9,96.1,190.0,1.0,78.0,8.0,3.2,0,0
+"Hartford County, Connecticut(7)",136.8,132.5,141.3,4.0,7.0,798.0,-0.2,0,1
+"Clallam County, Washington(7)",136.8,122.9,152.2,1.0,27.0,91.0,-1.4,0,1
+"Greenville County, South Carolina(6)",136.8,130.8,143.0,3.0,25.0,409.0,1.3,0,1
+"Kenton County, Kentucky(7)",136.8,126.1,148.1,5.0,63.0,129.0,0.6,0,1
+"Union County, New Jersey(7)",136.7,131.0,142.6,5.0,17.0,454.0,0.0,0,1
+"Pend Oreille County, Washington(6)",136.7,104.1,177.9,1.0,37.0,14.0,1.3,0,0
+"Jackson County, Missouri(6)",136.6,131.5,141.9,12.0,42.0,567.0,0.7,0,1
+"Jefferson County, Kentucky(7)",136.6,131.8,141.5,10.0,48.0,660.0,0.1,0,1
+"Lincoln County, South Dakota(6)",136.6,116.9,158.6,4.0,32.0,36.0,0.9,0,1
+"Lawrence County, Kentucky(7)",136.6,105.1,175.0,1.0,112.0,14.0,0.9,0,0
+"Paulding County, Georgia(7)",136.5,124.9,149.0,5.0,91.0,106.0,0.8,0,1
+"Clark County, Kentucky(7)",136.5,115.9,160.1,1.0,93.0,33.0,0.4,0,0
+"Elbert County, Georgia(7)",136.5,109.0,169.4,2.0,133.0,19.0,1.6,0,0
+"Santa Barbara County, California(7)",136.5,129.8,143.5,2.0,21.0,330.0,0.1,0,1
+"Lake County, Ohio(6)",136.5,128.1,145.3,1.0,46.0,221.0,0.8,0,1
+"Menard County, Illinois(6)",136.5,103.1,178.2,1.0,99.0,12.0,-0.8,0,0
+"Teller County, Colorado(6)",136.4,109.4,168.7,1.0,39.0,21.0,-0.4,0,0
+"Moore County, Tennessee(6)",136.4,91.5,199.0,1.0,95.0,6.0,2.3,0,0
+"Fayette County, Georgia(7)",136.4,124.2,149.6,6.0,95.0,101.0,0.4,0,1
+"Iberville Parish, Louisiana(7)",136.4,113.8,162.3,1.0,56.0,27.0,0.4,0,0
+"Washington County, Maryland(6)",136.4,125.6,147.8,1.0,21.0,128.0,1.0,0,1
+"Carroll County, New Hampshire(6)",136.3,118.2,156.9,1.0,10.0,53.0,1.4,0,1
+"Grenada County, Mississippi(6)",136.3,109.9,167.5,1.0,67.0,20.0,0.8,0,0
+"Walworth County, South Dakota(6)",136.3,82.6,212.8,1.0,42.0,5.0,0.2,0,0
+"Putnam County, Ohio(6)",136.3,114.4,161.3,1.0,81.0,30.0,0.7,0,0
+"Ashley County, Arkansas(6)",136.3,109.3,168.4,1.0,65.0,19.0,2.6,0,0
+"Alexander County, North Carolina(6)",136.3,115.8,159.7,1.0,92.0,34.0,1.8,0,0
+"Hood River County, Oregon(6)",136.3,108.4,169.2,1.0,32.0,17.0,0.0,0,0
+"Kendall County, Illinois(6)",136.2,123.1,150.4,6.0,76.0,82.0,0.4,0,1
+"Scott County, Kentucky(7)",136.2,117.0,157.7,1.0,92.0,37.0,0.6,0,0
+"Leflore County, Mississippi(6)",136.2,112.1,163.9,1.0,65.0,24.0,2.0,0,0
+"Schuyler County, New York(7)",136.2,108.2,170.0,1.0,62.0,18.0,0.6,0,0
+"Hampton City, Virginia(6)",136.1,124.6,148.4,11.0,92.0,111.0,-0.2,0,1
+"Suffolk County, New York(7)",136.1,132.7,139.6,17.0,39.0,1309.0,-0.3,0,1
+"Union County, South Carolina(6)",136.0,112.9,162.8,1.0,44.0,27.0,2.8,0,0
+"Norfolk City, Virginia(6)",136.0,126.5,146.1,13.0,85.0,160.0,1.6,0,1
+"Union County, Kentucky(7)",136.0,103.0,176.7,1.0,112.0,12.0,7.2,0,0
+"Dallas County, Arkansas(6)",136.0,93.2,193.5,1.0,74.0,8.0,2.8,0,0
+"Portsmouth City, Virginia(6)",136.0,122.3,150.8,7.0,97.0,77.0,0.4,0,1
+"Routt County, Colorado(6)",136.0,108.5,168.6,1.0,39.0,19.0,1.6,0,0
+"Jackson County, Oregon(6)",135.9,127.4,145.0,1.0,16.0,216.0,0.2,0,1
+"Martinsville City, Virginia(6)",135.9,103.1,176.5,1.0,123.0,13.0,1.6,0,0
+"Hutchinson County, Texas(6)",135.9,107.9,169.2,1.0,163.0,17.0,2.4,0,0
+"Georgetown County, South Carolina(6)",135.9,120.2,153.3,1.0,41.0,68.0,1.1,0,1
+"James City County, Virginia(6)",135.9,121.4,151.8,7.0,102.0,76.0,-0.3,0,1
+"Ringgold County, Iowa(7)",135.9,85.3,209.4,1.0,98.0,5.0,0.6,0,0
+"Carteret County, North Carolina(6)",135.9,121.1,152.2,3.0,82.0,72.0,-0.1,0,1
+"Arapahoe County, Colorado(6)",135.9,130.3,141.6,3.0,18.0,470.0,1.1,0,1
+"Broadwater County, Montana(6)",135.9,90.8,200.3,1.0,40.0,6.0,0.1,0,0
+"Worcester County, Maryland(6)",135.8,118.5,155.3,1.0,24.0,57.0,-0.1,0,1
+"Prince of Wales-Outer Ketchikan, Alaska(6)",135.8,83.2,211.6,1.0,14.0,5.0,-0.5,0,0
+"Albemarle County, Virginia(6)",135.8,123.1,149.5,8.0,96.0,92.0,-0.9,0,1
+"Bibb County, Georgia(7)",135.8,125.1,147.2,7.0,90.0,127.0,-0.2,0,1
+"Nevada County, California(7)",135.8,123.1,149.6,1.0,33.0,108.0,-1.0,0,1
+"Cass County, North Dakota(6)",135.8,124.2,148.1,6.0,21.0,107.0,-0.1,0,1
+"Orange County, Indiana(6)",135.7,107.8,169.1,1.0,80.0,18.0,2.4,0,0
+"Cape May County, New Jersey(7)",135.7,122.9,149.5,1.0,20.0,106.0,-0.1,0,1
+"Piscataquis County, Maine(6)",135.7,106.7,171.2,1.0,16.0,18.0,0.8,0,0
+"Obion County, Tennessee(6)",135.6,113.9,160.7,1.0,78.0,30.0,3.1,0,0
+"Cumberland County, Maine(6)",135.6,128.1,143.5,1.0,8.0,264.0,-0.2,0,1
+"Monroe County, Mississippi(6)",135.6,114.8,159.2,1.0,61.0,33.0,3.1,0,0
+"Sussex County, New Jersey(7)",135.6,124.8,147.1,1.0,20.0,129.0,-0.2,0,1
+"Montgomery County, Ohio(6)",135.6,129.9,141.4,3.0,39.0,482.0,0.5,0,1
+"Lee County, Georgia(7)",135.6,110.5,164.7,1.0,130.0,21.0,1.3,0,0
+"Shelby County, Iowa(7)",135.5,101.7,178.3,1.0,93.0,12.0,0.8,0,0
+"DeKalb County, Georgia(7)",135.5,130.3,140.8,15.0,64.0,552.0,-0.1,0,1
+"Spokane County, Washington(6)",135.5,129.4,141.8,3.0,21.0,404.0,-0.3,0,1
+"Owen County, Kentucky(7)",135.4,98.1,183.2,1.0,115.0,10.0,-0.6,0,0
+"Boulder County, Colorado(6)",135.4,127.6,143.5,3.0,21.0,239.0,-0.1,0,1
+"New London County, Connecticut(7)",135.4,127.5,143.6,3.0,7.0,240.0,-0.2,0,1
+"Wheeler County, Texas(6)",135.4,83.6,208.3,1.0,195.0,5.0,3.0,0,0
+"Crawford County, Missouri(6)",135.3,110.0,165.1,2.0,88.0,22.0,2.2,0,0
+"Cherokee County, Georgia(7)",135.3,126.5,144.6,8.0,83.0,184.0,0.6,0,1
+"Dearborn County, Indiana(6)",135.3,117.5,155.2,1.0,66.0,44.0,1.4,0,0
+"Pearl River County, Mississippi(6)",135.3,118.0,154.5,1.0,55.0,49.0,2.6,0,0
+"Rockdale County, Georgia(7)",135.2,121.5,150.2,5.0,100.0,74.0,0.0,0,1
+"Cheshire County, New Hampshire(6)",135.2,120.7,151.1,2.0,10.0,71.0,0.1,0,1
+"St. Landry Parish, Louisiana(7)",135.2,120.8,150.9,3.0,45.0,69.0,0.8,0,1
+"Comanche County, Oklahoma(6)",135.2,122.3,149.1,3.0,35.0,83.0,-4.1,0,1
+"Granville County, North Carolina(6)",135.2,118.4,153.7,2.0,88.0,50.0,1.5,0,0
+"Valdez-Cordova Census Area, Alaska(6)",135.1,88.8,197.0,1.0,14.0,6.0,1.3,0,0
+"Dubuque County, Iowa(7)",135.1,121.6,149.7,9.0,68.0,82.0,1.3,0,1
+"Hughes County, South Dakota(6)",135.1,105.1,171.3,2.0,38.0,15.0,0.0,0,0
+"Warren County, Ohio(6)",135.1,126.2,144.4,1.0,54.0,179.0,0.5,0,1
+"Beaver County, Oklahoma(6)",135.0,86.2,204.2,1.0,71.0,5.0,2.9,0,0
+"Lincoln County, North Carolina(6)",135.0,121.2,150.1,3.0,82.0,73.0,0.9,0,1
+"Rensselaer County, New York(7)",135.0,124.7,146.0,4.0,51.0,137.0,-0.2,0,1
+"Calumet County, Wisconsin(6)",135.0,116.6,155.6,2.0,62.0,40.0,-0.1,0,1
+"Musselshell County, Montana(6)",135.0,82.9,212.8,1.0,40.0,5.0,6.5,0,0
+"Sheridan County, Nebraska(6)",134.9,84.6,207.4,1.0,64.0,5.0,1.4,0,0
+"St. Charles Parish, Louisiana(7)",134.9,116.7,155.3,2.0,52.0,41.0,0.8,0,1
+"Washington County, Vermont(6)",134.9,118.4,153.2,1.0,12.0,53.0,-0.2,0,1
+"Baker County, Georgia(7)",134.9,75.9,228.7,1.0,150.0,3.0,3.0,0,0
+"Camden County, North Carolina(6)",134.8,98.2,182.1,1.0,100.0,9.0,0.9,0,0
+"Dallas County, Iowa(7)",134.8,119.3,151.9,7.0,71.0,56.0,-0.1,0,1
+"Erie County, Pennsylvania(6)",134.8,126.9,143.1,4.0,46.0,238.0,0.8,0,1
+"Nash County, North Carolina(6)",134.8,121.7,148.9,3.0,81.0,85.0,-0.2,0,1
+"Madison County, New York(7)",134.8,119.6,151.4,1.0,58.0,63.0,0.2,0,1
+"Chemung County, New York(7)",134.7,121.2,149.5,2.0,56.0,79.0,0.1,0,1
+"Anne Arundel County, Maryland(6)",134.7,129.1,140.6,3.0,18.0,455.0,0.2,0,1
+"Clackamas County, Oregon(6)",134.7,128.3,141.4,2.0,16.0,359.0,-0.3,0,1
+"Bryan County, Georgia(7)",134.7,110.9,162.1,1.0,131.0,23.0,-0.7,0,0
+"Lawrence County, Missouri(6)",134.6,113.9,158.1,3.0,80.0,33.0,2.2,0,0
+"Delta County, Texas(6)",134.6,84.4,206.3,1.0,195.0,5.0,2.3,0,0
+"Kershaw County, South Carolina(6)",134.6,118.6,152.2,1.0,42.0,56.0,0.9,0,1
+"Halifax County, North Carolina(6)",134.6,117.6,153.5,2.0,87.0,51.0,0.1,0,0
+"Columbia County, New York(7)",134.5,118.8,152.0,2.0,58.0,62.0,4.9,0,0
+"Henderson County, Kentucky(7)",134.5,116.0,155.3,2.0,89.0,41.0,2.1,0,0
+"Haywood County, North Carolina(6)",134.5,119.0,151.6,2.0,85.0,65.0,0.9,0,0
+"Cherokee County, North Carolina(6)",134.4,111.1,161.9,1.0,96.0,31.0,1.4,0,0
+"Butte County, California(7)",134.4,125.4,143.8,2.0,29.0,192.0,-0.1,0,1
+"Sampson County, North Carolina(6)",134.4,118.2,152.2,2.0,86.0,54.0,1.8,0,0
+"Barnwell County, South Carolina(6)",134.4,107.8,165.8,1.0,45.0,20.0,0.8,0,0
+"Walworth County, Wisconsin(6)",134.3,121.4,148.3,4.0,55.0,86.0,0.8,0,1
+"Washington County, North Carolina(6)",134.3,101.2,176.0,1.0,99.0,13.0,0.3,0,0
+"Pitkin County, Colorado(6)",134.3,104.5,171.0,1.0,42.0,16.0,-1.4,0,0
+"McKean County, Pennsylvania(6)",134.3,114.8,156.4,1.0,64.0,37.0,0.0,0,0
+"Richmond County, New York(7)",134.3,128.3,140.5,13.0,45.0,402.0,0.3,0,1
+"Wayne County, Illinois(6)",134.3,104.7,170.2,1.0,97.0,16.0,0.5,0,0
+"Daviess County, Kentucky(7)",134.2,121.4,148.1,4.0,78.0,86.0,0.7,0,1
+"Todd County, Kentucky(7)",134.2,98.7,178.7,1.0,115.0,10.0,2.0,0,0
+"Cook County, Georgia(7)",134.2,104.7,169.7,1.0,135.0,15.0,1.4,0,0
+"Miami County, Ohio(6)",134.1,121.8,147.4,1.0,65.0,94.0,1.3,0,1
+"Newport News City, Virginia(6)",134.1,123.8,145.0,13.0,92.0,132.0,0.4,0,1
+"Oklahoma County, Oklahoma(6)",134.1,129.1,139.2,6.0,25.0,577.0,3.3,0,1
+"Shelby County, Kentucky(7)",134.1,115.3,155.2,2.0,93.0,38.0,0.9,0,0
+"Northampton County, Virginia(6)",134.1,98.8,178.9,1.0,125.0,13.0,-0.8,0,0
+"Knox County, Ohio(6)",134.0,117.5,152.3,1.0,76.0,52.0,6.5,0,0
+"Cedar County, Nebraska(6)",134.0,91.9,190.0,1.0,62.0,8.0,2.1,0,0
+"Prince George County, Virginia(6)",134.0,111.5,159.9,4.0,116.0,26.0,-0.2,0,0
+"Greene County, New York(7)",134.0,115.9,154.4,1.0,60.0,45.0,-0.2,0,0
+"Lebanon County, Pennsylvania(6)",134.0,123.2,145.5,2.0,54.0,126.0,1.2,0,1
+"Pendleton County, Kentucky(7)",133.9,101.9,173.5,1.0,111.0,12.0,1.8,0,0
+"Rockingham County, North Carolina(6)",133.9,121.1,147.8,4.0,79.0,89.0,1.1,0,1
+"Washington County, Ohio(6)",133.9,118.1,151.4,1.0,73.0,58.0,1.4,0,0
+"Madison County, Illinois(6)",133.9,126.0,142.2,16.0,68.0,232.0,0.7,0,1
+"Caroline County, Virginia(6)",133.9,111.2,160.1,3.0,116.0,26.0,2.0,0,0
+"Falls Church City, Virginia(6)",133.9,99.4,176.8,1.0,125.0,10.0,-1.3,0,0
+"Lawrence County, Ohio(6)",133.9,117.9,151.5,1.0,72.0,55.0,-1.2,0,1
+"Taylor County, Iowa(7)",133.9,85.9,200.8,1.0,97.0,6.0,-0.6,0,0
+"Providence County, Rhode Island(6)",133.9,128.6,139.3,3.0,5.0,509.0,0.5,0,1
+"East Baton Rouge Parish, Louisiana(7)",133.9,127.3,140.7,7.0,31.0,334.0,0.3,0,1
+"Danville City, Virginia(6)",133.8,114.8,155.3,5.0,113.0,42.0,1.1,0,0
+"Boone County, Missouri(6)",133.8,122.7,145.7,8.0,60.0,113.0,0.1,0,1
+"Seneca County, New York(7)",133.8,111.7,159.1,1.0,61.0,30.0,-0.4,0,0
+"Cuyahoga County, Ohio(6)",133.8,130.2,137.4,7.0,38.0,1158.0,0.6,0,1
+"Kosciusko County, Indiana(6)",133.7,118.9,150.0,2.0,65.0,63.0,2.3,0,0
+"Schoharie County, New York(7)",133.6,112.0,158.6,1.0,61.0,30.0,-0.6,0,0
+"Bamberg County, South Carolina(6)",133.6,101.7,172.9,1.0,46.0,14.0,0.4,0,0
+"Newport County, Rhode Island(6)",133.5,120.2,148.1,1.0,5.0,82.0,0.0,0,1
+"Champaign County, Ohio(6)",133.5,113.6,156.2,1.0,80.0,35.0,1.5,0,0
+"Johnston County, North Carolina(6)",133.5,123.8,143.9,9.0,76.0,143.0,3.8,0,1
+"Beaver County, Pennsylvania(6)",133.5,124.1,143.6,3.0,52.0,169.0,1.0,0,1
+"Summit County, Ohio(6)",133.5,128.0,139.2,5.0,45.0,480.0,0.8,0,1
+"Winnebago County, Illinois(6)",133.5,125.8,141.5,16.0,68.0,243.0,0.6,0,1
+"Cass County, Missouri(6)",133.5,120.7,147.2,7.0,64.0,85.0,0.9,0,1
+"Richmond County, Georgia(7)",133.5,123.9,143.6,8.0,89.0,155.0,-0.3,0,1
+"Haywood County, Tennessee(6)",133.5,104.5,168.3,1.0,88.0,16.0,3.4,0,0
+"Monongalia County, West Virginia(6)",133.4,118.9,149.3,1.0,33.0,65.0,0.8,0,1
+"Jefferson County, West Virginia(6)",133.4,116.1,152.7,1.0,37.0,45.0,-2.1,0,1
+"Sheboygan County, Wisconsin(6)",133.4,121.6,146.1,5.0,56.0,101.0,-1.1,0,1
+"Marquette County, Wisconsin(6)",133.4,102.6,171.7,1.0,69.0,15.0,20.9,0,0
+"Grant County, Oklahoma(6)",133.3,78.7,214.0,1.0,71.0,4.0,-1.8,0,0
+"Seneca County, Ohio(6)",133.3,115.5,153.0,1.0,78.0,45.0,0.8,0,0
+"Claiborne County, Mississippi(6)",133.2,89.4,190.9,1.0,79.0,7.0,5.8,0,0
+"Putnam County, Tennessee(6)",133.2,118.1,149.8,1.0,65.0,61.0,0.3,0,1
+"Franklin County, Ohio(6)",133.2,129.2,137.3,7.0,40.0,879.0,0.3,0,1
+"Duval County, Florida(6)",133.2,128.7,137.8,2.0,13.0,710.0,0.3,0,1
+"Santa Cruz County, California(7)",133.2,125.0,141.8,2.0,28.0,215.0,0.0,0,1
+"Jefferson County, Colorado(6)",133.2,127.7,138.9,4.0,21.0,475.0,4.3,0,1
+"Warren County, Missouri(6)",133.1,111.1,158.5,4.0,88.0,28.0,2.2,0,0
+"Chautauqua County, New York(7)",133.1,122.0,145.1,4.0,54.0,120.0,-0.8,0,1
+"Henderson County, North Carolina(6)",133.1,121.9,145.3,7.0,78.0,123.0,1.1,0,1
+"Benton County, Washington(6)",133.1,123.2,143.6,2.0,26.0,142.0,-0.5,0,1
+"Henry County, Georgia(7)",133.1,123.8,142.8,10.0,89.0,162.0,-0.1,0,1
+"Woodford County, Kentucky(7)",133.1,109.1,161.1,1.0,104.0,23.0,-0.4,0,0
+"Iredell County, North Carolina(6)",133.0,123.2,143.5,8.0,77.0,142.0,1.0,0,1
+"Missoula County, Montana(6)",133.0,120.1,147.0,5.0,28.0,84.0,0.6,0,1
+"Howard County, Indiana(6)",133.0,119.3,148.0,2.0,61.0,76.0,0.4,0,1
+"Charleston County, South Carolina(6)",133.0,126.3,140.0,4.0,32.0,317.0,-0.1,0,1
+"Roane County, Tennessee(6)",133.0,116.3,151.6,1.0,71.0,53.0,0.7,0,0
+"McCracken County, Kentucky(7)",133.0,117.7,149.8,4.0,84.0,61.0,0.5,0,1
+"Greene County, Iowa(7)",133.0,95.3,182.4,1.0,96.0,10.0,0.2,0,0
+"Boone County, Kentucky(7)",132.9,121.0,145.8,6.0,76.0,94.0,0.0,0,1
+"Ocean County, New Jersey(7)",132.9,127.7,138.3,9.0,18.0,586.0,-0.2,0,1
+"Muscatine County, Iowa(7)",132.9,113.4,155.0,6.0,79.0,35.0,-0.4,0,1
+"Washington County, Arkansas(6)",132.9,123.2,143.2,3.0,33.0,144.0,1.3,0,1
+"Kent County, Delaware(6)",132.9,123.1,143.3,1.0,3.0,145.0,0.7,0,1
+"Cole County, Missouri(6)",132.9,118.0,149.2,6.0,71.0,62.0,0.3,0,1
+"Clark County, Washington(6)",132.8,126.6,139.3,4.0,23.0,361.0,0.1,0,1
+"Cuming County, Nebraska(6)",132.8,93.5,184.5,2.0,61.0,8.0,0.7,0,0
+"Lexington County, South Carolina(6)",132.8,125.0,140.9,4.0,34.0,230.0,0.3,0,1
+"Madison County, Kentucky(7)",132.8,118.2,148.7,4.0,84.0,63.0,-0.2,0,1
+"Tattnall County, Georgia(7)",132.8,105.4,165.3,1.0,135.0,17.0,-0.1,0,0
+"Dougherty County, Georgia(7)",132.8,119.0,147.6,6.0,106.0,73.0,0.5,0,1
+"Inyo County, California(7)",132.7,102.9,168.8,1.0,54.0,17.0,0.4,0,0
+"Morton County, North Dakota(6)",132.7,109.0,160.1,3.0,27.0,24.0,1.4,0,1
+"Douglas County, Nevada(6)",132.7,114.4,153.3,1.0,6.0,49.0,1.7,0,1
+"Martin County, North Carolina(6)",132.7,109.3,160.2,1.0,95.0,25.0,-0.8,0,0
+"Spartanburg County, South Carolina(6)",132.6,125.1,140.5,4.0,34.0,247.0,0.4,0,1
+"Lancaster County, South Carolina(6)",132.6,119.3,147.1,2.0,41.0,81.0,3.5,0,1
+"Dane County, Wisconsin(6)",132.6,126.5,139.0,11.0,46.0,372.0,0.2,0,1
+"Butler County, Pennsylvania(6)",132.6,123.3,142.4,3.0,52.0,166.0,0.5,0,1
+"Northampton County, Pennsylvania(6)",132.5,125.3,140.2,5.0,49.0,272.0,1.0,0,1
+"Iberia Parish, Louisiana(7)",132.5,117.1,149.4,4.0,49.0,57.0,-0.3,0,1
+"Multnomah County, Oregon(6)",132.5,127.6,137.5,3.0,16.0,580.0,-0.5,0,1
+"Carroll County, Maryland(6)",132.5,122.7,142.9,2.0,22.0,146.0,0.0,0,1
+"Crawford County, Wisconsin(6)",132.5,102.4,169.5,1.0,69.0,16.0,0.5,0,0
+"Madison County, North Carolina(6)",132.5,106.3,163.7,1.0,97.0,20.0,0.3,0,0
+"Webster County, Iowa(7)",132.4,111.9,155.9,5.0,83.0,32.0,-0.4,0,0
+"Henry County, Kentucky(7)",132.4,101.5,170.2,1.0,112.0,13.0,2.5,0,0
+"Rogers County, Oklahoma(6)",132.3,118.7,147.1,3.0,41.0,73.0,0.7,0,1
+"Currituck County, North Carolina(6)",132.3,108.1,160.8,1.0,97.0,22.0,1.4,0,0
+"Lewis County, New York(7)",132.3,108.6,160.0,1.0,62.0,24.0,2.2,0,0
+"Clear Creek County, Colorado(6)",132.3,93.1,185.1,1.0,47.0,9.0,0.9,0,0
+"Calhoun County, South Carolina(6)",132.3,101.5,170.3,1.0,46.0,15.0,0.9,0,0
+"Dinwiddie County, Virginia(6)",132.2,109.1,159.2,2.0,117.0,24.0,1.1,0,0
+"Madison County, Alabama(6)",132.2,125.3,139.5,7.0,33.0,285.0,0.4,0,1
+"Drew County, Arkansas(6)",132.2,104.2,165.8,1.0,68.0,16.0,3.9,0,0
+"Sawyer County, Wisconsin(6)",132.1,103.7,167.2,1.0,69.0,18.0,1.0,0,0
+"Medina County, Ohio(6)",132.1,122.5,142.2,2.0,60.0,151.0,0.4,0,1
+"Clay County, North Carolina(6)",132.1,99.8,174.3,1.0,100.0,14.0,0.3,0,0
+"Bremer County, Iowa(7)",132.0,106.5,161.9,4.0,87.0,21.0,-0.2,0,0
+"Jefferson County, Alabama(6)",131.9,126.9,137.1,8.0,31.0,550.0,0.4,0,1
+"Washington County, Oregon(6)",131.9,126.2,137.8,3.0,17.0,421.0,-0.3,0,1
+"Creek County, Oklahoma(6)",131.9,117.0,148.3,3.0,44.0,61.0,0.0,0,1
+"Lynchburg City, Virginia(6)",131.9,116.0,149.4,9.0,109.0,55.0,1.0,0,1
+"Gilchrist County, Florida(6)",131.9,101.2,169.4,1.0,60.0,14.0,3.0,0,0
+"St. Mary Parish, Louisiana(7)",131.8,114.2,151.6,3.0,53.0,43.0,1.7,0,1
+"Roberts County, South Dakota(6)",131.8,91.8,183.5,1.0,41.0,8.0,2.9,0,0
+"Morgan County, Ohio(6)",131.8,99.2,172.2,1.0,87.0,13.0,1.8,0,0
+"Muskingum County, Ohio(6)",131.8,118.2,146.5,1.0,73.0,75.0,1.3,0,0
+"Dorchester County, South Carolina(6)",131.8,120.9,143.3,3.0,39.0,114.0,-2.5,0,1
+"Hocking County, Ohio(6)",131.7,108.7,158.5,1.0,84.0,25.0,0.6,0,0
+"Cook County, Illinois(6)",131.7,129.9,133.6,33.0,58.0,4046.0,0.6,0,1
+"Nassau County, Florida(6)",131.7,117.9,146.8,1.0,42.0,75.0,0.9,0,1
+"Covington County, Alabama(6)",131.7,111.9,154.2,2.0,57.0,36.0,3.1,0,0
+"Hampden County, Massachusetts(7)",131.7,125.7,137.9,7.0,11.0,395.0,-0.3,0,1
+"Anchorage Borough, Alaska(6)",131.7,123.0,140.8,1.0,9.0,186.0,-0.7,0,1
+"Pitt County, North Carolina(6)",131.7,121.2,142.8,9.0,81.0,123.0,-0.3,0,1
+"Frederick County, Maryland(6)",131.6,123.2,140.5,3.0,22.0,193.0,-0.5,0,1
+"Upshur County, West Virginia(6)",131.6,106.8,160.8,1.0,47.0,22.0,0.4,0,0
+"Pulaski County, Kentucky(7)",131.6,116.7,148.1,3.0,86.0,60.0,-5.6,0,1
+"Clarke County, Georgia(7)",131.6,118.0,146.3,6.0,106.0,72.0,-0.3,0,1
+"Maury County, Tennessee(6)",131.5,117.9,146.4,1.0,62.0,73.0,9.1,0,0
+"Kaufman County, Texas(6)",131.5,118.8,145.3,2.0,82.0,81.0,1.2,0,1
+"Shawano County, Wisconsin(6)",131.5,112.1,153.5,2.0,65.0,37.0,1.8,0,0
+"Sullivan County, New Hampshire(6)",131.5,113.3,152.0,2.0,10.0,42.0,0.8,0,1
+"Craven County, North Carolina(6)",131.4,118.6,145.4,5.0,84.0,86.0,0.0,0,1
+"Lafayette Parish, Louisiana(7)",131.4,122.5,140.8,7.0,38.0,170.0,-0.1,0,1
+"Mercer County, Pennsylvania(6)",131.4,119.7,144.0,2.0,59.0,107.0,-6.7,0,1
+"Atlantic County, New Jersey(7)",131.4,123.7,139.4,7.0,20.0,238.0,0.2,0,1
+"Butler County, Ohio(6)",131.4,124.5,138.5,5.0,53.0,288.0,0.5,0,1
+"Pike County, Ohio(6)",131.4,108.0,158.5,1.0,85.0,24.0,2.5,0,0
+"Tippah County, Mississippi(6)",131.4,104.8,162.9,1.0,72.0,18.0,2.9,0,0
+"Cedar County, Iowa(7)",131.3,103.1,165.5,3.0,92.0,16.0,0.7,0,0
+"Lehigh County, Pennsylvania(6)",131.2,124.4,138.3,8.0,50.0,298.0,0.2,0,1
+"Lewis and Clark County, Montana(6)",131.2,115.5,148.5,5.0,30.0,57.0,-0.2,0,1
+"Orleans Parish, Louisiana(7)",131.2,124.4,138.3,9.0,36.0,298.0,0.4,0,1
+"Jones County, Georgia(7)",131.2,108.0,158.1,2.0,130.0,24.0,2.2,0,0
+"Marinette County, Wisconsin(6)",131.2,112.8,152.1,2.0,64.0,42.0,0.3,0,0
+"Cumberland County, North Carolina(6)",131.2,123.4,139.3,15.0,74.0,220.0,0.7,0,1
+"Starr County, Texas(6)",131.1,113.2,151.0,1.0,120.0,39.0,25.1,0,0
+"Wayne County, Missouri(6)",131.1,100.2,169.9,2.0,103.0,14.0,0.2,0,0
+"Clermont County, Ohio(6)",131.1,122.0,140.7,3.0,61.0,165.0,0.1,0,1
+"Columbia County, Georgia(7)",131.1,120.0,143.0,10.0,101.0,107.0,-0.1,0,1
+"Fulton County, Georgia(7)",131.1,126.7,135.6,23.0,75.0,706.0,-0.1,0,1
+"Wilson County, North Carolina(6)",131.1,117.4,146.0,4.0,87.0,72.0,-0.1,0,1
+"Edwards County, Illinois(6)",131.1,87.9,190.4,1.0,100.0,6.0,-1.2,0,0
+"Lorain County, Ohio(6)",131.0,123.7,138.7,5.0,56.0,262.0,2.3,0,1
+"Pawnee County, Oklahoma(6)",131.0,101.0,167.7,2.0,66.0,14.0,2.1,0,0
+"Dare County, North Carolina(6)",131.0,110.5,154.7,1.0,95.0,33.0,-0.6,0,0
+"Knox County, Tennessee(6)",131.0,124.9,137.4,5.0,40.0,363.0,0.3,0,1
+"Warren County, Indiana(6)",131.0,93.0,181.5,1.0,90.0,8.0,-2.3,0,0
+"Ward County, North Dakota(6)",131.0,113.8,150.0,6.0,25.0,44.0,0.9,0,1
+"Mason County, Kentucky(7)",130.9,102.0,166.0,1.0,111.0,15.0,0.7,0,0
+"Otsego County, New York(7)",130.9,114.7,149.0,2.0,60.0,54.0,0.5,0,1
+"Canyon County, Idaho(7)",130.9,121.3,141.2,5.0,21.0,141.0,1.8,0,1
+"McClain County, Oklahoma(6)",130.9,110.0,154.8,2.0,56.0,29.0,-1.5,0,1
+"St. Johns County, Florida(6)",130.9,122.7,139.6,2.0,31.0,205.0,-1.2,0,1
+"Macon County, North Carolina(6)",130.9,110.9,154.0,1.0,94.0,38.0,0.0,0,0
+"Jefferson County, Missouri(6)",130.9,122.1,140.2,12.0,60.0,176.0,1.2,0,1
+"Cumberland County, Pennsylvania(6)",130.9,122.8,139.4,6.0,53.0,212.0,0.8,0,1
+"Chesterfield County, Virginia(6)",130.9,123.8,138.3,25.0,89.0,269.0,-0.1,0,1
+"St. Clair County, Illinois(6)",130.8,122.9,139.2,20.0,72.0,215.0,0.2,0,1
+"Washington County, Iowa(7)",130.8,104.3,162.3,3.0,90.0,19.0,0.6,0,0
+"Muscogee County, Georgia(7)",130.8,121.3,140.9,11.0,97.0,146.0,0.8,0,1
+"Rockwall County, Texas(6)",130.8,116.8,146.1,1.0,92.0,65.0,-0.1,0,0
+"York County, South Carolina(6)",130.8,122.6,139.4,5.0,36.0,197.0,0.8,0,1
+"Knott County, Kentucky(7)",130.7,100.1,168.4,1.0,113.0,13.0,3.5,0,0
+"Tama County, Iowa(7)",130.7,102.3,165.3,3.0,91.0,16.0,0.0,0,0
+"Indiana County, Pennsylvania(6)",130.7,116.3,146.5,1.0,63.0,69.0,-0.1,0,1
+"Mercer County, Kentucky(7)",130.6,104.9,161.3,1.0,109.0,19.0,1.4,0,0
+"Edmonson County, Kentucky(7)",130.6,96.8,173.5,1.0,114.0,11.0,0.1,0,0
+"Walker County, Texas(6)",130.6,112.1,151.4,1.0,130.0,39.0,1.9,0,0
+"Salem County, New Jersey(7)",130.6,115.0,147.8,1.0,21.0,56.0,0.1,0,1
+"Shelby County, Tennessee(6)",130.6,126.2,135.1,7.0,35.0,708.0,0.7,0,1
+"Florence County, South Carolina(6)",130.6,120.0,141.9,4.0,39.0,120.0,1.0,0,1
+"Plumas County, California(7)",130.5,102.2,165.3,1.0,54.0,20.0,-0.8,0,0
+"Essex County, New York(7)",130.5,110.9,153.1,1.0,61.0,37.0,0.0,0,0
+"Union County, South Dakota(6)",130.5,98.3,170.3,2.0,40.0,12.0,-0.4,0,0
+"Jackson County, Illinois(6)",130.5,112.1,151.0,5.0,89.0,40.0,1.0,0,0
+"Iron County, Missouri(6)",130.4,94.3,177.1,1.0,106.0,10.0,2.6,0,0
+"Racine County, Wisconsin(6)",130.4,121.3,140.1,9.0,54.0,162.0,-0.7,0,1
+"Gregg County, Texas(6)",130.4,118.6,143.1,2.0,91.0,95.0,-0.2,0,1
+"Marshall County, Tennessee(6)",130.4,108.2,156.0,1.0,83.0,26.0,0.5,0,0
+"Morrow County, Ohio(6)",130.4,109.6,154.2,1.0,84.0,30.0,0.8,0,0
+"Denver County, Colorado(6)",130.4,124.9,136.0,5.0,23.0,443.0,0.1,0,1
+"Scott County, Iowa(7)",130.3,120.4,140.9,16.0,67.0,136.0,-0.1,0,1
+"Glacier County, Montana(6)",130.3,93.6,176.4,2.0,39.0,9.0,-1.9,0,0
+"Itawamba County, Mississippi(6)",130.3,105.2,160.0,1.0,70.0,20.0,0.0,0,0
+"Lancaster County, Pennsylvania(6)",130.3,124.7,136.1,11.0,49.0,445.0,0.6,0,1
+"Fond du Lac County, Wisconsin(6)",130.3,117.8,143.8,6.0,59.0,87.0,0.6,0,1
+"Herkimer County, New York(7)",130.3,114.7,147.5,2.0,59.0,57.0,0.0,0,1
+"Monroe County, Pennsylvania(6)",130.2,120.5,140.6,4.0,57.0,143.0,0.3,0,1
+"Crenshaw County, Alabama(6)",130.2,99.2,168.8,2.0,66.0,13.0,1.1,0,0
+"Boone County, Indiana(6)",130.2,113.8,148.4,1.0,69.0,47.0,0.0,0,0
+"Washoe County, Nevada(6)",130.2,123.9,136.8,1.0,5.0,340.0,0.1,0,1
+"Marshall County, Kentucky(7)",130.2,108.9,154.8,2.0,102.0,30.0,0.6,0,0
+"Page County, Virginia(6)",130.2,106.2,158.4,3.0,121.0,23.0,2.3,0,0
+"Dauphin County, Pennsylvania(6)",130.2,122.5,138.2,7.0,54.0,232.0,0.0,0,1
+"Glenn County, California(7)",130.2,105.4,159.0,1.0,53.0,20.0,0.1,0,0
+"Washington County, Kentucky(7)",130.1,95.9,173.4,1.0,116.0,10.0,1.0,0,0
+"McDuffie County, Georgia(7)",130.1,103.6,161.6,2.0,138.0,18.0,-0.2,0,0
+"Howard County, Missouri(6)",130.1,90.8,181.1,1.0,109.0,8.0,1.3,0,0
+"Parker County, Texas(6)",130.1,118.6,142.4,3.0,87.0,100.0,0.6,0,1
+"Johnson County, Nebraska(6)",130.0,71.7,218.7,1.0,64.0,4.0,-0.5,0,0
+"Franklin County, Illinois(6)",130.0,110.7,152.1,5.0,91.0,36.0,0.6,0,0
+"Page County, Iowa(7)",130.0,101.4,165.6,3.0,91.0,16.0,-0.9,0,0
+"Napa County, California(7)",130.0,119.4,141.4,2.0,36.0,119.0,-1.0,0,1
+"Stafford County, Virginia(6)",130.0,117.9,142.9,15.0,102.0,91.0,0.6,0,1
+"Bertie County, North Carolina(6)",130.0,103.6,161.8,1.0,98.0,20.0,1.3,0,0
+"Blount County, Alabama(6)",130.0,113.7,148.0,4.0,53.0,50.0,2.5,0,1
+"Wayne County, Michigan(7)",129.9,126.8,133.1,6.0,27.0,1417.0,-0.1,0,1
+"Dorchester County, Maryland(6)",129.9,108.5,154.6,1.0,24.0,30.0,0.6,0,1
+"Autauga County, Alabama(6)",129.9,113.2,148.5,3.0,54.0,45.0,-7.5,0,1
+"Clinton County, Illinois(6)",129.9,109.4,153.3,5.0,92.0,31.0,1.7,0,0
+"Licking County, Ohio(6)",129.9,120.3,140.1,3.0,66.0,142.0,0.4,0,1
+"Maui County, Hawaii(7)",129.9,119.9,140.5,2.0,3.0,135.0,1.0,0,1
+"Fayette County, Ohio(6)",129.9,107.4,155.9,1.0,85.0,25.0,2.3,0,0
+"Yamhill County, Oregon(6)",129.8,117.1,143.6,2.0,24.0,82.0,-0.8,0,1
+"Amelia County, Virginia(6)",129.8,96.3,172.0,1.0,125.0,11.0,1.9,0,0
+"Sandoval County, New Mexico(7)",129.8,119.0,141.3,3.0,13.0,116.0,0.1,0,1
+"Middlesex County, New Jersey(7)",129.7,125.2,134.4,11.0,19.0,639.0,-0.1,0,1
+"Randolph County, Illinois(6)",129.7,106.6,156.6,3.0,95.0,26.0,0.7,0,0
+"Lake County, Florida(6)",129.7,123.1,136.7,2.0,27.0,341.0,2.5,0,1
+"Prince Georges County, Maryland(6)",129.7,125.3,134.3,7.0,21.0,686.0,0.5,0,1
+"Cheatham County, Tennessee(6)",129.7,109.9,152.3,1.0,79.0,32.0,0.5,0,0
+"Christian County, Missouri(6)",129.7,115.6,145.1,8.0,74.0,65.0,0.4,0,1
+"Bleckley County, Georgia(7)",129.6,94.6,173.8,1.0,146.0,10.0,0.6,0,0
+"Elbert County, Colorado(6)",129.6,103.8,160.5,1.0,41.0,21.0,-0.9,0,0
+"Winnebago County, Wisconsin(6)",129.6,119.5,140.4,8.0,57.0,130.0,0.0,0,1
+"Macomb County, Michigan(7)",129.6,125.3,134.0,6.0,30.0,733.0,-0.2,0,1
+"Geneva County, Alabama(6)",129.6,106.8,156.2,2.0,62.0,25.0,0.7,0,0
+"Champaign County, Illinois(6)",129.6,119.5,140.2,17.0,79.0,131.0,-0.3,0,1
+"York County, Virginia(6)",129.6,114.2,146.5,10.0,110.0,54.0,-0.1,0,1
+"York County, Pennsylvania(6)",129.5,123.5,135.8,12.0,51.0,367.0,0.3,0,1
+"Ventura County, California(7)",129.5,125.0,134.2,7.0,26.0,647.0,-0.2,0,1
+"DeKalb County, Illinois(6)",129.5,115.8,144.4,11.0,83.0,68.0,0.5,0,1
+"Essex County, Vermont(6)",129.5,82.6,196.5,1.0,14.0,6.0,-1.8,0,0
+"Lake County, South Dakota(6)",129.5,94.9,173.7,2.0,41.0,11.0,1.1,0,0
+"Fairfield County, Ohio(6)",129.5,119.0,140.7,2.0,68.0,118.0,-0.2,0,1
+"Contra Costa County, California(7)",129.4,125.6,133.3,7.0,25.0,904.0,-0.7,0,1
+"Erie County, Ohio(6)",129.4,115.5,144.7,1.0,75.0,71.0,-0.6,0,1
+"Loudoun County, Virginia(6)",129.4,121.9,137.2,25.0,94.0,238.0,-0.1,0,1
+"Chambers County, Alabama(6)",129.4,109.1,152.5,2.0,59.0,32.0,0.3,0,0
+"Sacramento County, California(7)",129.3,125.8,132.8,8.0,25.0,1110.0,-0.4,0,1
+"Allegany County, Maryland(6)",129.3,114.5,145.6,1.0,24.0,64.0,0.7,0,1
+"Okfuskee County, Oklahoma(6)",129.3,94.4,173.6,1.0,69.0,10.0,-1.9,0,0
+"Weston County, Wyoming(6)",129.2,84.3,191.3,1.0,22.0,6.0,0.3,0,0
+"Queen Annes County, Maryland(6)",129.2,111.3,149.3,1.0,24.0,41.0,0.7,0,1
+"Penobscot County, Maine(6)",129.2,118.9,140.1,1.0,13.0,129.0,-0.9,0,1
+"Troup County, Georgia(7)",129.2,113.8,146.1,6.0,118.0,53.0,0.2,0,0
+"Clay County, Illinois(6)",129.1,97.6,168.6,1.0,99.0,13.0,0.1,0,0
+"Cayuga County, New York(7)",129.1,114.6,145.0,3.0,59.0,66.0,-0.2,0,1
+"Holmes County, Mississippi(6)",129.1,98.0,166.7,1.0,76.0,13.0,1.7,0,0
+"Bradford County, Pennsylvania(6)",129.0,113.4,146.4,1.0,65.0,56.0,-0.2,0,1
+"Monroe County, Wisconsin(6)",129.0,110.0,150.6,2.0,66.0,35.0,-1.0,0,1
+"Delaware County, Iowa(7)",129.0,99.8,164.6,2.0,93.0,15.0,-0.3,0,0
+"Cattaraugus County, New York(7)",129.0,114.9,144.5,4.0,59.0,67.0,0.0,0,1
+"San Diego County, California(7)",129.0,126.6,131.4,9.0,24.0,2324.0,-0.4,0,1
+"Walsh County, North Dakota(6)",128.9,94.5,173.3,2.0,29.0,11.0,2.9,0,0
+"Macoupin County, Illinois(6)",128.9,111.1,149.0,7.0,91.0,42.0,1.0,0,1
+"Mariposa County, California(7)",128.9,100.4,164.1,1.0,54.0,18.0,-0.8,0,0
+"Columbia County, Pennsylvania(6)",128.9,113.6,145.9,2.0,64.0,57.0,-0.1,0,1
+"Henry County, Missouri(6)",128.9,103.3,159.4,3.0,99.0,20.0,1.6,0,0
+"Logan County, Illinois(6)",128.9,106.6,154.8,4.0,94.0,26.0,0.0,0,0
+"Sevier County, Tennessee(6)",128.9,116.6,142.2,2.0,65.0,88.0,1.6,0,1
+"Franklin County, Kentucky(7)",128.9,111.4,148.4,4.0,97.0,42.0,-0.7,0,0
+"Armstrong County, Pennsylvania(6)",128.8,114.4,144.8,2.0,65.0,65.0,1.4,0,1
+"Outagamie County, Wisconsin(6)",128.8,119.2,139.1,9.0,57.0,138.0,0.0,0,1
+"Eau Claire County, Wisconsin(6)",128.8,115.6,143.2,5.0,61.0,74.0,1.4,0,1
+"Clay County, Arkansas(6)",128.8,98.0,166.7,1.0,72.0,14.0,1.7,0,0
+"Powell County, Kentucky(7)",128.8,94.1,172.6,1.0,117.0,10.0,0.0,0,0
+"Beaverhead County, Montana(6)",128.8,90.1,180.1,2.0,40.0,8.0,-0.8,0,0
+"Fulton County, Ohio(6)",128.7,109.4,150.7,1.0,83.0,34.0,8.1,0,0
+"Calvert County, Maryland(6)",128.7,115.3,143.3,2.0,24.0,72.0,-9.5,0,1
+"El Dorado County, California(7)",128.7,119.7,138.3,4.0,35.0,170.0,-1.6,0,1
+"Comal County, Texas(6)",128.7,117.6,140.6,2.0,83.0,109.0,0.3,0,1
+"Amador County, California(7)",128.7,108.9,151.6,1.0,51.0,39.0,-0.8,0,1
+"Rowan County, North Carolina(6)",128.7,118.1,140.0,13.0,83.0,117.0,4.6,0,1
+"Catawba County, North Carolina(6)",128.7,118.7,139.2,13.0,84.0,133.0,0.3,0,1
+"Turner County, Georgia(7)",128.7,87.4,183.6,1.0,148.0,7.0,1.8,0,0
+"Jefferson County, Tennessee(6)",128.6,111.9,147.4,1.0,74.0,48.0,2.1,0,0
+"Monroe County, West Virginia(6)",128.6,96.2,169.4,1.0,52.0,13.0,1.7,0,0
+"Grant County, Arkansas(6)",128.6,100.5,162.7,1.0,71.0,15.0,1.6,0,0
+"Portage County, Ohio(6)",128.6,118.5,139.4,3.0,68.0,127.0,0.8,0,1
+"Thomas County, Georgia(7)",128.6,110.5,149.0,5.0,125.0,39.0,1.4,0,0
+"Sumter County, South Carolina(6)",128.6,116.2,141.9,3.0,42.0,85.0,0.6,0,1
+"Tompkins County, New York(7)",128.6,114.7,143.6,6.0,59.0,68.0,0.0,0,1
+"Dodge County, Nebraska(6)",128.5,107.8,152.2,7.0,52.0,31.0,-0.5,0,1
+"Dale County, Alabama(6)",128.5,110.5,148.7,3.0,58.0,39.0,2.1,0,1
+"Fayette County, Pennsylvania(6)",128.5,118.0,139.7,5.0,60.0,127.0,1.2,0,1
+"Craighead County, Arkansas(6)",128.5,115.4,142.8,3.0,46.0,73.0,-0.7,0,1
+"Nowata County, Oklahoma(6)",128.5,93.4,173.8,1.0,70.0,10.0,0.0,0,0
+"Beaufort County, South Carolina(6)",128.5,119.2,138.4,6.0,40.0,177.0,0.0,0,1
+"Davidson County, North Carolina(6)",128.5,118.9,138.6,17.0,82.0,143.0,1.5,0,1
+"Juneau County, Wisconsin(6)",128.4,103.1,158.3,1.0,68.0,21.0,1.7,0,0
+"Chatham County, Georgia(7)",128.4,120.5,136.6,18.0,96.0,213.0,-0.1,0,1
+"Middlesex County, Virginia(6)",128.4,92.5,175.7,1.0,126.0,12.0,1.8,0,0
+"Powhatan County, Virginia(6)",128.4,105.5,155.2,4.0,120.0,24.0,2.1,0,0
+"Bullitt County, Kentucky(7)",128.3,114.1,144.0,7.0,91.0,61.0,-0.1,0,1
+"Kenosha County, Wisconsin(6)",128.3,118.2,139.1,8.0,58.0,125.0,0.7,0,1
+"Dunn County, Wisconsin(6)",128.3,107.8,151.6,2.0,66.0,30.0,1.2,0,0
+"Hancock County, Illinois(6)",128.3,100.9,161.5,2.0,98.0,18.0,-0.3,0,0
+"Camden County, Georgia(7)",128.2,108.7,150.3,4.0,130.0,33.0,1.2,0,0
+"Lee County, North Carolina(6)",128.2,112.0,146.2,3.0,93.0,48.0,0.0,0,0
+"Baxter County, Arkansas(6)",128.2,110.4,148.5,2.0,56.0,49.0,0.7,0,1
+"Evans County, Georgia(7)",128.2,90.4,176.5,1.0,147.0,8.0,0.5,0,0
+"Baldwin County, Alabama(6)",128.1,119.6,137.2,8.0,42.0,183.0,0.8,0,1
+"Scott County, Missouri(6)",128.1,108.7,150.3,5.0,90.0,33.0,0.6,0,0
+"Jefferson County, Montana(6)",128.1,94.2,172.2,2.0,39.0,11.0,2.1,0,0
+"Cowlitz County, Washington(6)",128.1,116.0,141.3,3.0,31.0,90.0,-0.7,0,1
+"Augusta County, Virginia(6)",128.1,114.0,143.6,11.0,110.0,66.0,0.9,0,1
+"Webster Parish, Louisiana(7)",128.0,109.2,149.4,3.0,57.0,36.0,0.6,0,1
+"Macon County, Alabama(6)",128.0,99.8,162.0,2.0,64.0,16.0,3.0,0,0
+"Grimes County, Texas(6)",128.0,102.2,158.4,1.0,168.0,19.0,2.8,0,0
+"Stephens County, Oklahoma(6)",128.0,109.7,148.6,3.0,56.0,39.0,-0.6,0,1
+"Woodbury County, Iowa(7)",128.0,114.9,142.1,14.0,75.0,75.0,10.4,0,1
+"Rockingham County, Virginia(6)",127.9,114.0,143.2,14.0,109.0,67.0,1.4,0,1
+"Cascade County, Montana(6)",127.9,113.7,143.4,6.0,30.0,66.0,0.9,0,1
+"Pickaway County, Ohio(6)",127.9,111.0,146.7,1.0,80.0,43.0,0.1,0,0
+"Bourbon County, Kentucky(7)",127.8,102.3,158.4,1.0,110.0,18.0,-1.4,0,0
+"Effingham County, Illinois(6)",127.8,106.8,151.9,4.0,93.0,29.0,-0.4,0,0
+"Madison County, Georgia(7)",127.8,104.8,154.5,3.0,137.0,23.0,0.6,0,0
+"Gaston County, North Carolina(6)",127.8,119.3,136.7,18.0,80.0,177.0,0.7,0,1
+"Amite County, Mississippi(6)",127.8,93.6,171.0,1.0,77.0,12.0,0.7,0,0
+"Gilmer County, West Virginia(6)",127.7,84.1,188.6,1.0,55.0,6.0,0.3,0,0
+"Garvin County, Oklahoma(6)",127.7,103.8,155.5,2.0,62.0,22.0,-0.7,0,0
+"Marion County, Indiana(6)",127.7,123.2,132.2,14.0,45.0,660.0,-3.3,0,1
+"Bartholomew County, Indiana(6)",127.6,113.6,143.0,3.0,68.0,63.0,1.1,0,1
+"Story County, Iowa(7)",127.6,112.3,144.5,10.0,78.0,54.0,-0.1,0,1
+"Fleming County, Kentucky(7)",127.6,96.2,166.5,1.0,114.0,12.0,1.4,0,0
+"Botetourt County, Virginia(6)",127.6,107.3,151.1,6.0,118.0,32.0,1.3,0,0
+"Wayne County, North Carolina(6)",127.6,116.3,139.8,11.0,87.0,99.0,0.5,0,1
+"St. Louis City, Missouri(6)",127.6,120.0,135.6,19.0,62.0,225.0,-0.3,0,1
+"Jefferson County, Wisconsin(6)",127.6,113.7,142.8,6.0,63.0,66.0,0.8,0,1
+"Clark County, Indiana(6)",127.5,115.9,140.0,6.0,63.0,93.0,0.1,0,1
+"Upson County, Georgia(7)",127.5,104.3,154.6,3.0,136.0,23.0,1.0,0,0
+"Vernon County, Wisconsin(6)",127.5,104.0,154.8,2.0,68.0,24.0,-1.3,0,0
+"Clayton County, Georgia(7)",127.5,118.8,136.7,17.0,102.0,174.0,0.7,0,1
+"Power County, Idaho(7)",127.5,81.2,190.5,1.0,37.0,5.0,3.8,0,0
+"Tioga County, Pennsylvania(6)",127.4,108.9,148.5,1.0,67.0,38.0,-1.3,0,1
+"Montour County, Pennsylvania(6)",127.4,100.4,160.1,1.0,67.0,18.0,-0.3,0,0
+"Canadian County, Oklahoma(6)",127.4,115.8,139.9,5.0,44.0,91.0,-1.2,0,1
+"Greene County, Virginia(6)",127.4,99.4,161.1,3.0,123.0,15.0,3.1,0,0
+"Walla Walla County, Washington(6)",127.3,110.5,146.1,1.0,34.0,47.0,-1.6,0,1
+"Marion County, West Virginia(6)",127.3,110.9,145.6,1.0,41.0,48.0,1.6,0,1
+"Caroline County, Maryland(6)",127.3,105.9,151.8,1.0,24.0,27.0,-1.4,0,1
+"Sonoma County, California(7)",127.2,121.7,133.0,7.0,30.0,438.0,-1.1,0,1
+"De Soto Parish, Louisiana(7)",127.2,104.8,153.4,2.0,59.0,24.0,-0.4,0,0
+"Gwinnett County, Georgia(7)",127.2,122.4,132.1,31.0,88.0,568.0,0.1,0,1
+"Dubois County, Indiana(6)",127.2,107.6,149.4,1.0,80.0,33.0,1.1,0,0
+"Brooke County, West Virginia(6)",127.2,103.4,155.5,1.0,48.0,23.0,0.5,0,0
+"Collin County, Texas(6)",127.2,122.6,131.9,9.0,54.0,605.0,-0.8,0,1
+"Montgomery County, Indiana(6)",127.2,107.2,150.0,1.0,80.0,31.0,0.5,0,0
+"Lincoln County, Missouri(6)",127.2,109.4,147.1,6.0,85.0,38.0,1.2,0,1
+"Converse County, Wyoming(6)",127.1,95.1,167.1,1.0,20.0,11.0,0.6,0,0
+"Caswell County, North Carolina(6)",127.1,102.1,157.0,1.0,98.0,21.0,0.7,0,0
+"Brown County, Wisconsin(6)",127.1,118.9,135.8,13.0,55.0,189.0,-0.4,0,1
+"Rutherford County, Tennessee(6)",127.1,118.9,135.7,6.0,53.0,186.0,0.4,0,1
+"Hardin County, Ohio(6)",127.1,104.2,153.6,1.0,85.0,23.0,2.1,0,0
+"Pottawatomie County, Oklahoma(6)",127.1,112.5,143.0,4.0,49.0,58.0,0.8,0,1
+"Sullivan County, Tennessee(6)",127.0,117.7,137.0,6.0,58.0,151.0,0.5,0,1
+"Anderson County, South Carolina(6)",127.0,118.2,136.4,7.0,40.0,165.0,0.2,0,1
+"Pinellas County, Florida(6)",127.0,123.1,131.0,4.0,24.0,956.0,0.1,0,1
+"Jenkins County, Georgia(7)",127.0,86.7,180.7,1.0,147.0,7.0,3.7,0,0
+"Denton County, Texas(6)",127.0,121.8,132.3,8.0,56.0,488.0,-0.2,0,1
+"Irwin County, Georgia(7)",127.0,86.6,180.3,1.0,149.0,7.0,0.0,0,0
+"Cleveland County, North Carolina(6)",127.0,115.0,140.0,11.0,89.0,88.0,0.8,0,1
+"White County, Georgia(7)",126.9,105.6,151.8,4.0,132.0,28.0,-0.2,0,0
+"Montgomery County, Maryland(6)",126.9,122.9,131.0,10.0,23.0,808.0,-0.8,0,1
+"Polk County, Georgia(7)",126.9,107.5,148.9,3.0,129.0,32.0,0.8,0,0
+"Randolph County, North Carolina(6)",126.9,116.7,137.8,16.0,84.0,121.0,0.9,0,1
+"San Juan County, Washington(7)",126.9,98.4,162.8,1.0,37.0,19.0,-0.4,0,0
+"Hart County, Georgia(7)",126.9,103.4,154.5,2.0,136.0,23.0,12.5,0,0
+"Wayne County, Ohio(6)",126.9,115.0,139.6,3.0,75.0,92.0,1.2,0,1
+"Fremont County, Colorado(6)",126.8,107.7,148.7,1.0,38.0,39.0,1.1,0,1
+"Pike County, Missouri(6)",126.8,96.7,163.7,3.0,105.0,14.0,12.5,0,0
+"Warren County, Virginia(6)",126.8,107.3,149.0,7.0,118.0,32.0,0.0,0,0
+"Addison County, Vermont(6)",126.8,107.1,149.4,2.0,14.0,32.0,0.0,0,1
+"Wapello County, Iowa(7)",126.8,106.1,150.5,6.0,87.0,29.0,-0.4,0,1
+"Escambia County, Alabama(6)",126.8,106.7,149.7,3.0,61.0,31.0,-0.2,0,1
+"Keokuk County, Iowa(7)",126.8,87.9,177.4,2.0,97.0,9.0,1.5,0,0
+"Polk County, Florida(6)",126.7,121.8,131.8,3.0,28.0,561.0,-3.8,0,1
+"Clay County, South Dakota(6)",126.7,88.7,175.5,2.0,41.0,8.0,3.0,0,0
+"Burnett County, Wisconsin(6)",126.7,97.3,163.7,1.0,69.0,16.0,0.8,0,0
+"Pennington County, South Dakota(6)",126.7,114.1,140.2,10.0,33.0,83.0,-1.0,0,1
+"Davidson County, Tennessee(6)",126.7,121.4,132.1,10.0,46.0,461.0,0.2,0,1
+"Miller County, Georgia(7)",126.6,79.8,192.6,1.0,150.0,5.0,-0.5,0,0
+"Solano County, California(7)",126.6,120.4,133.1,8.0,32.0,333.0,-0.4,0,1
+"Washington County, Mississippi(6)",126.6,108.6,146.8,2.0,68.0,38.0,1.9,0,0
+"Barrow County, Georgia(7)",126.6,111.5,143.2,9.0,121.0,52.0,0.0,0,1
+"Gibson County, Indiana(6)",126.5,105.3,151.0,1.0,82.0,27.0,0.8,0,0
+"Vigo County, Indiana(6)",126.5,113.9,140.1,4.0,68.0,81.0,-0.5,0,1
+"Jackson Parish, Louisiana(7)",126.5,96.9,162.9,1.0,62.0,14.0,0.7,0,0
+"Greene County, Indiana(6)",126.4,106.1,149.9,1.0,81.0,29.0,2.6,0,0
+"Culpeper County, Virginia(6)",126.4,108.3,146.6,9.0,117.0,37.0,0.1,0,1
+"Jefferson County, Arkansas(6)",126.4,111.6,142.6,3.0,54.0,58.0,0.3,0,1
+"Wayne County, West Virginia(6)",126.3,107.3,148.0,1.0,45.0,34.0,4.9,0,0
+"Greene County, Ohio(6)",126.3,116.6,136.7,6.0,70.0,134.0,-0.7,0,1
+"Columbia County, Florida(6)",126.3,111.3,143.0,2.0,51.0,57.0,2.2,0,1
+"Plaquemines Parish, Louisiana(7)",126.3,99.8,157.9,2.0,62.0,16.0,0.9,0,0
+"Hardin County, Kentucky(7)",126.3,113.7,139.9,11.0,87.0,77.0,0.0,0,1
+"Williamsburg County, South Carolina(6)",126.2,105.2,150.5,1.0,45.0,29.0,-0.7,0,1
+"Stewart County, Tennessee(6)",126.2,93.9,166.9,1.0,94.0,12.0,1.6,0,0
+"Jasper County, South Carolina(6)",126.2,102.5,154.0,1.0,45.0,23.0,2.9,0,0
+"Park County, Wyoming(6)",126.2,102.9,153.4,1.0,18.0,24.0,0.3,0,1
+"Anderson County, Tennessee(6)",126.2,112.5,141.1,3.0,74.0,70.0,0.5,0,1
+"Bell County, Texas(6)",126.2,118.2,134.5,5.0,73.0,194.0,0.3,0,1
+"Miller County, Missouri(6)",126.2,102.5,154.0,4.0,97.0,21.0,2.5,0,0
+"Oneida County, New York(7)",126.1,117.8,134.9,21.0,56.0,192.0,-0.2,0,1
+"Arlington County, Virginia(6)",126.1,116.6,136.2,28.0,103.0,137.0,-0.9,0,1
+"Barron County, Wisconsin(6)",126.1,108.2,146.4,3.0,66.0,41.0,1.2,0,1
+"Broomfield County, Colorado(6)",126.1,110.3,143.7,3.0,36.0,47.0,1.0,0,1
+"Jefferson County, New York(7)",126.1,113.2,140.1,7.0,60.0,73.0,0.4,0,1
+"Grays Harbor County, Washington(7)",126.1,111.9,141.7,2.0,33.0,66.0,-0.5,0,1
+"Cecil County, Maryland(6)",126.0,113.3,139.8,3.0,24.0,77.0,1.3,0,1
+"Jefferson County, Ohio(6)",126.0,111.2,142.4,2.0,79.0,61.0,0.0,0,1
+"Jasper County, Missouri(6)",126.0,114.1,138.8,13.0,74.0,87.0,0.2,0,1
+"Bedford City and County, Virginia(6)",126.0,112.8,140.5,18.0,111.0,73.0,-0.4,0,1
+"Audrain County, Missouri(6)",126.0,102.5,153.4,4.0,98.0,21.0,-0.8,0,0
+"Hand County, South Dakota(6)",126.0,66.1,224.3,1.0,42.0,3.0,5.6,0,0
+"Venango County, Pennsylvania(6)",126.0,109.1,144.9,1.0,66.0,48.0,0.3,0,1
+"Luzerne County, Pennsylvania(6)",126.0,119.0,133.3,14.0,58.0,276.0,0.5,0,1
+"Henry County, Ohio(6)",125.9,102.8,152.9,1.0,87.0,22.0,2.4,0,0
+"Vanderburgh County, Indiana(6)",125.9,116.5,135.9,8.0,61.0,145.0,0.3,0,1
+"Hinds County, Mississippi(6)",125.9,117.5,134.7,9.0,49.0,178.0,5.1,0,1
+"Warren County, New Jersey(7)",125.9,114.2,138.6,6.0,21.0,92.0,-0.7,0,1
+"La Plata County, Colorado(6)",125.9,108.8,145.0,2.0,37.0,43.0,-0.3,0,1
+"Chippewa County, Wisconsin(6)",125.9,110.1,143.4,5.0,66.0,50.0,0.1,0,1
+"Allen County, Kentucky(7)",125.8,100.2,156.5,1.0,112.0,17.0,1.9,0,0
+"Polk County, Iowa(7)",125.8,119.6,132.3,28.0,66.0,319.0,-0.3,0,1
+"Choctaw County, Alabama(6)",125.8,94.6,165.0,2.0,66.0,13.0,3.6,0,0
+"Kennebec County, Maine(6)",125.8,114.6,137.8,2.0,14.0,105.0,-0.8,0,1
+"Crawford County, Pennsylvania(6)",125.8,112.8,139.9,5.0,65.0,76.0,0.7,0,1
+"Trempealeau County, Wisconsin(6)",125.8,103.2,152.0,2.0,68.0,23.0,0.7,0,0
+"Orange County, California(7)",125.8,123.4,128.1,13.0,28.0,2301.0,0.1,0,1
+"Door County, Wisconsin(6)",125.7,103.5,152.0,2.0,68.0,30.0,-2.1,0,0
+"Lowndes County, Mississippi(6)",125.7,109.4,143.8,4.0,64.0,46.0,1.1,0,1
+"Wayne County, Georgia(7)",125.7,102.6,152.6,3.0,135.0,22.0,-1.3,0,0
+"Richmond City, Virginia(6)",125.7,116.6,135.3,28.0,103.0,152.0,-0.6,0,1
+"Dawson County, Nebraska(6)",125.7,99.8,156.3,6.0,56.0,18.0,-0.2,0,1
+"Randolph County, Missouri(6)",125.6,101.5,154.3,3.0,99.0,20.0,0.7,0,0
+"Stark County, Ohio(6)",125.6,119.3,132.2,13.0,63.0,326.0,1.1,0,1
+"Johnson County, Indiana(6)",125.6,115.1,136.8,6.0,64.0,110.0,0.6,0,1
+"Fisher County, Texas(6)",125.6,70.2,211.7,1.0,197.0,4.0,6.3,0,0
+"Oxford County, Maine(6)",125.6,110.4,142.5,1.0,15.0,56.0,-0.1,0,1
+"White County, Tennessee(6)",125.6,102.6,152.4,1.0,88.0,23.0,0.4,0,0
+"Perry County, Ohio(6)",125.5,104.8,149.3,1.0,85.0,27.0,1.4,0,0
+"Elmore County, Alabama(6)",125.5,111.7,140.6,6.0,54.0,62.0,0.0,0,1
+"Alamosa County, Colorado(6)",125.5,92.4,166.5,1.0,47.0,10.0,1.8,0,0
+"Rusk County, Texas(6)",125.5,107.8,145.3,1.0,135.0,39.0,0.8,0,0
+"Campbell County, Kentucky(7)",125.5,112.4,139.8,9.0,90.0,71.0,-0.1,0,1
+"St. Marys County, Maryland(6)",125.4,113.0,139.0,3.0,24.0,77.0,1.2,0,1
+"Berks County, Pennsylvania(6)",125.4,119.3,131.9,16.0,57.0,330.0,0.1,0,1
+"Colleton County, South Carolina(6)",125.4,106.3,147.2,2.0,45.0,34.0,0.1,0,1
+"Wilbarger County, Texas(6)",125.4,91.2,168.4,1.0,184.0,10.0,-1.1,1,1
+"Madison County, Indiana(6)",125.4,114.4,137.2,6.0,66.0,105.0,0.5,0,1
+"Hawaii County, Hawaii(7)",125.4,116.4,134.9,2.0,3.0,165.0,-0.4,0,1
+"Carroll County, Kentucky(7)",125.3,88.6,172.7,1.0,118.0,8.0,-0.6,0,0
+"Hall County, Georgia(7)",125.3,115.9,135.2,20.0,110.0,137.0,-0.4,0,1
+"Rhea County, Tennessee(6)",125.2,103.8,150.0,1.0,85.0,26.0,5.8,0,0
+"Russell County, Kentucky(7)",125.2,98.1,158.2,1.0,114.0,16.0,2.4,0,0
+"Lowndes County, Georgia(7)",125.2,112.1,139.3,13.0,117.0,69.0,0.8,0,1
+"Bureau County, Illinois(6)",125.2,105.0,148.4,5.0,93.0,30.0,-0.3,0,0
+"Butler County, Kentucky(7)",125.1,92.3,166.6,1.0,116.0,10.0,0.9,0,0
+"Baltimore City, Maryland(6)",125.1,119.9,130.6,10.0,23.0,458.0,0.5,0,1
+"Caddo Parish, Louisiana(7)",125.1,117.2,133.5,12.0,45.0,201.0,0.0,0,1
+"Wetzel County, West Virginia(6)",125.1,95.2,162.2,1.0,52.0,14.0,0.8,0,0
+"Henry County, Illinois(6)",125.1,107.9,144.4,11.0,92.0,43.0,-0.1,0,1
+"Lee County, Illinois(6)",125.0,104.0,149.3,5.0,95.0,28.0,-0.7,0,0
+"Winneshiek County, Iowa(7)",125.0,97.3,158.6,4.0,93.0,16.0,0.5,0,0
+"Marion County, Ohio(6)",125.0,109.3,142.5,1.0,82.0,50.0,0.5,0,0
+"Christian County, Illinois(6)",125.0,104.5,148.6,5.0,95.0,29.0,-1.2,0,0
+"Macon County, Georgia(7)",125.0,89.6,170.1,1.0,147.0,9.0,-1.0,0,0
+"Fillmore County, Nebraska(6)",125.0,77.7,193.6,1.0,64.0,5.0,-1.6,0,0
+"Beckham County, Oklahoma(6)",124.9,97.4,157.9,2.0,67.0,15.0,-0.9,0,0
+"Gilmer County, Georgia(7)",124.9,103.4,150.1,4.0,134.0,28.0,1.1,0,0
+"Pottawattamie County, Iowa(7)",124.9,112.1,138.8,16.0,78.0,76.0,8.7,0,1
+"Marshall County, Mississippi(6)",124.8,104.2,148.5,2.0,70.0,28.0,2.7,0,0
+"Lamar County, Georgia(7)",124.8,95.9,159.9,2.0,144.0,14.0,-0.4,0,0
+"Forsyth County, Georgia(7)",124.8,115.6,134.5,19.0,109.0,142.0,-0.1,0,1
+"Childress County, Texas(6)",124.8,76.0,194.2,1.0,197.0,4.0,32.2,0,0
+"Hamilton County, Iowa(7)",124.8,93.9,163.0,4.0,95.0,13.0,-0.6,0,0
+"Catahoula Parish, Louisiana(7)",124.8,87.8,173.2,1.0,63.0,8.0,0.5,0,0
+"Colquitt County, Georgia(7)",124.7,106.1,145.8,5.0,131.0,33.0,0.7,0,0
+"Heard County, Georgia(7)",124.7,91.4,167.3,1.0,145.0,10.0,0.4,0,0
+"Silver Bow County, Montana(6)",124.7,103.3,149.4,4.0,35.0,27.0,14.6,0,0
+"Martin County, Florida(6)",124.7,115.0,135.1,2.0,45.0,165.0,-9.0,0,1
+"Moore County, North Carolina(6)",124.7,112.5,137.9,13.0,91.0,91.0,-1.0,0,1
+"Warren County, Kentucky(7)",124.7,112.6,137.7,10.0,90.0,82.0,-0.8,0,1
+"Pike County, Alabama(6)",124.7,102.0,151.0,3.0,63.0,23.0,1.7,0,0
+"Tuscaloosa County, Alabama(6)",124.7,115.2,134.7,9.0,48.0,135.0,-7.2,0,1
+"Putnam County, Illinois(6)",124.6,80.9,187.9,1.0,100.0,6.0,0.8,0,0
+"Pocahontas County, Iowa(7)",124.6,82.2,183.4,1.0,98.0,7.0,0.6,0,0
+"Caldwell County, North Carolina(6)",124.6,111.6,138.8,13.0,90.0,73.0,0.3,0,1
+"Monroe County, Iowa(7)",124.6,82.9,180.8,1.0,98.0,6.0,1.0,0,0
+"El Paso County, Colorado(6)",124.5,119.3,130.0,10.0,28.0,445.0,0.2,0,1
+"Edgecombe County, North Carolina(6)",124.5,108.4,142.5,6.0,94.0,48.0,-0.2,0,1
+"Jersey County, Illinois(6)",124.5,99.5,154.3,4.0,98.0,19.0,1.3,0,0
+"Carroll County, Iowa(7)",124.5,97.6,156.7,4.0,94.0,17.0,-0.6,0,0
+"Klickitat County, Washington(6)",124.4,98.4,155.9,1.0,37.0,19.0,0.1,0,0
+"Passaic County, New Jersey(7)",124.4,118.7,130.4,13.0,20.0,367.0,1.1,0,1
+"Baldwin County, Georgia(7)",124.4,105.0,146.5,6.0,133.0,31.0,-0.3,0,0
+"Hillsborough County, Florida(6)",124.4,120.8,128.0,6.0,30.0,970.0,0.0,0,1
+"Adams County, Pennsylvania(6)",124.4,112.4,137.4,6.0,65.0,87.0,0.0,0,1
+"Porter County, Indiana(6)",124.4,114.7,134.6,10.0,65.0,132.0,0.1,0,1
+"Franklin County, Idaho(7)",124.4,89.5,168.6,1.0,37.0,9.0,-0.2,0,0
+"San Francisco County, California(7)",124.3,119.8,129.0,11.0,32.0,606.0,-0.2,0,1
+"Forest County, Wisconsin(6)",124.3,85.2,176.4,1.0,70.0,8.0,1.7,0,0
+"Rutland County, Vermont(6)",124.3,109.3,141.0,3.0,13.0,57.0,0.5,0,1
+"Dickson County, Tennessee(6)",124.3,107.3,143.4,2.0,81.0,40.0,0.6,0,0
+"Monroe County, Illinois(6)",124.2,103.9,147.7,6.0,95.0,28.0,0.3,0,0
+"Calhoun County, Iowa(7)",124.2,86.1,174.7,2.0,98.0,8.0,-0.2,0,0
+"Jackson County, Wisconsin(6)",124.2,96.9,157.3,1.0,69.0,16.0,-0.8,0,0
+"Dawson County, Montana(6)",124.2,84.9,176.3,2.0,40.0,8.0,-3.4,0,0
+"Washington County, Tennessee(6)",124.2,113.1,136.1,5.0,68.0,100.0,0.4,0,1
+"Stephenson County, Illinois(6)",124.2,106.7,143.8,9.0,94.0,42.0,0.2,0,1
+"Oconee County, South Carolina(6)",124.1,110.5,139.1,4.0,45.0,71.0,0.3,0,1
+"Ottawa County, Ohio(6)",124.1,106.8,143.9,1.0,83.0,42.0,-0.4,0,0
+"Susquehanna County, Pennsylvania(6)",124.1,106.0,144.8,1.0,67.0,39.0,1.4,0,0
+"Davis County, Utah(7)",124.1,116.0,132.6,2.0,13.0,179.0,0.6,0,1
+"Benton County, Arkansas(6)",124.0,115.7,132.7,6.0,45.0,171.0,0.8,0,1
+"Pondera County, Montana(6)",124.0,76.9,190.4,1.0,40.0,5.0,0.1,0,0
+"Sussex County, Delaware(6)",124.0,115.9,132.6,2.0,3.0,219.0,-9.3,0,1
+"Chattooga County, Georgia(7)",123.9,99.5,152.9,3.0,140.0,19.0,1.8,0,0
+"Waldo County, Maine(6)",123.9,105.3,145.2,1.0,16.0,36.0,-0.3,0,1
+"Yancey County, North Carolina(6)",123.9,96.6,157.4,1.0,100.0,17.0,0.5,0,0
+"Talbot County, Georgia(7)",123.9,82.1,182.9,1.0,149.0,6.0,-0.1,0,0
+"Berkeley County, South Carolina(6)",123.9,114.6,133.7,8.0,43.0,140.0,0.5,0,1
+"Kewaunee County, Wisconsin(6)",123.8,96.7,156.7,2.0,69.0,16.0,20.9,0,0
+"Yates County, New York(7)",123.8,99.3,152.8,1.0,62.0,20.0,-1.2,0,0
+"Lancaster County, Nebraska(6)",123.8,116.0,132.0,19.0,43.0,200.0,-1.1,0,1
+"Whitley County, Indiana(6)",123.8,103.3,147.5,1.0,83.0,28.0,-0.5,0,0
+"Rock Island County, Illinois(6)",123.8,113.5,134.8,26.0,86.0,118.0,-0.4,0,1
+"Sarasota County, Florida(6)",123.8,117.9,130.0,4.0,37.0,479.0,0.5,0,1
+"Wood County, Ohio(6)",123.8,112.3,136.2,6.0,79.0,91.0,0.3,0,1
+"Marion County, Florida(6)",123.8,117.4,130.4,4.0,39.0,363.0,0.1,0,1
+"Conway County, Arkansas(6)",123.8,97.5,155.2,2.0,72.0,17.0,-1.7,0,0
+"Habersham County, Georgia(7)",123.7,105.7,144.2,6.0,130.0,35.0,-0.5,0,0
+"Decatur County, Georgia(7)",123.7,100.4,151.0,3.0,140.0,21.0,0.7,0,0
+"Philadelphia County, Pennsylvania(6)",123.7,120.4,127.1,28.0,55.0,1117.0,-0.3,0,1
+"Spencer County, Kentucky(7)",123.7,95.0,158.9,1.0,114.0,14.0,0.1,0,0
+"Langlade County, Wisconsin(6)",123.7,97.3,155.8,2.0,69.0,18.0,2.0,0,0
+"Carbon County, Montana(6)",123.7,89.5,168.8,2.0,39.0,10.0,1.4,0,0
+"Meigs County, Ohio(6)",123.7,99.1,152.9,1.0,87.0,19.0,1.4,0,0
+"Mingo County, West Virginia(6)",123.6,99.7,151.9,1.0,50.0,20.0,1.5,0,0
+"Platte County, Wyoming(6)",123.6,83.9,177.0,1.0,22.0,8.0,0.3,0,0
+"Spencer County, Indiana(6)",123.6,98.1,154.3,1.0,88.0,18.0,1.2,0,0
+"Surry County, North Carolina(6)",123.6,110.5,138.0,12.0,93.0,69.0,0.8,0,1
+"Lake County, Indiana(6)",123.6,117.9,129.4,17.0,56.0,387.0,0.4,0,1
+"Roanoke City, Virginia(6)",123.5,111.3,136.8,22.0,112.0,81.0,-0.3,1,1
+"Louisa County, Virginia(6)",123.5,103.3,146.9,9.0,119.0,29.0,1.5,0,0
+"Blount County, Tennessee(6)",123.5,112.9,134.9,6.0,70.0,109.0,0.8,0,1
+"Lucas County, Ohio(6)",123.5,117.4,129.8,18.0,67.0,334.0,0.3,0,1
+"Lawrence County, South Dakota(6)",123.5,98.8,152.8,5.0,39.0,21.0,0.7,0,1
+"Sabine Parish, Louisiana(7)",123.5,98.7,152.8,2.0,61.0,19.0,-0.6,0,0
+"Clay County, Indiana(6)",123.5,100.2,150.7,1.0,87.0,21.0,0.1,0,0
+"Ransom County, North Dakota(6)",123.5,74.8,194.5,1.0,30.0,5.0,0.1,0,0
+"Carroll County, Arkansas(6)",123.5,102.7,147.8,2.0,67.0,28.0,1.7,0,0
+"Hancock County, West Virginia(6)",123.4,102.5,147.8,1.0,48.0,28.0,-0.3,0,1
+"Effingham County, Georgia(7)",123.4,105.8,143.0,9.0,129.0,37.0,-0.6,0,1
+"Seminole County, Florida(6)",123.3,117.5,129.5,5.0,38.0,346.0,0.1,0,1
+"Gallatin County, Kentucky(7)",123.3,82.0,178.7,1.0,118.0,6.0,0.2,0,0
+"Elk County, Pennsylvania(6)",123.3,102.4,147.8,1.0,67.0,29.0,1.7,0,0
+"Preble County, Ohio(6)",123.3,104.9,144.3,1.0,85.0,35.0,-0.9,0,0
+"Fairfax County, Virginia(6)",123.3,119.4,127.3,53.0,95.0,798.0,-0.6,1,1
+"Berkeley County, West Virginia(6)",123.3,111.2,136.4,3.0,39.0,80.0,0.3,0,1
+"Massac County, Illinois(6)",123.3,92.8,161.1,2.0,99.0,12.0,1.3,0,0
+"Glynn County, Georgia(7)",123.3,110.1,137.6,13.0,123.0,71.0,-0.6,0,1
+"Jasper County, Iowa(7)",123.3,103.3,146.2,10.0,88.0,30.0,0.4,0,1
+"Gallatin County, Illinois(6)",123.3,74.9,193.5,1.0,100.0,5.0,-1.5,0,0
+"Wright County, Missouri(6)",123.2,96.7,155.5,4.0,102.0,16.0,-0.8,0,0
+"Forrest County, Mississippi(6)",123.2,108.0,140.0,4.0,64.0,50.0,0.0,0,1
+"Bernalillo County, New Mexico(7)",123.2,118.3,128.3,5.0,13.0,503.0,-2.7,0,1
+"Coweta County, Georgia(7)",123.2,112.4,134.8,19.0,114.0,99.0,0.1,0,1
+"Houston County, Georgia(7)",123.2,112.6,134.6,18.0,114.0,102.0,0.4,0,1
+"Island County, Washington(7)",123.2,110.0,137.7,4.0,33.0,77.0,-0.6,0,1
+"Hampton County, South Carolina(6)",123.2,96.2,155.8,1.0,46.0,16.0,1.8,0,0
+"Caldwell Parish, Louisiana(7)",123.2,87.6,169.7,1.0,63.0,8.0,0.7,0,0
+"O'Brien County, Iowa(7)",123.1,92.0,162.2,3.0,96.0,12.0,-1.0,0,0
+"Dyer County, Tennessee(6)",123.1,103.1,146.0,1.0,86.0,29.0,1.0,0,0
+"Lawrence County, Pennsylvania(6)",123.1,110.5,136.9,7.0,65.0,81.0,0.5,0,1
+"Rock County, Wisconsin(6)",123.1,113.4,133.5,14.0,62.0,125.0,0.9,0,1
+"Transylvania County, North Carolina(6)",123.1,102.9,146.6,3.0,98.0,35.0,1.0,0,0
+"Fulton County, Indiana(6)",123.1,96.5,155.0,1.0,88.0,17.0,-0.9,0,0
+"Tallahatchie County, Mississippi(6)",123.1,88.8,166.3,1.0,79.0,9.0,1.9,0,0
+"Lincoln County, New Mexico(7)",123.1,95.6,156.5,2.0,23.0,19.0,3.4,0,0
+"Garfield County, Oklahoma(6)",123.0,106.8,141.1,5.0,58.0,45.0,0.7,0,1
+"Cumberland County, Tennessee(6)",123.0,107.4,140.5,3.0,78.0,60.0,-1.0,0,1
+"Fauquier County, Virginia(6)",123.0,108.2,139.5,19.0,115.0,53.0,-2.1,1,1
+"Lyon County, Nevada(6)",123.0,106.7,141.3,1.0,8.0,46.0,-1.2,0,1
+"Buffalo County, Nebraska(6)",123.0,103.9,144.5,11.0,54.0,32.0,-0.1,0,1
+"Pettis County, Missouri(6)",123.0,104.6,143.8,6.0,91.0,34.0,-0.8,0,1
+"Lafayette County, Missouri(6)",123.0,102.3,146.8,5.0,96.0,28.0,1.0,0,0
+"Ascension Parish, Louisiana(7)",123.0,110.7,136.2,9.0,52.0,77.0,2.9,0,1
+"St. Joseph County, Indiana(6)",122.9,115.1,131.1,14.0,63.0,200.0,0.1,0,1
+"Yolo County, California(7)",122.9,113.4,133.0,6.0,43.0,130.0,-1.1,0,1
+"Belmont County, Ohio(6)",122.9,108.5,138.8,3.0,81.0,60.0,-0.6,0,1
+"Lincoln County, Oregon(6)",122.9,106.1,141.9,2.0,31.0,51.0,-1.0,0,1
+"Jasper County, Mississippi(6)",122.9,93.3,159.2,1.0,77.0,13.0,1.0,0,0
+"Woodford County, Illinois(6)",122.8,103.4,145.0,9.0,95.0,30.0,-0.7,0,1
+"Bennington County, Vermont(6)",122.8,103.9,144.5,2.0,14.0,35.0,-1.0,0,1
+"Hoke County, North Carolina(6)",122.8,103.7,144.4,4.0,97.0,31.0,1.5,0,0
+"Sebastian County, Arkansas(6)",122.8,111.7,134.7,5.0,50.0,95.0,0.9,0,1
+"Charles County, Maryland(6)",122.8,112.5,133.8,7.0,24.0,110.0,0.3,0,1
+"Callaway County, Missouri(6)",122.8,104.0,144.0,6.0,92.0,32.0,0.6,0,1
+"Lawrence County, Mississippi(6)",122.7,90.4,163.6,1.0,78.0,10.0,-1.2,0,0
+"Montgomery County, Alabama(6)",122.7,114.3,131.6,12.0,49.0,168.0,0.1,0,1
+"Scott County, Arkansas(6)",122.7,85.6,171.0,1.0,75.0,8.0,1.7,0,0
+"Lake County, Tennessee(6)",122.7,76.4,189.7,1.0,95.0,5.0,-0.7,0,0
+"Henry County, Indiana(6)",122.7,105.1,142.5,3.0,81.0,39.0,0.4,0,0
+"Piatt County, Illinois(6)",122.6,94.5,157.3,3.0,99.0,14.0,0.1,0,0
+"Fulton County, New York(7)",122.6,106.5,140.7,6.0,62.0,46.0,-0.4,0,1
+"Summit County, Utah(7)",122.6,100.3,148.4,1.0,21.0,25.0,0.6,0,1
+"Fayette County, West Virginia(6)",122.6,105.3,142.3,2.0,45.0,40.0,0.6,0,1
+"Wyoming County, Pennsylvania(6)",122.6,99.8,149.4,1.0,67.0,23.0,-1.7,0,0
+"St. John the Baptist Parish, Louisiana(7)",122.6,103.5,144.3,5.0,59.0,31.0,0.1,0,1
+"Noble County, Indiana(6)",122.6,104.4,143.1,2.0,81.0,35.0,0.8,0,0
+"Curry County, Oregon(6)",122.6,97.0,153.6,1.0,33.0,24.0,0.0,0,0
+"Spalding County, Georgia(7)",122.6,107.5,139.2,10.0,126.0,52.0,-0.2,0,1
+"Chelan County, Washington(6)",122.6,108.3,138.2,4.0,34.0,60.0,0.7,0,1
+"Marlboro County, South Carolina(6)",122.5,99.4,149.8,1.0,46.0,22.0,-0.4,0,0
+"Burke County, Georgia(7)",122.5,97.5,152.3,3.0,141.0,18.0,0.6,0,0
+"Lamar County, Texas(6)",122.5,105.4,141.7,2.0,139.0,41.0,1.4,0,0
+"Suffolk County, Massachusetts(7)",122.5,117.5,127.6,10.0,13.0,486.0,-0.5,0,1
+"Marshall County, Iowa(7)",122.4,103.4,144.1,11.0,88.0,32.0,-0.3,0,1
+"Ashland County, Wisconsin(6)",122.4,92.2,159.9,1.0,70.0,12.0,0.7,0,0
+"Kingfisher County, Oklahoma(6)",122.4,91.6,160.5,2.0,69.0,11.0,-1.3,0,0
+"Ballard County, Kentucky(7)",122.4,85.8,171.7,1.0,118.0,8.0,0.7,0,0
+"Madison County, Iowa(7)",122.4,92.7,159.1,3.0,95.0,12.0,-0.3,0,0
+"Berkshire County, Massachusetts(7)",122.4,111.8,133.7,9.0,14.0,118.0,-0.6,0,1
+"Shenandoah County, Virginia(6)",122.3,105.2,141.7,11.0,119.0,40.0,1.1,0,1
+"Franklin County, Indiana(6)",122.3,97.8,151.5,1.0,88.0,18.0,0.1,0,0
+"Clay County, Texas(6)",122.3,88.5,166.6,1.0,188.0,9.0,0.9,1,1
+"Pierce County, Georgia(7)",122.3,95.8,154.3,3.0,143.0,15.0,2.0,0,0
+"Craig County, Oklahoma(6)",122.3,92.4,159.6,2.0,69.0,13.0,-0.9,0,0
+"Guthrie County, Iowa(7)",122.3,85.7,170.0,2.0,97.0,9.0,0.4,0,0
+"Yavapai County, Arizona(6)",122.3,114.3,130.7,1.0,5.0,240.0,-0.1,0,1
+"Allegany County, New York(7)",122.2,103.9,143.0,3.0,62.0,35.0,0.1,0,1
+"Hardeman County, Tennessee(6)",122.2,98.2,150.9,1.0,91.0,20.0,1.7,0,0
+"White County, Indiana(6)",122.2,98.1,150.9,1.0,87.0,20.0,0.9,0,0
+"Pittsylvania County, Virginia(6)",122.2,107.2,138.9,16.0,115.0,55.0,0.9,0,1
+"Clinton County, New York(7)",122.2,107.9,138.0,11.0,61.0,58.0,0.2,0,1
+"Benton County, Indiana(6)",122.2,84.2,172.8,1.0,91.0,7.0,2.7,0,0
+"Jefferson County, Washington(7)",122.2,102.3,145.8,1.0,36.0,39.0,-0.5,0,1
+"Harnett County, North Carolina(6)",122.2,110.4,134.8,19.0,92.0,81.0,0.5,0,1
+"Williamson County, Illinois(6)",122.2,107.4,138.4,13.0,92.0,54.0,-0.8,0,1
+"Carbon County, Pennsylvania(6)",122.1,107.7,138.2,5.0,66.0,57.0,1.0,0,1
+"Cortland County, New York(7)",122.1,103.7,143.0,3.0,62.0,34.0,-0.8,0,1
+"Greenup County, Kentucky(7)",122.1,103.3,143.8,5.0,106.0,33.0,0.3,0,0
+"Alameda County, California(7)",122.1,118.9,125.4,17.0,34.0,1144.0,-0.4,0,1
+"Tarrant County, Texas(6)",122.1,119.0,125.2,20.0,63.0,1242.0,-0.4,0,1
+"Clark County, Wisconsin(6)",122.1,100.6,146.9,3.0,68.0,25.0,-0.9,0,1
+"Coffee County, Tennessee(6)",122.1,105.8,140.2,3.0,82.0,44.0,2.1,0,0
+"Portage County, Wisconsin(6)",122.0,106.8,139.0,8.0,66.0,50.0,-0.7,0,1
+"Lackawanna County, Pennsylvania(6)",122.0,113.7,130.8,17.0,63.0,180.0,0.6,0,1
+"Dixie County, Florida(6)",122.0,91.4,160.5,1.0,64.0,13.0,-0.2,0,0
+"Bonneville County, Idaho(7)",122.0,109.1,136.0,6.0,29.0,68.0,-0.1,0,1
+"Marathon County, Wisconsin(6)",122.0,111.4,133.4,16.0,63.0,105.0,-1.0,0,1
+"Stokes County, North Carolina(6)",122.0,105.0,141.1,7.0,97.0,41.0,0.4,0,1
+"Cambria County, Pennsylvania(6)",122.0,111.7,133.0,12.0,65.0,123.0,0.4,0,1
+"Freestone County, Texas(6)",122.0,94.9,154.8,1.0,178.0,16.0,1.6,1,1
+"Montgomery County, New York(7)",122.0,105.5,140.5,5.0,62.0,42.0,-0.7,0,1
+"Spink County, South Dakota(6)",121.9,78.2,183.3,1.0,42.0,6.0,-2.2,0,0
+"Green Lake County, Wisconsin(6)",121.9,94.2,155.7,2.0,69.0,16.0,1.5,0,0
+"Copiah County, Mississippi(6)",121.9,99.0,148.5,2.0,73.0,22.0,1.4,0,0
+"Stanly County, North Carolina(6)",121.9,106.5,139.0,9.0,95.0,50.0,0.7,0,1
+"Blanco County, Texas(6)",121.9,86.6,168.1,1.0,188.0,10.0,4.8,0,0
+"Iron County, Wisconsin(6)",121.9,85.9,177.4,1.0,70.0,8.0,1.4,0,0
+"Pike County, Kentucky(7)",121.8,106.6,138.8,9.0,101.0,50.0,-0.4,0,1
+"Harrison County, Kentucky(7)",121.8,95.6,153.7,2.0,114.0,16.0,1.1,0,0
+"Clayton County, Iowa(7)",121.8,93.9,156.1,5.0,94.0,15.0,-0.9,0,0
+"Ouachita Parish, Louisiana(7)",121.8,111.7,132.6,12.0,52.0,112.0,-0.5,0,1
+"Karnes County, Texas(6)",121.8,87.9,164.9,1.0,190.0,9.0,-0.7,1,1
+"Garland County, Arkansas(6)",121.8,110.2,134.4,5.0,53.0,94.0,0.6,0,1
+"Ashland County, Ohio(6)",121.8,105.4,140.0,2.0,84.0,44.0,0.8,0,0
+"Crockett County, Tennessee(6)",121.8,91.6,159.2,1.0,93.0,12.0,-0.1,0,0
+"Clarion County, Pennsylvania(6)",121.7,102.5,143.8,2.0,67.0,32.0,0.9,0,0
+"Faulkner County, Arkansas(6)",121.7,109.4,135.1,5.0,55.0,73.0,0.0,0,1
+"Jefferson County, Oklahoma(6)",121.7,76.6,185.5,1.0,71.0,5.0,-0.3,0,0
+"Carbon County, Wyoming(6)",121.7,88.6,163.1,1.0,21.0,10.0,0.8,0,0
+"Desha County, Arkansas(6)",121.7,88.2,164.1,1.0,74.0,10.0,0.6,0,0
+"Lincoln County, Maine(6)",121.6,101.5,145.1,1.0,16.0,34.0,0.0,0,1
+"Pender County, North Carolina(6)",121.6,105.9,139.2,8.0,96.0,46.0,-0.1,0,1
+"Greene County, Missouri(6)",121.6,114.1,129.5,25.0,71.0,212.0,-0.2,0,1
+"Wahkiakum County, Washington(6)",121.6,64.4,213.7,1.0,38.0,4.0,0.9,0,0
+"Cleveland County, Oklahoma(6)",121.6,113.5,130.1,12.0,45.0,175.0,-2.3,0,1
+"Morrow County, Oregon(6)",121.6,86.0,167.7,1.0,33.0,8.0,2.7,0,0
+"Macon County, Illinois(6)",121.6,110.0,134.1,25.0,89.0,90.0,-1.1,1,1
+"Maricopa County, Arizona(6)",121.5,119.5,123.6,1.0,4.0,2884.0,-0.6,0,1
+"Palm Beach County, Florida(6)",121.5,118.4,124.8,10.0,34.0,1291.0,-0.3,0,1
+"Webster County, Missouri(6)",121.5,101.1,144.9,6.0,96.0,26.0,0.9,0,0
+"Bossier Parish, Louisiana(7)",121.5,110.0,133.9,10.0,54.0,85.0,-0.2,0,1
+"Laurens County, Georgia(7)",121.5,104.3,140.8,9.0,134.0,38.0,-0.1,1,1
+"Okanogan County, Washington(6)",121.4,102.9,142.6,2.0,36.0,35.0,0.4,0,1
+"Jones County, Iowa(7)",121.4,94.5,154.1,6.0,95.0,16.0,0.0,0,0
+"Cocke County, Tennessee(6)",121.4,102.3,143.4,1.0,86.0,32.0,2.8,0,0
+"Laurel County, Kentucky(7)",121.4,105.8,138.7,8.0,102.0,46.0,0.3,0,1
+"Jefferson County, Oregon(6)",121.4,95.0,153.0,1.0,33.0,17.0,-1.1,0,1
+"Travis County, Texas(6)",121.4,117.1,125.8,19.0,71.0,652.0,-0.5,0,1
+"Huntingdon County, Pennsylvania(6)",121.4,103.2,142.1,2.0,67.0,36.0,0.6,0,1
+"Northumberland County, Pennsylvania(6)",121.4,108.8,135.0,9.0,66.0,79.0,-0.8,0,1
+"Marion County, Oregon(6)",121.3,114.3,128.7,9.0,25.0,235.0,-1.2,0,1
+"Accomack County, Virginia(6)",121.3,100.9,145.0,10.0,121.0,30.0,0.6,0,0
+"Bonner County, Idaho(7)",121.3,103.6,141.5,5.0,32.0,40.0,-0.7,0,1
+"Buckingham County, Virginia(6)",121.3,91.8,158.1,2.0,126.0,13.0,-2.2,1,1
+"Brunswick County, North Carolina(6)",121.3,110.7,132.7,23.0,91.0,134.0,-0.1,0,1
+"Jefferson County, Iowa(7)",121.3,93.3,156.0,5.0,95.0,16.0,0.1,0,0
+"Broward County, Florida(6)",121.2,118.4,124.1,10.0,35.0,1451.0,0.0,0,1
+"Taylor County, Texas(6)",121.2,110.1,133.2,7.0,108.0,93.0,0.3,0,1
+"Santa Clara County, California(7)",121.2,118.2,124.3,19.0,34.0,1269.0,-0.6,0,1
+"Yuma County, Colorado(6)",121.2,83.8,170.1,1.0,49.0,7.0,2.5,0,0
+"Chenango County, New York(7)",121.2,104.4,140.2,6.0,62.0,42.0,0.9,0,1
+"Harrison County, Indiana(6)",121.2,102.3,142.8,2.0,82.0,32.0,0.3,0,0
+"Laurens County, South Carolina(6)",121.2,106.5,137.5,5.0,45.0,53.0,0.3,0,1
+"Marion County, Tennessee(6)",121.1,99.8,146.2,1.0,88.0,25.0,-1.6,0,0
+"Spotsylvania County, Virginia(6)",121.1,110.0,133.1,33.0,112.0,91.0,0.0,1,1
+"Nodaway County, Missouri(6)",121.1,91.2,157.7,3.0,107.0,13.0,2.2,0,0
+"Waupaca County, Wisconsin(6)",121.1,104.9,139.3,7.0,67.0,44.0,0.5,0,1
+"Frederick County, Virginia(6)",121.1,107.8,135.6,25.0,115.0,63.0,0.1,1,1
+"Bienville Parish, Louisiana(7)",121.1,92.4,156.8,2.0,63.0,13.0,-0.2,0,0
+"Northumberland County, Virginia(6)",121.0,93.2,158.2,3.0,126.0,16.0,0.5,0,0
+"Bay County, Florida(6)",121.0,111.9,130.7,3.0,49.0,140.0,0.3,0,1
+"Pike County, Mississippi(6)",121.0,102.2,142.4,4.0,70.0,31.0,0.1,0,1
+"Duplin County, North Carolina(6)",121.0,105.4,138.4,9.0,96.0,47.0,0.3,0,1
+"Montrose County, Colorado(6)",121.0,103.1,141.4,3.0,40.0,37.0,-0.6,0,1
+"Benton County, Tennessee(6)",121.0,94.1,154.3,1.0,93.0,15.0,0.5,0,0
+"Abbeville County, South Carolina(6)",121.0,97.3,149.1,1.0,46.0,21.0,-3.2,0,1
+"Pulaski County, Arkansas(6)",121.0,114.6,127.6,11.0,45.0,287.0,-1.1,0,1
+"Bastrop County, Texas(6)",121.0,106.8,136.6,3.0,128.0,57.0,0.3,0,0
+"Robertson County, Tennessee(6)",121.0,106.2,137.3,4.0,81.0,51.0,-0.4,0,1
+"Wilcox County, Alabama(6)",121.0,85.0,167.2,2.0,67.0,8.0,4.8,0,0
+"Grand Forks County, North Dakota(6)",120.9,104.1,139.8,8.0,27.0,40.0,-0.5,0,1
+"Hood County, Texas(6)",120.9,105.6,138.1,3.0,137.0,54.0,-1.8,1,1
+"Ross County, Ohio(6)",120.9,107.2,136.1,4.0,82.0,59.0,-0.3,0,1
+"Buchanan County, Iowa(7)",120.9,94.9,152.1,6.0,94.0,16.0,0.1,0,0
+"Coffee County, Alabama(6)",120.9,104.0,139.9,6.0,61.0,39.0,1.3,0,1
+"Auglaize County, Ohio(6)",120.9,103.1,141.1,2.0,85.0,36.0,0.7,0,0
+"Lincoln County, Wyoming(6)",120.9,92.4,155.7,1.0,21.0,13.0,0.4,0,0
+"Boyd County, Kentucky(7)",120.9,104.1,139.7,8.0,105.0,41.0,-0.2,0,1
+"Goliad County, Texas(6)",120.9,82.0,174.3,1.0,195.0,7.0,4.1,1,1
+"Hancock County, Maine(6)",120.8,105.3,138.2,2.0,16.0,52.0,-0.3,0,1
+"Davison County, South Dakota(6)",120.8,93.9,153.3,5.0,40.0,16.0,18.4,0,0
+"Putnam County, Indiana(6)",120.8,101.0,143.6,2.0,85.0,28.0,-1.2,0,0
+"Mahoning County, Ohio(6)",120.7,113.0,129.0,21.0,75.0,206.0,-0.8,0,1
+"Richland County, Illinois(6)",120.7,91.5,156.9,3.0,99.0,13.0,2.4,0,0
+"Saunders County, Nebraska(6)",120.7,94.5,152.3,7.0,59.0,16.0,-0.7,0,1
+"Harrison County, West Virginia(6)",120.7,106.6,136.2,3.0,43.0,58.0,0.1,0,1
+"Smith County, Texas(6)",120.7,112.3,129.5,9.0,105.0,165.0,-1.0,0,1
+"Blackford County, Indiana(6)",120.7,88.5,161.7,1.0,91.0,10.0,0.5,0,0
+"Brevard County, Florida(6)",120.7,115.7,125.8,9.0,40.0,523.0,-0.7,0,1
+"Okeechobee County, Florida(6)",120.6,101.2,142.9,2.0,59.0,31.0,1.6,0,0
+"Franklin County, Vermont(6)",120.6,103.1,140.4,3.0,14.0,36.0,0.5,0,1
+"Jackson County, Mississippi(6)",120.6,110.2,131.8,11.0,60.0,103.0,1.2,0,1
+"Wythe County, Virginia(6)",120.6,99.8,144.9,9.0,122.0,26.0,2.1,0,0
+"Jackson County, Georgia(7)",120.6,105.3,137.6,12.0,129.0,46.0,0.2,1,1
+"Sumner County, Tennessee(6)",120.6,111.3,130.4,10.0,70.0,132.0,0.2,0,1
+"Kane County, Illinois(6)",120.6,114.9,126.5,44.0,83.0,350.0,-0.4,1,1
+"Coahoma County, Mississippi(6)",120.6,95.6,150.0,2.0,76.0,17.0,4.5,0,0
+"Adams County, Colorado(6)",120.5,114.2,127.1,12.0,33.0,280.0,0.5,0,1
+"Saluda County, South Carolina(6)",120.5,93.3,153.4,1.0,46.0,15.0,0.2,0,0
+"Suwannee County, Florida(6)",120.5,102.2,141.4,2.0,58.0,36.0,-0.5,0,1
+"Washington County, New York(7)",120.5,105.2,137.6,10.0,62.0,50.0,-1.4,0,1
+"Boone County, Iowa(7)",120.5,97.9,147.2,8.0,92.0,22.0,-0.9,0,1
+"Saline County, Missouri(6)",120.4,96.4,149.1,5.0,103.0,19.0,0.1,0,0
+"Hays County, Texas(6)",120.4,110.3,131.2,8.0,112.0,111.0,0.3,0,1
+"Union County, Arkansas(6)",120.3,101.9,141.3,3.0,67.0,33.0,0.7,0,1
+"Greene County, Tennessee(6)",120.3,106.5,135.7,5.0,79.0,61.0,-0.4,0,1
+"Bayfield County, Wisconsin(6)",120.3,91.9,156.5,1.0,70.0,15.0,3.1,0,0
+"Franklin County, Maine(6)",120.3,98.7,145.6,1.0,16.0,26.0,1.4,0,1
+"Ray County, Missouri(6)",120.3,96.4,148.8,5.0,100.0,19.0,0.9,0,0
+"Franklin County, Virginia(6)",120.3,104.9,137.5,16.0,117.0,51.0,0.6,1,1
+"Bulloch County, Georgia(7)",120.3,104.0,138.3,11.0,130.0,41.0,-0.5,1,1
+"Juneau Borough, Alaska(6)",120.2,96.3,148.3,1.0,14.0,20.0,-1.2,0,1
+"Clarendon County, South Carolina(6)",120.2,101.0,142.4,3.0,46.0,32.0,0.1,0,1
+"Morgan County, Alabama(6)",120.2,109.2,132.0,10.0,55.0,94.0,0.7,0,1
+"King William County, Virginia(6)",120.1,91.7,155.2,4.0,126.0,13.0,-0.4,1,1
+"Radford City, Virginia(6)",120.1,85.4,164.5,2.0,128.0,8.0,-3.5,1,1
+"Mecklenburg County, Virginia(6)",120.1,100.1,143.5,11.0,121.0,31.0,14.5,0,0
+"Webster County, West Virginia(6)",120.1,80.7,173.3,1.0,55.0,7.0,2.8,0,0
+"Lincoln County, Georgia(7)",120.1,81.9,172.6,1.0,149.0,8.0,-1.1,1,1
+"Hernando County, Florida(6)",120.1,111.5,129.3,4.0,49.0,180.0,0.0,0,1
+"Pueblo County, Colorado(6)",120.1,110.4,130.3,8.0,35.0,127.0,0.0,0,1
+"Horry County, South Carolina(6)",120.0,113.3,127.1,18.0,43.0,275.0,0.4,0,1
+"Valencia County, New Mexico(7)",120.0,106.0,135.5,4.0,17.0,57.0,0.3,0,1
+"Dickinson County, Iowa(7)",120.0,94.2,152.1,7.0,94.0,18.0,0.1,0,0
+"Cass County, Nebraska(6)",120.0,96.0,148.4,9.0,58.0,19.0,0.5,0,1
+"Stone County, Mississippi(6)",120.0,91.8,154.5,1.0,77.0,13.0,-1.5,0,0
+"Osceola County, Iowa(7)",120.0,72.7,187.6,1.0,98.0,5.0,0.3,0,0
+"Ashtabula County, Ohio(6)",120.0,107.9,133.1,8.0,81.0,79.0,1.0,0,1
+"Mississippi County, Arkansas(6)",120.0,101.1,141.4,3.0,67.0,30.0,-0.4,0,1
+"Oktibbeha County, Mississippi(6)",120.0,99.1,143.8,2.0,73.0,25.0,0.3,0,0
+"Chesterfield County, South Carolina(6)",119.9,102.5,139.7,3.0,45.0,36.0,1.5,0,1
+"Custer County, Montana(6)",119.9,88.7,159.9,3.0,40.0,10.0,-3.8,0,1
+"Boone County, Arkansas(6)",119.9,100.8,141.7,2.0,66.0,32.0,1.4,0,0
+"Las Animas County, Colorado(6)",119.9,89.0,158.9,1.0,48.0,12.0,7.2,0,0
+"Monroe County, Georgia(7)",119.8,98.1,145.5,5.0,139.0,23.0,-0.2,1,1
+"Limestone County, Texas(6)",119.8,95.7,148.6,1.0,174.0,19.0,1.7,1,1
+"San Patricio County, Texas(6)",119.8,104.5,136.8,3.0,143.0,45.0,1.2,0,0
+"Prentiss County, Mississippi(6)",119.8,96.2,147.7,2.0,76.0,19.0,0.0,0,0
+"Meigs County, Tennessee(6)",119.8,86.9,162.2,1.0,95.0,10.0,0.3,0,0
+"Ware County, Georgia(7)",119.8,100.0,142.6,6.0,137.0,28.0,0.4,1,1
+"Stevens County, Washington(6)",119.8,102.3,139.8,3.0,36.0,40.0,1.5,0,1
+"Volusia County, Florida(6)",119.8,114.6,125.1,9.0,42.0,486.0,0.3,0,1
+"Ulster County, New York(7)",119.8,110.9,129.2,29.0,60.0,150.0,-0.8,1,1
+"Scioto County, Ohio(6)",119.7,106.2,134.6,5.0,83.0,62.0,1.4,0,1
+"Dakota County, Nebraska(6)",119.7,91.4,154.0,6.0,61.0,13.0,2.5,0,0
+"Allen County, Indiana(6)",119.7,113.0,126.7,20.0,64.0,251.0,-0.7,0,1
+"Deuel County, South Dakota(6)",119.7,66.3,202.1,1.0,42.0,3.0,-0.1,0,0
+"Payette County, Idaho(7)",119.7,95.1,148.9,2.0,36.0,17.0,-0.9,0,1
+"Van Buren County, Iowa(7)",119.6,80.2,174.2,2.0,98.0,6.0,-1.3,0,0
+"Pike County, Pennsylvania(6)",119.6,104.0,137.2,5.0,67.0,48.0,-0.8,0,1
+"Matanuska-Susitna Borough, Alaska(6)",119.6,105.4,135.2,2.0,13.0,58.0,-1.6,0,1
+"Mathews County, Virginia(6)",119.6,88.0,163.3,3.0,128.0,11.0,1.7,0,0
+"Clay County, Florida(6)",119.5,110.9,128.7,5.0,49.0,150.0,-0.3,0,1
+"Ogle County, Illinois(6)",119.5,103.0,138.1,14.0,95.0,41.0,0.4,0,1
+"Clatsop County, Oregon(6)",119.5,100.9,140.9,2.0,32.0,34.0,-1.3,0,1
+"Idaho County, Idaho(7)",119.5,90.2,156.2,2.0,36.0,14.0,1.8,0,0
+"Saline County, Arkansas(6)",119.4,108.4,131.4,7.0,55.0,90.0,-0.6,0,1
+"Escambia County, Florida(6)",119.4,112.4,126.9,6.0,47.0,233.0,-0.5,0,1
+"Mesa County, Colorado(6)",119.4,109.3,130.3,8.0,36.0,114.0,-0.8,0,1
+"Lewis County, West Virginia(6)",119.4,92.5,152.7,1.0,52.0,14.0,-1.4,0,0
+"St. Francois County, Missouri(6)",119.4,104.3,136.2,14.0,90.0,48.0,0.9,0,1
+"Prairie County, Arkansas(6)",119.4,81.2,171.2,1.0,75.0,7.0,-0.2,0,0
+"Bristol County, Massachusetts(7)",119.4,114.2,124.7,11.0,14.0,435.0,-0.4,0,1
+"Monroe County, Indiana(6)",119.3,107.7,131.9,11.0,75.0,83.0,-1.1,0,1
+"Floyd County, Georgia(7)",119.3,107.1,132.6,23.0,126.0,74.0,-0.2,1,1
+"Lee County, Mississippi(6)",119.3,106.1,133.7,9.0,65.0,62.0,-0.2,0,1
+"Garrard County, Kentucky(7)",119.3,91.9,152.9,2.0,116.0,14.0,0.6,0,0
+"Windham County, Connecticut(7)",119.3,108.1,131.4,7.0,8.0,90.0,0.0,0,1
+"Kings County, New York(7)",119.3,116.7,121.8,42.0,56.0,1761.0,0.7,0,1
+"Big Horn County, Wyoming(6)",119.3,86.9,160.7,1.0,22.0,10.0,1.2,0,0
+"Cameron County, Pennsylvania(6)",119.3,71.4,192.6,1.0,67.0,5.0,2.3,0,0
+"Jones County, Mississippi(6)",119.3,104.8,135.2,7.0,67.0,53.0,1.4,0,1
+"Bollinger County, Missouri(6)",119.2,86.3,161.5,2.0,110.0,9.0,3.2,0,0
+"Barren County, Kentucky(7)",119.2,101.2,139.6,8.0,107.0,34.0,0.1,0,1
+"Fairbanks North Star, Alaska(6)",119.2,104.0,136.0,2.0,13.0,50.0,-0.9,0,1
+"Lawrence County, Alabama(6)",119.2,99.5,142.0,5.0,64.0,28.0,13.3,0,0
+"Garrett County, Maryland(6)",119.2,99.0,142.8,2.0,24.0,27.0,-0.2,0,1
+"Vermilion Parish, Louisiana(7)",119.2,103.3,136.9,7.0,59.0,42.0,1.0,0,1
+"Morehouse Parish, Louisiana(7)",119.2,96.4,146.0,4.0,62.0,21.0,1.8,0,0
+"Ector County, Texas(6)",119.2,107.8,131.4,6.0,122.0,82.0,0.2,0,1
+"Southeast Fairbanks Census Area, Alaska(6)",119.2,72.0,186.7,1.0,15.0,4.0,-4.9,0,0
+"Cherokee County, South Carolina(6)",119.2,103.2,137.0,5.0,45.0,42.0,0.2,0,1
+"Salt Lake County, Utah(7)",119.1,114.8,123.5,4.0,14.0,605.0,-0.1,0,1
+"Lee County, Iowa(7)",119.1,99.5,141.8,12.0,90.0,29.0,0.2,0,1
+"Richland County, Ohio(6)",119.1,108.2,130.9,11.0,81.0,99.0,-0.6,0,1
+"Grayson County, Texas(6)",119.1,108.3,130.7,8.0,126.0,98.0,-0.3,1,1
+"Morris County, Texas(6)",119.1,86.5,160.5,1.0,191.0,10.0,0.7,1,1
+"Jackson County, Arkansas(6)",119.1,91.3,153.0,1.0,74.0,13.0,0.1,0,0
+"Nottoway County, Virginia(6)",119.0,88.4,157.5,2.0,127.0,12.0,-1.4,1,1
+"Oglethorpe County, Georgia(7)",119.0,89.9,155.4,2.0,147.0,12.0,-0.3,1,1
+"Bedford County, Tennessee(6)",119.0,101.4,139.0,2.0,87.0,34.0,0.2,0,0
+"Camden County, Missouri(6)",119.0,102.0,138.4,10.0,94.0,45.0,0.0,0,1
+"Richmond County, North Carolina(6)",119.0,101.5,138.9,8.0,98.0,36.0,-0.1,0,1
+"Calloway County, Kentucky(7)",119.0,99.4,141.4,5.0,109.0,28.0,-0.9,1,1
+"Livingston Parish, Louisiana(7)",119.0,107.9,130.9,14.0,55.0,88.0,-0.5,0,1
+"Berrien County, Georgia(7)",119.0,92.5,151.0,3.0,144.0,15.0,0.3,1,1
+"Cumberland County, New Jersey(7)",118.9,108.8,129.7,14.0,21.0,108.0,0.6,0,1
+"Weld County, Colorado(6)",118.8,110.9,127.2,11.0,35.0,173.0,0.5,0,1
+"Walton County, Georgia(7)",118.8,105.9,133.0,22.0,127.0,63.0,0.0,1,1
+"Dallas County, Texas(6)",118.8,116.1,121.6,30.0,72.0,1504.0,-0.5,0,1
+"Tucker County, West Virginia(6)",118.8,78.0,176.6,1.0,55.0,6.0,-2.6,0,0
+"Marengo County, Alabama(6)",118.8,93.1,149.7,3.0,66.0,16.0,1.3,0,0
+"Ellis County, Texas(6)",118.7,108.6,129.5,10.0,124.0,105.0,0.3,1,1
+"Windham County, Vermont(6)",118.7,101.3,138.4,4.0,14.0,38.0,-0.7,0,1
+"Warren County, Tennessee(6)",118.6,100.4,139.5,3.0,87.0,32.0,1.0,0,0
+"Johnson County, Texas(6)",118.6,108.7,129.3,8.0,117.0,109.0,1.6,0,1
+"Stephens County, Texas(6)",118.6,80.2,170.0,1.0,195.0,7.0,1.1,1,1
+"Lamar County, Mississippi(6)",118.6,102.4,136.6,6.0,70.0,39.0,-0.3,0,1
+"Jefferson County, Indiana(6)",118.6,98.5,141.9,2.0,86.0,26.0,-2.2,0,0
+"Baker County, Oregon(6)",118.6,90.9,153.1,1.0,33.0,15.0,1.0,0,0
+"Ben Hill County, Georgia(7)",118.5,90.9,152.3,3.0,146.0,14.0,-2.1,1,1
+"Plymouth County, Iowa(7)",118.5,94.5,147.0,8.0,93.0,19.0,-0.9,1,1
+"Clay County, Alabama(6)",118.5,86.1,159.5,2.0,67.0,10.0,-2.7,0,0
+"Sauk County, Wisconsin(6)",118.5,103.8,134.8,11.0,67.0,51.0,-0.5,0,1
+"Logan County, Ohio(6)",118.5,101.0,138.3,3.0,86.0,35.0,-0.5,0,1
+"Carter County, Oklahoma(6)",118.5,101.5,137.6,6.0,62.0,37.0,0.6,0,1
+"Allamakee County, Iowa(7)",118.5,87.3,158.0,3.0,96.0,11.0,0.5,0,0
+"Stutsman County, North Dakota(6)",118.4,92.2,150.2,5.0,30.0,15.0,-1.0,0,1
+"Platte County, Nebraska(6)",118.4,97.0,143.2,12.0,58.0,24.0,-0.1,0,1
+"Clinton County, Pennsylvania(6)",118.4,99.0,140.6,3.0,67.0,29.0,-0.3,0,1
+"Guadalupe County, Texas(6)",118.4,108.1,129.4,8.0,122.0,99.0,-0.3,1,1
+"Mifflin County, Pennsylvania(6)",118.4,101.4,137.6,4.0,67.0,39.0,0.5,0,1
+"Rockbridge County, Virginia(6)",118.3,94.2,147.4,6.0,125.0,20.0,-0.7,1,1
+"Stanislaus County, California(7)",118.3,112.6,124.2,17.0,43.0,337.0,-0.3,0,1
+"Dunklin County, Missouri(6)",118.3,97.5,142.5,6.0,99.0,25.0,2.2,0,0
+"Okmulgee County, Oklahoma(6)",118.3,100.3,138.9,5.0,62.0,33.0,1.6,0,1
+"Caldwell County, Missouri(6)",118.3,79.6,170.1,1.0,110.0,7.0,2.6,0,0
+"Archuleta County, Colorado(6)",118.3,85.5,160.7,1.0,48.0,11.0,-0.5,0,0
+"Queens County, New York(7)",118.3,115.7,120.9,43.0,57.0,1673.0,0.5,0,1
+"Logan County, Oklahoma(6)",118.3,100.3,138.7,5.0,64.0,33.0,-1.8,0,1
+"West Baton Rouge Parish, Louisiana(7)",118.2,94.0,146.9,3.0,62.0,17.0,-0.7,0,0
+"Clearfield County, Pennsylvania(6)",118.2,105.2,132.6,12.0,67.0,67.0,-0.7,0,1
+"Henry County, Virginia(6)",118.2,102.1,136.4,17.0,119.0,46.0,0.6,1,1
+"Aroostook County, Maine(6)",118.2,104.2,133.8,3.0,16.0,61.0,0.0,0,1
+"Cass County, Iowa(7)",118.2,88.7,155.7,5.0,96.0,12.0,-1.1,1,1
+"Pasco County, Florida(6)",118.2,113.0,123.6,11.0,45.0,435.0,-0.4,0,1
+"Henderson County, Texas(6)",118.2,105.1,132.5,6.0,139.0,69.0,0.6,1,1
+"Harrisonburg City, Virginia(6)",118.2,97.2,142.2,12.0,123.0,24.0,1.6,1,1
+"Union Parish, Louisiana(7)",118.1,92.9,148.4,3.0,62.0,17.0,-0.6,0,0
+"Aiken County, South Carolina(6)",118.1,109.0,127.8,17.0,45.0,136.0,0.1,0,1
+"Tehama County, California(7)",118.1,103.5,134.4,4.0,52.0,52.0,-0.8,0,1
+"Calcasieu Parish, Louisiana(7)",118.0,109.1,127.5,17.0,54.0,137.0,-0.5,0,1
+"Union County, Pennsylvania(6)",118.0,99.4,139.3,2.0,67.0,32.0,-0.6,0,1
+"Alexandria City, Virginia(6)",118.0,107.5,129.2,37.0,115.0,99.0,-0.7,1,1
+"Orangeburg County, South Carolina(6)",118.0,105.8,131.2,10.0,45.0,75.0,0.2,0,1
+"Mobile County, Alabama(6)",117.9,111.9,124.2,21.0,51.0,307.0,-0.6,0,1
+"Coos County, Oregon(6)",117.9,103.5,134.0,4.0,32.0,60.0,-0.4,0,1
+"Logan County, Kentucky(7)",117.9,95.9,143.8,4.0,113.0,21.0,-0.7,1,1
+"Harrison County, Texas(6)",117.9,102.8,134.6,4.0,147.0,47.0,0.4,1,1
+"Washington County, Oklahoma(6)",117.9,101.4,136.5,6.0,62.0,41.0,-0.6,0,1
+"Jo Daviess County, Illinois(6)",117.9,93.3,147.7,6.0,99.0,20.0,-6.3,1,1
+"Floyd County, Virginia(6)",117.9,88.5,154.6,5.0,127.0,12.0,1.7,1,1
+"Carroll County, Georgia(7)",117.9,106.0,130.7,28.0,126.0,74.0,0.1,1,1
+"Liberty County, Georgia(7)",117.9,99.4,138.7,10.0,138.0,31.0,-0.7,1,1
+"Santa Rosa County, Florida(6)",117.8,108.3,128.0,5.0,52.0,119.0,-0.2,0,1
+"Columbus County, North Carolina(6)",117.8,102.5,135.0,16.0,97.0,47.0,1.3,1,1
+"Perry County, Pennsylvania(6)",117.8,100.4,137.6,4.0,67.0,36.0,-1.1,0,1
+"Clark County, Arkansas(6)",117.8,90.2,151.1,2.0,74.0,14.0,-1.0,0,0
+"Duval County, Texas(6)",117.8,83.0,162.8,1.0,194.0,8.0,0.2,1,1
+"Talbot County, Maryland(6)",117.8,99.7,138.6,3.0,24.0,38.0,-0.5,0,1
+"Monterey County, California(7)",117.8,111.2,124.6,16.0,45.0,257.0,-0.2,0,1
+"Putnam County, West Virginia(6)",117.8,102.4,134.9,4.0,47.0,45.0,-0.4,0,1
+"Butts County, Georgia(7)",117.7,93.4,146.9,4.0,144.0,17.0,-1.3,1,1
+"Boone County, Illinois(6)",117.7,101.1,136.4,14.0,94.0,37.0,-0.1,1,1
+"Lawrence County, Tennessee(6)",117.7,99.7,138.2,3.0,88.0,33.0,5.0,0,0
+"Marion County, South Carolina(6)",117.7,96.8,141.8,3.0,46.0,25.0,0.4,0,1
+"Knox County, Kentucky(7)",117.6,97.1,141.5,7.0,113.0,24.0,0.1,1,1
+"Posey County, Indiana(6)",117.6,94.3,145.2,1.0,89.0,20.0,-0.1,0,0
+"Kay County, Oklahoma(6)",117.6,99.6,138.0,5.0,64.0,35.0,0.3,0,1
+"McDowell County, West Virginia(6)",117.6,93.0,147.4,1.0,52.0,17.0,-0.6,0,0
+"Aransas County, Texas(6)",117.5,94.9,144.6,2.0,175.0,24.0,-0.8,1,1
+"Mississippi County, Missouri(6)",117.5,87.2,156.0,3.0,109.0,11.0,-0.5,1,1
+"Patrick County, Virginia(6)",117.5,92.7,148.1,7.0,125.0,18.0,2.7,1,1
+"Whitman County, Washington(6)",117.4,95.6,142.7,2.0,37.0,22.0,-1.0,0,1
+"Manatee County, Florida(6)",117.4,111.2,123.9,10.0,48.0,335.0,0.7,0,1
+"Hancock County, Tennessee(6)",117.4,77.1,173.8,1.0,95.0,6.0,-0.6,0,0
+"Clay County, West Virginia(6)",117.3,80.9,166.1,1.0,55.0,7.0,-2.0,0,0
+"Jessamine County, Kentucky(7)",117.3,100.3,136.5,11.0,108.0,36.0,-0.2,1,1
+"Clinton County, Ohio(6)",117.3,98.8,138.3,2.0,87.0,31.0,0.0,0,0
+"Raleigh County, West Virginia(6)",117.3,103.8,132.1,5.0,46.0,62.0,1.3,0,1
+"Mills County, Texas(6)",117.3,72.1,185.8,1.0,197.0,5.0,0.3,1,1
+"Crawford County, Indiana(6)",117.2,83.6,161.3,1.0,91.0,9.0,0.6,0,0
+"Pulaski County, Missouri(6)",117.2,96.6,140.8,8.0,102.0,23.0,-0.3,1,1
+"Talladega County, Alabama(6)",117.2,104.1,131.6,10.0,60.0,63.0,0.3,0,1
+"Crawford County, Georgia(7)",117.2,85.3,158.1,2.0,147.0,10.0,0.0,1,1
+"Saline County, Illinois(6)",117.2,94.9,143.6,7.0,98.0,21.0,6.0,0,0
+"Osceola County, Florida(6)",117.2,110.1,124.6,7.0,50.0,210.0,1.7,0,1
+"Charles City County, Virginia(6)",117.2,82.6,166.5,2.0,129.0,8.0,1.4,1,1
+"Pike County, Illinois(6)",117.1,88.6,152.6,4.0,100.0,13.0,-0.1,1,1
+"Barbour County, West Virginia(6)",117.1,89.1,151.7,1.0,54.0,13.0,1.5,0,0
+"Pulaski County, Indiana(6)",117.1,87.0,155.6,1.0,91.0,11.0,-0.5,0,0
+"Androscoggin County, Maine(6)",117.1,105.6,129.5,5.0,16.0,82.0,-0.7,0,1
+"Elkhart County, Indiana(6)",117.1,108.2,126.5,20.0,72.0,134.0,0.5,1,1
+"Wasatch County, Utah(7)",117.0,91.2,147.7,1.0,22.0,15.0,-0.1,0,1
+"Atkinson County, Georgia(7)",117.0,75.1,174.0,1.0,150.0,5.0,-2.2,1,1
+"Victoria County, Texas(6)",117.0,103.9,131.2,5.0,140.0,63.0,-0.6,1,1
+"Hamilton County, Tennessee(6)",116.9,110.5,123.5,22.0,70.0,274.0,-0.5,1,1
+"Stewart County, Georgia(7)",116.9,68.5,191.1,1.0,150.0,4.0,2.1,1,1
+"Clay County, Kentucky(7)",116.9,90.5,149.0,2.0,116.0,14.0,1.3,1,1
+"Monroe County, Arkansas(6)",116.8,76.7,172.0,1.0,75.0,6.0,1.6,0,0
+"Shelby County, Alabama(6)",116.7,108.3,125.7,18.0,56.0,147.0,-0.5,0,1
+"Fremont County, Wyoming(6)",116.7,97.6,138.6,2.0,20.0,30.0,0.7,0,1
+"Johnson County, Wyoming(6)",116.7,79.9,166.8,1.0,22.0,7.0,1.3,0,0
+"LaFourche Parish, Louisiana(7)",116.7,104.3,130.2,12.0,57.0,68.0,-0.4,0,1
+"Bradley County, Tennessee(6)",116.7,105.1,129.2,8.0,80.0,78.0,-0.1,0,1
+"Perry County, Alabama(6)",116.6,79.8,165.2,2.0,67.0,8.0,-5.3,1,1
+"St. Lucie County, Florida(6)",116.6,109.8,123.8,8.0,50.0,252.0,0.3,0,1
+"Blair County, Pennsylvania(6)",116.6,106.3,127.8,21.0,66.0,107.0,0.7,1,1
+"Sutter County, California(7)",116.6,103.9,130.4,7.0,52.0,65.0,-0.6,0,1
+"Douglas County, Wisconsin(6)",116.6,98.7,136.9,8.0,68.0,33.0,3.8,0,1
+"Los Angeles County, California(7)",116.6,115.3,117.8,26.0,38.0,6557.0,0.0,0,1
+"Monroe County, Kentucky(7)",116.5,83.0,160.2,1.0,118.0,9.0,1.0,1,1
+"Polk County, Oregon(6)",116.5,102.8,131.5,6.0,32.0,58.0,-1.0,0,1
+"Somerset County, Pennsylvania(6)",116.5,103.0,131.3,14.0,67.0,63.0,0.6,0,1
+"Colfax County, New Mexico(7)",116.4,83.6,158.9,2.0,29.0,11.0,-0.4,0,0
+"Kenai Peninsula Borough, Alaska(6)",116.4,100.0,134.9,3.0,14.0,41.0,-0.8,0,1
+"Carroll County, Ohio(6)",116.4,95.1,141.5,1.0,88.0,23.0,0.3,0,0
+"Nelson County, Kentucky(7)",116.4,98.5,136.7,9.0,110.0,32.0,0.4,1,1
+"Campbell County, Virginia(6)",116.4,101.3,133.3,26.0,119.0,46.0,0.8,1,1
+"Gillespie County, Texas(6)",116.4,94.9,141.9,2.0,171.0,27.0,0.1,1,1
+"Codington County, South Dakota(6)",116.3,93.9,142.6,8.0,40.0,21.0,0.1,0,1
+"Charlotte County, Florida(6)",116.1,106.7,126.3,5.0,53.0,189.0,0.4,0,1
+"Laramie County, Wyoming(6)",116.1,103.4,130.0,4.0,18.0,66.0,-1.8,0,1
+"Levy County, Florida(6)",116.1,98.7,136.1,2.0,60.0,37.0,0.3,0,1
+"Santa Fe County, New Mexico(7)",116.1,106.8,126.0,5.0,17.0,135.0,-0.7,0,1
+"Sullivan County, New York(7)",116.1,102.4,131.2,23.0,62.0,57.0,-1.0,1,1
+"Hickman County, Tennessee(6)",116.0,92.5,144.2,1.0,91.0,18.0,-0.1,0,0
+"Houston County, Texas(6)",116.0,90.5,146.9,1.0,181.0,17.0,0.8,1,1
+"La Salle County, Illinois(6)",116.0,104.7,128.2,35.0,94.0,86.0,-1.5,1,1
+"Darlington County, South Carolina(6)",116.0,101.9,131.6,8.0,46.0,53.0,-7.6,1,1
+"Fort Bend County, Texas(6)",115.9,110.9,121.1,28.0,95.0,426.0,-0.8,1,1
+"Wilson County, Tennessee(6)",115.9,105.4,127.3,12.0,79.0,94.0,-1.3,1,1
+"Taylor County, Wisconsin(6)",115.9,90.2,147.1,3.0,70.0,15.0,0.6,0,0
+"Grant County, Indiana(6)",115.9,101.7,131.7,11.0,81.0,54.0,0.8,1,1
+"Love County, Oklahoma(6)",115.8,79.3,164.1,2.0,71.0,7.0,-2.9,1,1
+"Perquimans County, North Carolina(6)",115.8,88.3,150.8,2.0,100.0,15.0,-2.0,1,1
+"Alexander County, Illinois(6)",115.8,75.4,171.9,1.0,100.0,6.0,-2.2,1,1
+"Fannin County, Georgia(7)",115.8,93.5,142.6,5.0,143.0,24.0,3.6,1,1
+"Covington County, Mississippi(6)",115.8,89.5,147.7,1.0,78.0,14.0,1.7,0,0
+"Phillips County, Arkansas(6)",115.8,88.9,148.4,2.0,75.0,14.0,0.5,0,0
+"Ward County, Texas(6)",115.8,81.0,160.8,1.0,195.0,8.0,1.9,1,1
+"Wallowa County, Oregon(6)",115.8,78.1,169.7,1.0,33.0,7.0,-1.9,0,0
+"Lincoln County, Wisconsin(6)",115.7,95.1,140.1,6.0,69.0,25.0,-0.4,0,1
+"Coos County, New Hampshire(6)",115.7,95.8,139.1,6.0,10.0,28.0,-0.2,0,1
+"LaGrange County, Indiana(6)",115.7,94.5,140.1,2.0,89.0,22.0,-1.4,1,1
+"Hamblen County, Tennessee(6)",115.7,101.6,131.3,7.0,85.0,52.0,-0.3,1,1
+"LaMoure County, North Dakota(6)",115.7,66.7,194.3,1.0,30.0,4.0,2.3,0,0
+"Tillamook County, Oregon(6)",115.6,93.4,142.2,2.0,33.0,24.0,-1.5,0,1
+"Warren County, Mississippi(6)",115.6,98.5,135.0,7.0,73.0,35.0,-0.7,1,1
+"Matagorda County, Texas(6)",115.6,95.8,138.4,3.0,173.0,26.0,-0.6,1,1
+"Red River Parish, Louisiana(7)",115.6,79.5,163.9,1.0,64.0,7.0,4.1,0,0
+"Charlottesville City, Virginia(6)",115.6,95.9,138.2,13.0,123.0,25.0,-1.3,1,1
+"Mitchell County, Iowa(7)",115.6,81.2,160.6,3.0,98.0,9.0,0.1,1,1
+"Milam County, Texas(6)",115.6,92.3,143.3,1.0,180.0,19.0,0.2,1,1
+"Tippecanoe County, Indiana(6)",115.6,105.3,126.5,17.0,76.0,99.0,-0.2,1,1
+"Richland Parish, Louisiana(7)",115.6,90.3,146.0,4.0,63.0,15.0,1.5,0,0
+"Giles County, Virginia(6)",115.5,89.3,147.9,6.0,125.0,15.0,-2.4,1,1
+"Grand Isle County, Vermont(6)",115.5,75.1,172.9,1.0,14.0,6.0,-0.4,0,0
+"Harrison County, Mississippi(6)",115.5,106.8,124.8,18.0,63.0,136.0,1.3,0,1
+"Erath County, Texas(6)",115.5,95.2,138.9,2.0,173.0,24.0,2.5,1,1
+"Gem County, Idaho(7)",115.5,88.6,148.8,3.0,36.0,14.0,-0.2,0,1
+"Jackson County, Oklahoma(6)",115.5,91.8,143.5,4.0,69.0,17.0,-0.4,0,1
+"Scotland County, North Carolina(6)",115.5,95.6,138.4,6.0,100.0,26.0,-0.7,1,1
+"Wabash County, Indiana(6)",115.4,94.7,139.5,3.0,89.0,25.0,0.6,0,0
+"Rankin County, Mississippi(6)",115.4,105.5,126.0,16.0,64.0,105.0,0.1,1,1
+"Charlton County, Georgia(7)",115.4,80.4,161.1,2.0,149.0,8.0,0.8,1,1
+"Schuylkill County, Pennsylvania(6)",115.2,105.6,125.6,24.0,67.0,118.0,-0.2,1,1
+"Limestone County, Alabama(6)",115.2,102.5,129.1,13.0,61.0,62.0,1.3,0,1
+"Union County, Ohio(6)",115.2,98.5,133.9,4.0,87.0,35.0,-1.0,1,1
+"Boundary County, Idaho(7)",115.2,83.1,156.9,2.0,37.0,10.0,-0.8,0,0
+"Dickenson County, Virginia(6)",115.1,86.4,151.2,6.0,127.0,12.0,-2.4,1,1
+"Kanawha County, West Virginia(6)",115.1,106.8,124.0,12.0,43.0,159.0,-0.4,0,1
+"Houston County, Tennessee(6)",115.1,78.7,164.5,1.0,95.0,7.0,1.2,0,0
+"Clarke County, Virginia(6)",115.1,86.2,151.7,4.0,127.0,12.0,-1.5,1,1
+"Fulton County, Pennsylvania(6)",115.1,86.0,151.8,1.0,67.0,12.0,0.1,0,0
+"Jasper County, Indiana(6)",115.1,94.6,138.8,3.0,88.0,24.0,1.0,0,0
+"Sumter County, Georgia(7)",115.0,94.1,139.4,8.0,141.0,23.0,0.3,1,1
+"Lancaster County, Virginia(6)",115.0,84.8,155.9,3.0,127.0,14.0,0.3,1,1
+"Lowndes County, Alabama(6)",115.0,80.1,160.5,2.0,67.0,8.0,2.2,0,0
+"Jackson County, Indiana(6)",115.0,96.7,135.7,6.0,87.0,30.0,-0.4,1,1
+"Rapides Parish, Louisiana(7)",114.9,104.4,126.3,18.0,56.0,93.0,0.8,1,1
+"Highland County, Ohio(6)",114.9,97.0,135.4,2.0,87.0,32.0,1.2,0,0
+"Wayne County, Pennsylvania(6)",114.9,98.5,133.6,6.0,67.0,42.0,-0.1,0,1
+"Okaloosa County, Florida(6)",114.9,106.2,124.2,9.0,54.0,138.0,-1.5,0,1
+"Randall County, Texas(6)",114.9,104.1,126.5,13.0,137.0,88.0,-1.5,1,1
+"Gunnison County, Colorado(6)",114.9,82.0,156.8,1.0,49.0,9.0,1.2,0,0
+"Meade County, South Dakota(6)",114.9,90.9,143.3,7.0,41.0,17.0,0.1,0,1
+"Haralson County, Georgia(7)",114.9,93.5,139.9,7.0,142.0,21.0,0.6,1,1
+"Lake County, California(7)",114.9,100.3,131.1,7.0,53.0,53.0,1.5,0,1
+"Franklin Parish, Louisiana(7)",114.8,89.0,146.1,4.0,63.0,15.0,1.4,0,0
+"Highlands County, Florida(6)",114.8,102.8,128.0,5.0,55.0,102.0,1.4,0,1
+"Cross County, Arkansas(6)",114.8,87.0,148.9,1.0,74.0,13.0,2.3,0,0
+"Defiance County, Ohio(6)",114.7,95.7,136.6,3.0,87.0,28.0,1.2,0,0
+"Wood County, West Virginia(6)",114.7,102.6,128.0,7.0,46.0,72.0,-0.6,0,1
+"Chickasaw County, Iowa(7)",114.7,82.6,156.1,4.0,97.0,10.0,-0.4,1,1
+"Taylor County, Georgia(7)",114.6,76.5,166.2,1.0,149.0,6.0,3.6,1,1
+"Lewis County, Washington(6)",114.6,101.5,129.1,11.0,36.0,62.0,-0.9,0,1
+"Morgan County, Missouri(6)",114.6,89.4,145.3,6.0,106.0,17.0,-2.1,1,1
+"Williams County, Ohio(6)",114.5,96.2,135.6,3.0,87.0,30.0,-0.4,1,1
+"Jefferson County, Mississippi(6)",114.5,73.4,171.1,1.0,80.0,5.0,0.8,0,0
+"Stephens County, Georgia(7)",114.5,92.5,140.6,8.0,142.0,21.0,0.5,1,1
+"Adams County, Mississippi(6)",114.5,94.1,138.4,5.0,76.0,25.0,-3.3,1,1
+"Cass County, Texas(6)",114.5,94.1,138.4,2.0,173.0,25.0,-7.8,1,1
+"Casey County, Kentucky(7)",114.5,86.0,149.8,1.0,117.0,12.0,-0.2,1,1
+"Yakima County, Washington(6)",114.5,106.3,123.1,17.0,34.0,151.0,-0.3,0,1
+"Macon County, Tennessee(6)",114.4,90.5,143.0,1.0,92.0,17.0,-1.1,1,1
+"Columbiana County, Ohio(6)",114.4,103.1,126.7,22.0,84.0,84.0,1.0,1,1
+"San Joaquin County, California(7)",114.3,109.5,119.4,24.0,46.0,432.0,-0.3,0,1
+"Cherokee County, Oklahoma(6)",114.3,96.7,134.3,5.0,65.0,32.0,0.1,0,1
+"Lincoln County, Montana(6)",114.3,88.9,145.8,5.0,39.0,18.0,-1.5,0,1
+"Franklin County, Florida(6)",114.3,77.7,163.3,1.0,67.0,8.0,21.1,0,0
+"Ohio County, Kentucky(7)",114.2,91.1,141.8,5.0,114.0,18.0,1.7,1,1
+"Douglas County, Washington(6)",114.2,95.9,135.2,5.0,37.0,29.0,-0.1,0,1
+"Kleberg County, Texas(6)",114.1,91.1,141.2,2.0,177.0,18.0,-0.1,1,1
+"Wharton County, Texas(6)",114.0,95.9,134.8,3.0,173.0,30.0,-0.2,1,1
+"Wayne County, Mississippi(6)",114.0,89.3,143.8,3.0,78.0,15.0,1.9,0,0
+"Putnam County, Florida(6)",114.0,100.6,128.8,3.0,58.0,61.0,-0.3,0,1
+"Bacon County, Georgia(7)",114.0,79.4,158.7,2.0,149.0,8.0,0.6,1,1
+"Jackson County, Alabama(6)",113.9,97.9,132.0,10.0,64.0,40.0,0.2,1,1
+"Lawrence County, Illinois(6)",113.9,85.6,149.6,3.0,100.0,12.0,0.0,1,1
+"Montgomery County, Kentucky(7)",113.9,92.0,139.6,7.0,115.0,20.0,-1.1,1,1
+"Pembina County, North Dakota(6)",113.9,72.1,173.2,2.0,30.0,6.0,1.8,0,0
+"Utah County, Utah(7)",113.8,107.1,120.8,5.0,17.0,221.0,0.3,0,1
+"Montgomery County, Virginia(6)",113.8,100.1,128.8,34.0,119.0,53.0,-0.8,1,1
+"Lee County, Kentucky(7)",113.8,71.1,174.5,1.0,118.0,5.0,1.1,1,1
+"Dona Ana County, New Mexico(7)",113.8,105.1,123.0,6.0,18.0,135.0,2.5,0,1
+"Trumbull County, Ohio(6)",113.7,105.7,122.2,37.0,81.0,171.0,-0.7,1,1
+"Iroquois County, Illinois(6)",113.7,93.1,138.0,16.0,99.0,24.0,2.0,1,1
+"Austin County, Texas(6)",113.7,92.4,138.7,2.0,177.0,22.0,-1.5,1,1
+"Cass County, Illinois(6)",113.7,82.6,153.3,3.0,100.0,9.0,-1.6,1,1
+"Manassas City, Virginia(6)",113.7,92.7,137.8,13.0,124.0,22.0,-1.3,1,1
+"Fayette County, Tennessee(6)",113.6,95.7,134.2,6.0,91.0,32.0,-7.2,1,1
+"Lauderdale County, Tennessee(6)",113.6,90.8,140.6,2.0,93.0,18.0,-0.1,1,1
+"Little River County, Arkansas(6)",113.5,83.4,152.1,2.0,75.0,10.0,-0.5,1,1
+"Hancock County, Ohio(6)",113.5,99.8,128.6,14.0,86.0,54.0,-0.7,1,1
+"Chicot County, Arkansas(6)",113.5,79.1,158.5,1.0,75.0,8.0,1.9,0,0
+"Van Buren County, Arkansas(6)",113.5,88.1,145.1,2.0,74.0,16.0,0.9,0,0
+"DeSoto County, Mississippi(6)",113.4,104.0,123.5,19.0,65.0,110.0,0.7,1,1
+"Benton County, Missouri(6)",113.4,87.8,145.3,5.0,106.0,18.0,-0.5,1,1
+"Graham County, Arizona(6)",113.4,92.1,138.2,1.0,11.0,21.0,-1.0,0,1
+"Peach County, Georgia(7)",113.4,90.4,140.5,8.0,144.0,18.0,-1.2,1,1
+"Izard County, Arkansas(6)",113.4,83.7,151.6,2.0,75.0,12.0,-0.6,1,1
+"Caledonia County, Vermont(6)",113.4,92.7,137.6,4.0,14.0,24.0,13.5,0,0
+"Leon County, Florida(6)",113.4,105.5,121.6,11.0,54.0,166.0,-1.2,1,1
+"Natrona County, Wyoming(6)",113.3,99.8,128.3,4.0,19.0,54.0,-1.0,0,1
+"Grant County, Washington(6)",113.3,100.1,127.9,13.0,36.0,55.0,0.1,0,1
+"Randolph County, West Virginia(6)",113.3,91.4,139.1,2.0,52.0,22.0,-0.3,0,1
+"Flagler County, Florida(6)",113.3,103.1,124.4,7.0,55.0,112.0,-2.1,1,1
+"Linn County, Oregon(6)",113.2,102.6,124.7,11.0,32.0,91.0,-0.4,0,1
+"Sagadahoc County, Maine(6)",113.2,95.1,134.1,3.0,16.0,30.0,-2.2,0,1
+"Taylor County, West Virginia(6)",113.2,86.7,146.0,1.0,54.0,13.0,11.7,0,0
+"Howard County, Arkansas(6)",113.2,82.5,151.9,1.0,75.0,10.0,3.5,0,0
+"Lavaca County, Texas(6)",113.2,87.7,144.2,1.0,183.0,17.0,0.8,1,1
+"Hot Springs County, Wyoming(6)",113.1,67.2,184.2,1.0,22.0,5.0,-4.4,0,0
+"Lewis County, Missouri(6)",113.1,78.3,159.1,2.0,111.0,8.0,-2.5,1,1
+"Poinsett County, Arkansas(6)",113.1,90.0,140.6,3.0,74.0,18.0,-1.8,1,1
+"Hopkins County, Kentucky(7)",113.1,96.6,131.7,17.0,111.0,36.0,-0.7,1,1
+"Elmore County, Idaho(7)",113.1,87.9,143.2,4.0,36.0,14.0,-0.9,0,1
+"Navarro County, Texas(6)",113.1,96.5,131.8,5.0,167.0,35.0,0.7,1,1
+"Cleburne County, Arkansas(6)",113.0,92.5,137.6,4.0,72.0,25.0,0.2,1,1
+"Yuba County, California(7)",113.0,97.9,129.8,7.0,54.0,43.0,-1.6,1,1
+"Searcy County, Arkansas(6)",113.0,77.2,162.6,1.0,75.0,8.0,3.9,0,0
+"Coles County, Illinois(6)",113.0,95.9,132.4,18.0,98.0,35.0,-1.0,1,1
+"Riverside County, California(7)",113.0,110.4,115.7,29.0,45.0,1450.0,-0.7,0,1
+"McIntosh County, Oklahoma(6)",113.0,87.2,144.5,3.0,70.0,17.0,-0.4,1,1
+"Wood County, Texas(6)",113.0,95.8,132.7,3.0,168.0,40.0,2.0,1,1
+"Terrebonne Parish, Louisiana(7)",113.0,101.4,125.5,18.0,59.0,73.0,0.1,1,1
+"Lincoln County, Kentucky(7)",112.9,90.8,139.2,7.0,114.0,19.0,0.5,1,1
+"Snyder County, Pennsylvania(6)",112.9,95.0,133.5,9.0,67.0,30.0,-0.1,1,1
+"Jim Wells County, Texas(6)",112.9,94.3,134.2,5.0,173.0,27.0,0.7,1,1
+"Simpson County, Kentucky(7)",112.9,86.9,144.7,2.0,117.0,14.0,-0.1,1,1
+"Jefferson Davis County, Mississippi(6)",112.8,81.5,153.3,1.0,79.0,10.0,-2.2,1,1
+"Athens County, Ohio(6)",112.8,96.5,131.2,9.0,87.0,36.0,-0.1,1,1
+"Washington County, Indiana(6)",112.8,91.2,138.3,2.0,90.0,20.0,0.9,1,1
+"Montgomery County, Tennessee(6)",112.8,102.7,123.6,18.0,82.0,95.0,0.5,1,1
+"Lassen County, California(7)",112.8,88.4,142.2,1.0,56.0,16.0,3.1,0,0
+"Jones County, North Carolina(6)",112.8,79.8,156.8,1.0,100.0,9.0,0.9,1,1
+"Coryell County, Texas(6)",112.8,97.4,129.9,6.0,157.0,39.0,0.5,1,1
+"Minidoka County, Idaho(7)",112.8,86.3,145.0,4.0,37.0,13.0,-0.6,0,1
+"Crawford County, Ohio(6)",112.8,95.8,132.2,6.0,87.0,35.0,-9.9,1,1
+"Tuscarawas County, Ohio(6)",112.7,100.9,125.7,23.0,85.0,73.0,0.4,1,1
+"Mohave County, Arizona(6)",112.7,104.6,121.4,2.0,8.0,193.0,0.6,0,1
+"Tooele County, Utah(7)",112.7,95.0,132.6,2.0,21.0,30.0,-0.1,0,1
+"Cache County, Utah(7)",112.7,99.0,127.7,3.0,20.0,50.0,0.0,0,1
+"Mason County, Illinois(6)",112.7,82.3,151.3,4.0,100.0,10.0,-2.6,1,1
+"Preston County, West Virginia(6)",112.7,93.0,135.7,4.0,51.0,25.0,0.9,0,1
+"Cass County, Indiana(6)",112.6,93.7,134.5,5.0,89.0,27.0,-1.0,1,1
+"Washington County, Maine(6)",112.6,93.3,135.2,2.0,16.0,28.0,-0.5,0,1
+"Lawrence County, Arkansas(6)",112.6,86.1,145.4,2.0,74.0,14.0,0.4,1,1
+"Pendleton County, West Virginia(6)",112.6,72.2,170.1,1.0,55.0,6.0,0.8,0,0
+"Lonoke County, Arkansas(6)",112.6,98.1,128.7,7.0,67.0,45.0,-0.4,1,1
+"Kittitas County, Washington(6)",112.6,93.3,134.8,4.0,37.0,27.0,-1.8,1,1
+"Taos County, New Mexico(7)",112.6,93.1,135.3,4.0,23.0,29.0,-0.2,0,1
+"Ravalli County, Montana(6)",112.6,95.8,131.9,11.0,37.0,37.0,0.3,0,1
+"St. Bernard Parish, Louisiana(7)",112.6,93.0,135.0,8.0,62.0,25.0,-0.3,1,1
+"Henry County, Alabama(6)",112.6,85.4,146.2,3.0,67.0,13.0,-1.9,1,1
+"Henry County, Tennessee(6)",112.5,94.3,133.8,5.0,90.0,30.0,-0.5,1,1
+"Iron County, Utah(7)",112.5,93.0,134.8,2.0,22.0,24.0,-0.5,0,1
+"White County, Arkansas(6)",112.5,99.1,127.2,9.0,66.0,54.0,-0.7,1,1
+"Edgefield County, South Carolina(6)",112.4,90.2,139.0,2.0,46.0,20.0,-1.5,1,1
+"Wood County, Wisconsin(6)",112.4,99.4,126.8,19.0,68.0,60.0,-1.1,1,1
+"Woods County, Oklahoma(6)",112.4,72.7,166.5,2.0,71.0,6.0,-1.6,1,1
+"Des Moines County, Iowa(7)",112.4,94.4,133.0,19.0,92.0,32.0,-2.8,1,1
+"Cullman County, Alabama(6)",112.4,99.8,126.2,15.0,62.0,63.0,0.7,1,1
+"Tangipahoa Parish, Louisiana(7)",112.4,101.5,124.1,20.0,58.0,84.0,-0.2,1,1
+"LaPorte County, Indiana(6)",112.3,101.0,124.7,21.0,81.0,78.0,-0.6,1,1
+"Unicoi County, Tennessee(6)",112.3,86.9,143.7,1.0,94.0,15.0,-2.1,1,1
+"Braxton County, West Virginia(6)",112.3,82.7,149.8,1.0,54.0,11.0,3.2,0,0
+"Bexar County, Texas(6)",112.3,109.3,115.3,48.0,99.0,1100.0,-0.6,1,1
+"St. Croix County, Wisconsin(6)",112.2,98.9,126.8,21.0,68.0,54.0,-8.3,1,1
+"Alcorn County, Mississippi(6)",112.2,93.9,133.2,7.0,76.0,28.0,1.8,1,1
+"Polk County, Nebraska(6)",112.2,66.1,180.7,2.0,64.0,4.0,-0.7,1,1
+"Moniteau County, Missouri(6)",112.1,81.9,150.1,3.0,110.0,10.0,1.8,1,1
+"Gibson County, Tennessee(6)",112.1,95.8,130.6,7.0,89.0,37.0,-1.1,1,1
+"King George County, Virginia(6)",112.1,88.4,140.5,10.0,126.0,16.0,-0.2,1,1
+"Gooding County, Idaho(7)",112.1,81.5,150.6,3.0,37.0,10.0,0.2,0,0
+"Sierra County, New Mexico(7)",112.1,84.0,150.1,3.0,28.0,13.0,-1.1,0,1
+"Charles Mix County, South Dakota(6)",112.1,74.8,161.9,3.0,42.0,7.0,-1.4,1,1
+"San Bernardino County, California(7)",112.0,109.1,114.9,30.0,46.0,1189.0,-0.5,0,1
+"Scott County, Tennessee(6)",112.0,87.1,142.0,1.0,94.0,15.0,-0.7,1,1
+"Chickasaw County, Mississippi(6)",111.9,85.2,144.9,2.0,79.0,13.0,2.2,1,1
+"Umatilla County, Oregon(6)",111.9,97.8,127.5,8.0,33.0,48.0,-0.9,1,1
+"Tyler County, West Virginia(6)",111.9,78.1,157.7,1.0,55.0,8.0,-2.0,1,1
+"Ashe County, North Carolina(6)",111.9,90.5,137.4,7.0,100.0,23.0,0.9,1,1
+"Tuolumne County, California(7)",111.8,96.1,129.6,7.0,54.0,48.0,-2.6,1,1
+"Sitka Borough, Alaska(6)",111.8,72.5,165.3,1.0,14.0,5.0,-2.1,0,0
+"Pima County, Arizona(6)",111.8,108.0,115.7,3.0,7.0,731.0,-0.7,0,1
+"Washington Parish, Louisiana(7)",111.7,94.6,131.1,11.0,62.0,33.0,0.5,1,1
+"Dodge County, Wisconsin(6)",111.7,99.0,125.6,24.0,68.0,61.0,-0.9,1,1
+"Graham County, North Carolina(6)",111.6,75.7,160.5,1.0,100.0,7.0,0.1,1,1
+"Taney County, Missouri(6)",111.6,96.0,129.2,19.0,99.0,42.0,0.7,1,1
+"Kern County, California(7)",111.6,106.9,116.4,28.0,48.0,450.0,-0.3,1,1
+"Harrison County, Ohio(6)",111.6,83.7,146.5,1.0,88.0,13.0,1.2,1,1
+"Kendall County, Texas(6)",111.5,94.0,131.6,3.0,172.0,32.0,0.4,1,1
+"Daviess County, Indiana(6)",111.5,90.6,135.8,5.0,89.0,21.0,1.4,1,1
+"Clay County, Mississippi(6)",111.5,86.0,142.3,3.0,78.0,14.0,0.8,1,1
+"Baker County, Florida(6)",111.5,88.7,138.5,2.0,64.0,17.0,-1.4,1,1
+"Allen County, Ohio(6)",111.4,99.9,124.0,23.0,85.0,74.0,-1.4,1,1
+"Orange County, Florida(6)",111.4,107.8,115.1,29.0,52.0,755.0,-0.9,1,1
+"Newton County, Missouri(6)",111.4,96.2,128.4,24.0,98.0,42.0,-1.2,1,1
+"Cassia County, Idaho(7)",111.4,86.3,141.6,4.0,36.0,14.0,2.6,0,1
+"Calhoun County, Alabama(6)",111.4,100.8,122.9,21.0,62.0,87.0,0.1,1,1
+"Bronx County, New York(7)",111.4,108.1,114.7,50.0,61.0,898.0,0.2,1,1
+"Charlotte County, Virginia(6)",111.4,82.6,148.6,6.0,128.0,11.0,1.0,1,1
+"Logan County, Colorado(6)",111.4,84.7,144.1,2.0,48.0,13.0,-1.8,1,1
+"Covington City, Virginia(6)",111.3,69.8,172.9,1.0,131.0,5.0,2.4,1,1
+"Appling County, Georgia(7)",111.3,84.3,144.4,5.0,147.0,12.0,0.9,1,1
+"Grand County, Utah(7)",111.3,74.1,160.9,1.0,24.0,6.0,1.4,0,0
+"King and Queen County, Virginia(6)",111.2,71.7,167.3,2.0,131.0,6.0,-0.1,1,1
+"Steuben County, New York(7)",111.2,99.6,123.8,36.0,62.0,74.0,-1.8,1,1
+"Crook County, Wyoming(6)",111.2,67.1,173.5,1.0,22.0,5.0,3.1,0,0
+"Harris County, Texas(6)",111.2,109.2,113.2,57.0,99.0,2418.0,-1.2,1,1
+"Leake County, Mississippi(6)",111.2,86.7,140.7,3.0,78.0,15.0,2.1,1,1
+"Hudson County, New Jersey(7)",111.1,106.2,116.3,19.0,21.0,389.0,0.5,0,1
+"Jackson County, Kentucky(7)",111.1,81.4,149.0,2.0,118.0,10.0,-0.3,1,1
+"Nicholas County, West Virginia(6)",111.1,89.5,136.8,3.0,53.0,20.0,0.2,1,1
+"Mercer County, West Virginia(6)",111.0,96.8,127.0,9.0,49.0,49.0,0.5,1,1
+"Iowa County, Iowa(7)",111.0,83.2,145.6,6.0,97.0,12.0,0.7,1,1
+"Lincoln County, Tennessee(6)",111.0,91.9,133.2,4.0,92.0,26.0,1.0,1,1
+"Westmoreland County, Virginia(6)",111.0,87.0,140.7,12.0,126.0,17.0,0.0,1,1
+"Valley County, Idaho(7)",110.9,76.9,157.1,2.0,37.0,8.0,-2.4,1,1
+"Sumter County, Florida(6)",110.9,98.1,125.4,5.0,59.0,169.0,-1.3,1,1
+"Vinton County, Ohio(6)",110.9,81.3,148.8,1.0,88.0,10.0,-1.3,1,1
+"Colbert County, Alabama(6)",110.9,95.9,127.7,12.0,64.0,43.0,0.4,1,1
+"Wagoner County, Oklahoma(6)",110.9,97.5,125.7,14.0,63.0,53.0,-0.7,1,1
+"Logan County, West Virginia(6)",110.9,92.5,132.2,5.0,52.0,28.0,0.2,1,1
+"Wayne County, Indiana(6)",110.8,97.0,126.2,15.0,85.0,51.0,0.4,1,1
+"Brown County, Illinois(6)",110.8,62.9,183.3,1.0,100.0,3.0,-1.2,1,1
+"Polk County, Wisconsin(6)",110.8,93.8,130.2,15.0,69.0,34.0,2.0,1,1
+"Lampasas County, Texas(6)",110.8,86.3,140.4,2.0,189.0,15.0,1.1,1,1
+"Boone County, West Virginia(6)",110.7,87.9,138.2,2.0,53.0,18.0,-0.9,1,1
+"Hawkins County, Tennessee(6)",110.7,96.2,127.0,12.0,90.0,46.0,0.3,1,1
+"Fayette County, Iowa(7)",110.7,85.5,141.4,12.0,96.0,16.0,-0.2,1,1
+"Lumpkin County, Georgia(7)",110.7,89.5,135.6,11.0,145.0,21.0,-2.1,1,1
+"Fresno County, California(7)",110.7,106.4,115.0,30.0,48.0,528.0,-0.7,1,1
+"Mendocino County, California(7)",110.6,98.4,124.0,13.0,53.0,69.0,-1.1,1,1
+"Wabash County, Illinois(6)",110.6,78.8,151.9,3.0,100.0,9.0,-0.9,1,1
+"Beaufort County, North Carolina(6)",110.6,94.7,128.6,27.0,100.0,41.0,0.0,1,1
+"Union County, Oregon(6)",110.5,88.3,137.0,3.0,33.0,20.0,-1.9,1,1
+"Carter County, Kentucky(7)",110.5,89.2,135.6,8.0,115.0,20.0,-15.9,1,1
+"Kossuth County, Iowa(7)",110.5,81.5,147.1,6.0,98.0,12.0,0.1,1,1
+"Jackson County, Ohio(6)",110.5,90.9,133.2,5.0,88.0,24.0,0.3,1,1
+"Phelps County, Missouri(6)",110.4,92.3,131.2,14.0,103.0,29.0,-1.2,1,1
+"Jefferson Davis Parish, Louisiana(7)",110.4,90.0,134.2,9.0,63.0,22.0,0.4,1,1
+"Adams County, Ohio(6)",110.3,89.0,135.5,2.0,88.0,20.0,-0.6,1,1
+"Bates County, Missouri(6)",110.3,83.5,143.6,6.0,109.0,13.0,1.5,1,1
+"Owen County, Indiana(6)",110.3,86.8,138.8,3.0,91.0,17.0,1.6,1,1
+"Jefferson County, Pennsylvania(6)",110.3,93.4,129.5,14.0,67.0,34.0,-0.5,1,1
+"Rappahannock County, Virginia(6)",110.2,74.0,161.8,2.0,131.0,7.0,-4.6,1,1
+"Columbia County, Washington(6)",110.2,60.9,189.7,1.0,38.0,3.0,-3.3,1,1
+"Washington County, Illinois(6)",110.2,82.1,145.6,5.0,100.0,11.0,1.2,1,1
+"Vernon Parish, Louisiana(7)",110.1,91.5,131.4,10.0,63.0,25.0,1.0,1,1
+"Madera County, California(7)",110.1,100.1,120.9,20.0,53.0,92.0,-0.6,1,1
+"Hockley County, Texas(6)",110.1,85.5,139.8,2.0,187.0,14.0,2.8,1,1
+"Walker County, Alabama(6)",110.1,96.5,125.3,16.0,64.0,51.0,0.9,1,1
+"Cherry County, Nebraska(6)",110.1,67.8,172.0,2.0,64.0,5.0,-1.5,1,1
+"Hardin County, Texas(6)",110.1,94.7,127.4,9.0,165.0,39.0,-0.7,1,1
+"Whitley County, Kentucky(7)",110.1,91.4,131.6,12.0,114.0,26.0,-0.9,1,1
+"McDowell County, North Carolina(6)",109.9,93.8,128.3,29.0,100.0,36.0,-0.9,1,1
+"York County, Nebraska(6)",109.9,80.6,147.0,9.0,63.0,10.0,-2.8,1,1
+"Rains County, Texas(6)",109.7,75.6,154.9,1.0,195.0,8.0,0.8,1,1
+"Burke County, North Carolina(6)",109.7,98.2,122.4,49.0,98.0,72.0,-1.1,1,1
+"Clark County, Nevada(6)",109.7,107.0,112.5,4.0,9.0,1300.0,-0.2,0,1
+"Lubbock County, Texas(6)",109.7,102.1,117.7,31.0,132.0,163.0,-0.7,1,1
+"Wasco County, Oregon(6)",109.7,87.6,136.0,3.0,33.0,19.0,-1.5,1,1
+"DeKalb County, Missouri(6)",109.6,73.1,158.7,2.0,112.0,6.0,0.2,1,1
+"Tom Green County, Texas(6)",109.5,98.3,121.7,18.0,152.0,74.0,0.0,1,1
+"Rutherford County, North Carolina(6)",109.5,96.1,124.5,41.0,99.0,54.0,-0.9,1,1
+"Paulding County, Ohio(6)",109.5,83.5,141.4,1.0,88.0,13.0,0.2,1,1
+"Gage County, Nebraska(6)",109.5,86.7,137.1,13.0,62.0,18.0,-1.7,1,1
+"Menifee County, Kentucky(7)",109.5,66.2,171.8,1.0,118.0,5.0,1.7,1,1
+"Fentress County, Tennessee(6)",109.5,85.0,139.7,2.0,94.0,15.0,0.9,1,1
+"Etowah County, Alabama(6)",109.4,98.3,121.6,21.0,63.0,76.0,-0.5,1,1
+"Bannock County, Idaho(7)",109.4,95.7,124.6,10.0,34.0,49.0,-1.4,1,1
+"Indian River County, Florida(6)",109.4,100.3,119.2,16.0,57.0,146.0,-0.3,1,1
+"Bartow County, Georgia(7)",109.4,97.5,122.3,48.0,136.0,65.0,-0.7,1,1
+"Box Elder County, Utah(7)",109.3,91.6,129.5,3.0,22.0,28.0,-0.7,1,1
+"Madison County, Tennessee(6)",109.3,97.6,122.2,16.0,87.0,68.0,0.3,1,1
+"Bracken County, Kentucky(7)",109.3,72.6,159.3,1.0,118.0,6.0,-0.8,1,1
+"Johnson County, Tennessee(6)",109.3,82.8,142.6,1.0,94.0,13.0,0.2,1,1
+"Toombs County, Georgia(7)",109.3,87.7,134.7,14.0,145.0,19.0,0.5,1,1
+"Montgomery County, North Carolina(6)",109.2,88.1,134.2,13.0,100.0,21.0,-1.5,1,1
+"Polk County, Tennessee(6)",109.2,82.3,142.7,1.0,95.0,12.0,1.0,1,1
+"Klamath County, Oregon(6)",109.2,94.7,125.4,11.0,33.0,48.0,-1.0,1,1
+"Clearwater County, Idaho(7)",109.1,71.8,162.4,2.0,37.0,7.0,-3.8,1,1
+"Muskogee County, Oklahoma(6)",109.1,95.4,124.4,14.0,65.0,49.0,-0.3,1,1
+"Juniata County, Pennsylvania(6)",109.1,86.6,136.1,3.0,67.0,18.0,-0.1,1,1
+"Johnson County, Illinois(6)",109.1,78.4,149.5,5.0,100.0,9.0,-1.8,1,1
+"Midland County, Texas(6)",109.1,98.7,120.2,18.0,151.0,85.0,-1.3,1,1
+"Franklin County, Pennsylvania(6)",109.1,99.8,119.1,39.0,67.0,111.0,-1.2,1,1
+"Galveston County, Texas(6)",109.1,102.3,116.2,41.0,135.0,204.0,-1.0,1,1
+"Warren County, North Carolina(6)",109.0,85.6,137.8,6.0,100.0,18.0,-1.0,1,1
+"Greenwood County, South Carolina(6)",109.0,95.7,123.7,19.0,46.0,52.0,-1.6,1,1
+"Breathitt County, Kentucky(7)",109.0,79.4,146.7,2.0,118.0,10.0,2.6,1,1
+"Uvalde County, Texas(6)",108.9,85.2,137.1,2.0,187.0,16.0,-0.6,1,1
+"Buchanan County, Missouri(6)",108.9,96.3,122.8,32.0,98.0,58.0,-1.9,1,1
+"Churchill County, Nevada(6)",108.8,86.3,135.8,2.0,11.0,17.0,1.1,0,1
+"Kerr County, Texas(6)",108.8,93.1,126.6,9.0,171.0,44.0,0.2,1,1
+"Yoakum County, Texas(6)",108.8,66.6,166.9,1.0,197.0,4.0,2.4,1,1
+"Calhoun County, West Virginia(6)",108.8,71.0,161.7,1.0,55.0,6.0,1.7,1,1
+"Sequoyah County, Oklahoma(6)",108.7,91.3,128.7,10.0,67.0,30.0,0.1,1,1
+"Hancock County, Mississippi(6)",108.7,92.4,127.3,12.0,76.0,35.0,-0.2,1,1
+"Gonzales County, Texas(6)",108.7,83.3,139.6,2.0,190.0,13.0,2.4,1,1
+"McMinn County, Tennessee(6)",108.7,93.6,125.7,12.0,90.0,41.0,0.5,1,1
+"Darke County, Ohio(6)",108.7,93.3,126.1,13.0,87.0,39.0,-0.2,1,1
+"Mercer County, Ohio(6)",108.7,90.7,129.3,8.0,88.0,28.0,-0.2,1,1
+"Grady County, Georgia(7)",108.7,87.0,134.4,12.0,145.0,18.0,0.1,1,1
+"Lee County, Florida(6)",108.6,104.4,113.1,32.0,54.0,604.0,-5.4,1,1
+"Scott County, Mississippi(6)",108.6,86.4,134.8,6.0,78.0,18.0,0.8,1,1
+"Burnet County, Texas(6)",108.6,92.3,127.2,8.0,171.0,36.0,2.1,1,1
+"Grant County, South Dakota(6)",108.6,71.5,161.3,3.0,42.0,6.0,0.4,1,1
+"Marshall County, Illinois(6)",108.6,78.9,147.2,5.0,100.0,10.0,0.6,1,1
+"Sioux County, Iowa(7)",108.5,87.7,132.9,19.0,96.0,21.0,-0.1,1,1
+"Graves County, Kentucky(7)",108.5,90.1,129.6,15.0,114.0,27.0,-0.4,1,1
+"Jasper County, Texas(6)",108.5,89.5,130.4,5.0,178.0,26.0,-0.1,1,1
+"Carter County, Tennessee(6)",108.5,94.2,124.4,14.0,89.0,46.0,0.4,1,1
+"Lafayette County, Mississippi(6)",108.4,90.7,128.6,11.0,77.0,28.0,-0.5,1,1
+"Madison County, Arkansas(6)",108.4,79.8,144.2,2.0,75.0,10.0,1.2,1,1
+"Miami-Dade County, Florida(6)",108.4,106.2,110.7,36.0,53.0,1854.0,-0.3,0,1
+"Moore County, Texas(6)",108.4,81.3,141.5,2.0,192.0,11.0,2.3,1,1
+"Panola County, Mississippi(6)",108.4,88.4,131.6,10.0,78.0,22.0,1.6,1,1
+"Crosby County, Texas(6)",108.3,61.0,177.3,1.0,197.0,3.0,-0.4,1,1
+"Prince William County, Virginia(6)",108.2,101.9,114.8,83.0,118.0,234.0,-8.0,1,0
+"Citrus County, Florida(6)",108.2,98.8,118.4,15.0,58.0,150.0,0.0,1,1
+"Clay County, Iowa(7)",108.2,81.6,141.3,11.0,98.0,13.0,-1.0,1,1
+"Dallas County, Missouri(6)",108.2,80.6,142.6,6.0,109.0,12.0,-0.1,1,1
+"Leslie County, Kentucky(7)",108.1,76.9,149.3,2.0,118.0,8.0,1.7,1,1
+"Rabun County, Georgia(7)",108.1,83.4,139.3,7.0,147.0,15.0,-1.9,1,1
+"Crawford County, Arkansas(6)",108.1,93.5,124.3,11.0,71.0,42.0,0.5,1,1
+"Adams County, Indiana(6)",108.0,87.4,131.9,8.0,91.0,21.0,0.3,1,1
+"Coshocton County, Ohio(6)",107.9,89.7,129.1,8.0,88.0,27.0,0.3,1,1
+"Madison County, Virginia(6)",107.9,80.3,143.3,9.0,129.0,11.0,1.9,1,1
+"Barbour County, Alabama(6)",107.9,85.1,135.3,7.0,67.0,18.0,-1.2,1,1
+"Le Flore County, Oklahoma(6)",107.9,91.4,126.7,13.0,67.0,33.0,-0.3,1,1
+"Pontotoc County, Mississippi(6)",107.9,87.1,132.2,8.0,78.0,20.0,-1.1,1,1
+"Lauderdale County, Alabama(6)",107.9,96.4,120.5,22.0,64.0,71.0,0.3,1,1
+"Bingham County, Idaho(7)",107.9,89.6,128.8,9.0,36.0,26.0,0.6,1,1
+"Haskell County, Oklahoma(6)",107.9,78.5,145.6,4.0,71.0,10.0,-0.6,1,1
+"Humphreys County, Tennessee(6)",107.9,83.2,138.2,3.0,94.0,14.0,-5.9,1,1
+"McLennan County, Texas(6)",107.9,100.0,116.2,35.0,143.0,148.0,-0.9,1,1
+"Campbell County, Tennessee(6)",107.8,91.0,127.2,9.0,92.0,32.0,0.2,1,1
+"Franklin County, Arkansas(6)",107.8,81.5,140.3,3.0,75.0,13.0,-0.3,1,1
+"Washington County, Utah(7)",107.7,98.1,118.1,6.0,20.0,107.0,-0.5,1,1
+"Pulaski County, Illinois(6)",107.7,64.7,170.7,1.0,100.0,4.0,1.3,1,1
+"Carroll County, Tennessee(6)",107.7,88.0,131.0,6.0,93.0,22.0,-1.2,1,1
+"Montgomery County, Georgia(7)",107.7,70.9,157.8,2.0,150.0,6.0,0.1,1,1
+"Palo Pinto County, Texas(6)",107.7,87.1,131.9,4.0,180.0,21.0,0.5,1,1
+"Osage County, Missouri(6)",107.6,78.4,145.1,3.0,111.0,9.0,-0.1,1,1
+"Franklin County, Tennessee(6)",107.6,90.6,127.1,8.0,92.0,31.0,0.0,1,1
+"Franklin County, Massachusetts(7)",107.6,94.9,121.7,11.0,14.0,60.0,-1.2,1,1
+"Richland County, Wisconsin(6)",107.6,81.9,139.5,5.0,70.0,14.0,2.0,1,1
+"Bell County, Kentucky(7)",107.6,87.3,131.6,13.0,116.0,21.0,-1.1,1,1
+"Ketchikan Gateway Borough, Alaska(6)",107.5,75.2,149.2,1.0,14.0,8.0,-0.6,1,1
+"Ripley County, Missouri(6)",107.4,78.8,143.9,5.0,110.0,10.0,-2.2,1,1
+"Fergus County, Montana(6)",107.4,76.0,148.7,4.0,40.0,9.0,-1.1,1,1
+"Marshall County, Oklahoma(6)",107.4,81.0,140.3,4.0,71.0,13.0,-0.7,1,1
+"Delaware County, New York(7)",107.4,91.5,125.6,30.0,62.0,38.0,-1.5,1,1
+"Montgomery County, Arkansas(6)",107.3,74.3,152.7,2.0,75.0,8.0,-1.8,1,1
+"Houston County, Alabama(6)",107.3,96.2,119.3,24.0,64.0,73.0,-0.4,1,1
+"Wolfe County, Kentucky(7)",107.3,69.2,160.5,1.0,118.0,5.0,-1.0,1,1
+"Wichita County, Texas(6)",107.2,96.6,118.8,20.0,156.0,80.0,-1.4,1,1
+"Chouteau County, Montana(6)",107.2,64.6,169.9,2.0,40.0,4.0,-1.2,1,1
+"Payne County, Oklahoma(6)",107.2,92.2,124.0,13.0,67.0,39.0,-1.7,1,1
+"Kings County, California(7)",107.2,95.8,119.6,21.0,54.0,65.0,-1.5,1,1
+"Dillon County, South Carolina(6)",107.2,87.0,130.8,7.0,46.0,22.0,-0.3,1,1
+"Kauai County, Hawaii(7)",107.2,94.0,121.9,4.0,4.0,53.0,0.0,0,1
+"Russell County, Alabama(6)",107.2,91.8,124.4,17.0,66.0,37.0,-19.6,1,0
+"Hall County, Nebraska(6)",107.2,92.2,123.9,24.0,59.0,38.0,-1.9,1,1
+"Gordon County, Georgia(7)",107.1,91.8,124.3,37.0,142.0,36.0,-1.3,1,1
+"Ralls County, Missouri(6)",107.1,72.7,153.1,4.0,112.0,7.0,-2.7,1,1
+"Brazoria County, Texas(6)",107.1,100.3,114.2,47.0,140.0,191.0,-1.5,1,1
+"Hancock County, Iowa(7)",107.0,74.1,150.6,5.0,98.0,8.0,-1.2,1,1
+"Nueces County, Texas(6)",107.0,100.6,113.8,46.0,136.0,217.0,-0.4,1,1
+"Madison County, Nebraska(6)",107.0,87.7,129.4,19.0,61.0,23.0,-0.5,1,1
+"Fulton County, Arkansas(6)",107.0,77.8,145.2,2.0,75.0,11.0,-1.2,1,1
+"Grayson County, Virginia(6)",106.9,81.8,138.9,12.0,128.0,14.0,-2.2,1,1
+"Christian County, Kentucky(7)",106.9,91.3,124.3,31.0,114.0,35.0,-2.3,1,1
+"Madison County, Ohio(6)",106.8,89.3,127.1,10.0,88.0,27.0,-0.5,1,1
+"Lincoln Parish, Louisiana(7)",106.8,88.0,128.5,12.0,63.0,25.0,0.6,1,1
+"Floyd County, Texas(6)",106.8,63.7,169.4,1.0,197.0,4.0,-2.7,1,1
+"Coconino County, Arizona(6)",106.8,95.6,118.9,2.0,10.0,72.0,0.0,0,1
+"Montezuma County, Colorado(6)",106.8,85.2,132.6,6.0,47.0,19.0,-1.1,1,1
+"Monroe County, Tennessee(6)",106.7,90.9,124.8,12.0,92.0,36.0,-0.1,1,1
+"Perry County, Missouri(6)",106.6,80.6,138.6,6.0,109.0,12.0,-1.7,1,1
+"Orange County, Texas(6)",106.6,94.0,120.5,17.0,163.0,55.0,-0.7,1,1
+"Hertford County, North Carolina(6)",106.6,85.2,132.3,16.0,100.0,19.0,-0.6,1,1
+"San Augustine County, Texas(6)",106.6,71.7,154.6,1.0,196.0,7.0,1.8,1,1
+"Simpson County, Mississippi(6)",106.6,85.3,131.7,7.0,79.0,19.0,-0.1,1,1
+"Grant County, Oregon(6)",106.5,67.3,163.2,1.0,33.0,6.0,0.6,1,1
+"Cumberland County, Illinois(6)",106.5,72.7,151.2,4.0,100.0,7.0,32.3,0,0
+"Tipton County, Tennessee(6)",106.5,91.6,123.3,15.0,91.0,38.0,-0.1,1,1
+"St. Martin Parish, Louisiana(7)",106.4,90.5,124.3,19.0,62.0,34.0,-1.2,1,1
+"Humboldt County, California(7)",106.3,96.2,117.3,25.0,54.0,90.0,-1.9,1,1
+"Burleson County, Texas(6)",106.3,81.2,137.4,2.0,191.0,14.0,0.6,1,1
+"Garfield County, Colorado(6)",106.3,89.9,124.8,11.0,46.0,32.0,-1.3,1,1
+"Roane County, West Virginia(6)",106.2,79.4,140.4,2.0,55.0,11.0,-0.4,1,1
+"Giles County, Tennessee(6)",106.2,87.4,128.4,8.0,93.0,24.0,0.9,1,1
+"Hamilton County, Texas(6)",106.2,70.6,155.5,1.0,197.0,7.0,-0.9,1,1
+"Huerfano County, Colorado(6)",106.1,66.3,166.5,1.0,50.0,6.0,1.4,1,1
+"Jackson County, North Carolina(6)",106.1,88.3,126.7,23.0,100.0,29.0,1.0,1,1
+"Malheur County, Oregon(6)",106.1,84.0,132.3,4.0,33.0,18.0,-0.2,1,1
+"Fayette County, Illinois(6)",106.1,82.7,134.6,14.0,100.0,15.0,0.2,1,1
+"McCreary County, Kentucky(7)",106.0,79.2,139.7,5.0,118.0,11.0,-0.7,1,1
+"El Paso County, Texas(6)",106.0,101.7,110.5,65.0,130.0,455.0,0.3,1,1
+"Cherokee County, Texas(6)",106.0,89.5,124.6,9.0,178.0,32.0,-0.2,1,1
+"Butte County, South Dakota(6)",105.9,73.0,149.9,5.0,42.0,7.0,-0.8,1,1
+"Evangeline Parish, Louisiana(7)",105.9,85.8,129.3,10.0,63.0,21.0,-0.8,1,1
+"Montgomery County, Texas(6)",105.9,100.6,111.4,58.0,139.0,314.0,-5.9,1,0
+"Lincoln County, Mississippi(6)",105.9,86.9,127.9,10.0,78.0,23.0,-0.3,1,1
+"Van Zandt County, Texas(6)",105.9,90.6,123.1,14.0,177.0,39.0,0.5,1,1
+"Fannin County, Texas(6)",105.9,86.4,128.6,6.0,181.0,23.0,-1.4,1,1
+"Mineral County, West Virginia(6)",105.8,85.4,130.2,4.0,53.0,21.0,-1.4,1,1
+"Noxubee County, Mississippi(6)",105.8,73.5,147.9,1.0,80.0,7.0,0.1,1,1
+"Glades County, Florida(6)",105.7,74.5,147.3,1.0,67.0,10.0,0.8,1,1
+"Blaine County, Oklahoma(6)",105.7,73.0,149.4,3.0,71.0,7.0,-0.7,1,1
+"Pittsburg County, Oklahoma(6)",105.7,88.8,125.1,13.0,68.0,31.0,0.2,1,1
+"Hickman County, Kentucky(7)",105.7,57.1,181.1,1.0,118.0,4.0,-1.2,1,1
+"Pulaski County, Virginia(6)",105.7,88.3,126.0,34.0,124.0,29.0,0.1,1,1
+"Wells County, Indiana(6)",105.7,84.8,130.4,6.0,90.0,20.0,-1.5,1,1
+"Winston County, Mississippi(6)",105.7,80.1,137.1,4.0,79.0,13.0,-0.2,1,1
+"Martin County, Kentucky(7)",105.7,73.6,147.9,2.0,118.0,8.0,0.6,1,1
+"Bryan County, Oklahoma(6)",105.6,88.8,124.8,14.0,68.0,30.0,-1.2,1,1
+"Robeson County, North Carolina(6)",105.6,95.6,116.4,65.0,99.0,86.0,7.8,1,1
+"Pike County, Georgia(7)",105.6,80.3,137.0,8.0,147.0,12.0,-0.4,1,1
+"McKenzie County, North Dakota(6)",105.6,67.3,157.0,4.0,30.0,5.0,-2.5,1,1
+"Trinity County, California(7)",105.5,76.4,144.0,1.0,56.0,11.0,-0.1,1,1
+"Vermilion County, Illinois(6)",105.5,92.9,119.5,51.0,98.0,56.0,-1.4,1,1
+"Greene County, Arkansas(6)",105.5,88.6,124.8,10.0,73.0,29.0,0.6,1,1
+"Walton County, Florida(6)",105.5,91.5,121.2,9.0,62.0,46.0,-1.3,1,1
+"Ouray County, Colorado(6)",105.5,57.3,185.0,1.0,50.0,4.0,-3.0,1,1
+"Wilkinson County, Georgia(7)",105.5,71.3,151.6,3.0,150.0,7.0,1.3,1,1
+"Orange County, Vermont(6)",105.4,85.2,129.5,6.0,14.0,21.0,-1.3,1,1
+"Harlan County, Kentucky(7)",105.4,84.5,130.1,17.0,117.0,20.0,0.1,1,1
+"Yadkin County, North Carolina(6)",105.4,88.0,125.4,29.0,100.0,28.0,-0.4,1,1
+"Jackson County, Tennessee(6)",105.4,76.3,143.7,1.0,95.0,10.0,-0.5,1,1
+"Newton County, Indiana(6)",105.4,77.4,141.1,2.0,91.0,10.0,-2.1,1,1
+"Hopkins County, Texas(6)",105.3,86.6,127.1,6.0,181.0,24.0,-0.5,1,1
+"Rowan County, Kentucky(7)",105.3,80.9,134.9,8.0,118.0,13.0,-1.4,1,1
+"Coffee County, Georgia(7)",105.3,87.5,125.7,24.0,145.0,26.0,-1.2,1,1
+"Neshoba County, Mississippi(6)",105.3,84.4,129.8,9.0,78.0,19.0,-0.9,1,1
+"Hill County, Texas(6)",105.3,86.2,127.5,5.0,183.0,25.0,0.6,1,1
+"Marshall County, Alabama(6)",105.2,93.6,117.9,25.0,64.0,64.0,0.1,1,1
+"Potter County, Texas(6)",105.2,93.8,117.6,25.0,161.0,65.0,0.1,1,1
+"Lane County, Oregon(6)",105.1,99.0,111.6,20.0,33.0,251.0,-12.1,1,1
+"Randolph County, Indiana(6)",105.1,83.4,131.0,7.0,91.0,18.0,-1.5,1,1
+"Lincoln County, Arkansas(6)",105.1,73.3,147.1,2.0,75.0,8.0,2.8,1,1
+"Green County, Wisconsin(6)",105.1,86.9,126.1,19.0,70.0,26.0,-0.8,1,1
+"Livingston County, Missouri(6)",105.0,79.1,137.4,9.0,109.0,12.0,-0.5,1,1
+"Perry County, Mississippi(6)",105.0,73.8,145.5,1.0,80.0,8.0,-2.7,1,1
+"Cleveland County, Arkansas(6)",104.9,70.7,152.0,2.0,75.0,6.0,-0.2,1,1
+"Burt County, Nebraska(6)",104.9,64.6,163.3,4.0,64.0,5.0,0.7,1,1
+"Muhlenberg County, Kentucky(7)",104.9,85.6,127.6,20.0,117.0,22.0,-1.2,1,1
+"Stark County, North Dakota(6)",104.8,82.8,130.9,11.0,30.0,17.0,0.5,1,1
+"Bradford County, Florida(6)",104.8,82.1,132.2,2.0,66.0,17.0,0.7,1,1
+"Crisp County, Georgia(7)",104.8,82.3,131.8,12.0,147.0,16.0,0.7,1,1
+"Alleghany County and Clifton Forge City, Virginia(6)",104.7,78.6,137.9,10.0,129.0,13.0,-1.6,1,1
+"Stone County, Missouri(6)",104.7,86.6,126.3,19.0,106.0,30.0,-0.5,1,1
+"Pecos County, Texas(6)",104.7,73.0,145.3,1.0,196.0,7.0,3.8,1,1
+"Gulf County, Florida(6)",104.6,74.3,144.2,1.0,67.0,10.0,-1.0,1,1
+"DeKalb County, Indiana(6)",104.6,87.5,124.2,15.0,90.0,28.0,-0.9,1,1
+"Rusk County, Wisconsin(6)",104.6,77.3,139.7,5.0,70.0,11.0,-1.0,1,1
+"San Benito County, California(7)",104.6,88.8,122.3,12.0,56.0,33.0,-0.7,1,1
+"Van Wert County, Ohio(6)",104.6,84.5,128.4,9.0,88.0,20.0,-0.7,1,1
+"Noble County, Ohio(6)",104.6,73.8,144.6,1.0,88.0,9.0,1.4,1,1
+"Pacific County, Washington(6)",104.5,83.1,131.1,8.0,38.0,21.0,0.0,1,1
+"Bladen County, North Carolina(6)",104.4,86.1,125.9,31.0,100.0,26.0,-0.2,1,1
+"Dade County, Missouri(6)",104.4,65.8,159.3,2.0,112.0,6.0,1.2,1,1
+"Traill County, North Dakota(6)",104.4,69.0,153.5,5.0,30.0,6.0,-0.1,1,1
+"Tallapoosa County, Alabama(6)",104.4,87.9,123.4,15.0,66.0,32.0,-1.3,1,1
+"Dade County, Georgia(7)",104.4,76.9,138.9,7.0,149.0,11.0,-0.6,1,1
+"Dawson County, Georgia(7)",104.4,81.5,132.1,10.0,147.0,16.0,-1.1,1,1
+"Twin Falls County, Idaho(7)",104.3,91.4,118.7,13.0,35.0,50.0,-1.7,1,1
+"Buffalo County, Wisconsin(6)",104.3,76.2,140.6,4.0,70.0,10.0,0.5,1,1
+"Reeves County, Texas(6)",104.3,71.0,147.9,1.0,196.0,7.0,0.9,1,1
+"Sullivan County, Indiana(6)",104.3,80.1,134.1,4.0,91.0,14.0,-2.9,1,1
+"Johnson County, Kentucky(7)",104.3,81.7,131.4,9.0,118.0,16.0,8.5,1,1
+"Whitfield County, Georgia(7)",104.2,92.5,117.0,63.0,139.0,59.0,-1.2,1,0
+"Lake County, Montana(6)",104.2,84.3,127.8,12.0,39.0,22.0,-2.0,1,1
+"Concordia Parish, Louisiana(7)",104.2,78.9,135.2,6.0,64.0,13.0,2.4,1,1
+"St. Lawrence County, New York(7)",104.2,93.1,116.3,46.0,62.0,71.0,-2.5,1,1
+"Marion County, Kentucky(7)",104.2,79.0,135.1,7.0,118.0,12.0,-2.4,1,1
+"Choctaw County, Oklahoma(6)",104.1,76.2,139.3,4.0,71.0,11.0,-2.4,1,1
+"Monroe County, Ohio(6)",104.1,75.8,140.4,1.0,88.0,10.0,-0.3,1,1
+"Brazos County, Texas(6)",104.1,94.3,114.7,36.0,162.0,85.0,-2.8,1,1
+"Jennings County, Indiana(6)",104.1,83.7,128.3,11.0,90.0,19.0,1.2,1,1
+"Saline County, Nebraska(6)",104.1,74.7,141.7,9.0,64.0,9.0,-2.7,1,1
+"Arkansas County, Arkansas(6)",104.1,78.5,135.6,3.0,75.0,12.0,-1.2,1,1
+"Lawrence County, Indiana(6)",104.1,88.2,122.2,21.0,90.0,33.0,1.2,1,1
+"Jay County, Indiana(6)",104.1,80.2,133.1,5.0,91.0,14.0,-0.7,1,1
+"Chambers County, Texas(6)",104.0,84.3,126.8,7.0,186.0,20.0,0.1,1,1
+"McNairy County, Tennessee(6)",103.9,84.0,127.7,10.0,94.0,21.0,-1.5,1,1
+"Lee County, Alabama(6)",103.9,93.8,114.9,30.0,65.0,79.0,-8.5,1,1
+"Sublette County, Wyoming(6)",103.9,67.0,154.1,1.0,22.0,5.0,-0.3,1,1
+"Fayette County, Indiana(6)",103.9,82.0,130.3,7.0,91.0,17.0,-0.5,1,1
+"Mayes County, Oklahoma(6)",103.8,86.8,123.5,13.0,69.0,28.0,-2.4,1,1
+"Delta County, Colorado(6)",103.8,83.5,127.8,8.0,48.0,24.0,0.8,1,1
+"Amherst County, Virginia(6)",103.8,85.6,125.0,40.0,125.0,25.0,-0.2,1,1
+"Crittenden County, Kentucky(7)",103.7,69.9,149.7,2.0,118.0,7.0,-2.6,1,1
+"Marshall County, West Virginia(6)",103.7,84.9,125.7,8.0,53.0,25.0,-1.7,1,1
+"Major County, Oklahoma(6)",103.7,65.7,156.6,2.0,71.0,6.0,-0.2,1,1
+"Caldwell County, Texas(6)",103.7,85.4,124.7,8.0,185.0,24.0,-0.1,1,1
+"Waller County, Texas(6)",103.6,85.1,124.8,8.0,184.0,23.0,-1.7,1,1
+"Grayson County, Kentucky(7)",103.6,81.4,130.1,15.0,117.0,16.0,0.7,1,1
+"Grainger County, Tennessee(6)",103.5,82.1,129.5,6.0,95.0,18.0,-2.4,1,1
+"Chilton County, Alabama(6)",103.5,86.5,123.0,17.0,66.0,28.0,-0.2,1,1
+"Wrangell-Petersburg Census Area, Alaska(6)",103.4,63.6,163.0,1.0,15.0,4.0,-5.5,1,1
+"Orleans County, New York(7)",103.4,86.7,122.7,35.0,62.0,28.0,-1.3,1,1
+"Otero County, New Mexico(7)",103.4,89.2,119.3,7.0,25.0,41.0,-0.2,1,1
+"Imperial County, California(7)",103.4,93.9,113.5,29.0,54.0,91.0,-0.2,1,1
+"Upshur County, Texas(6)",103.4,86.3,123.0,8.0,182.0,28.0,-0.2,1,1
+"Lincoln County, Oklahoma(6)",103.3,84.6,125.2,14.0,70.0,23.0,18.0,0,0
+"Swain County, North Carolina(6)",103.3,75.6,138.5,4.0,100.0,10.0,-1.2,1,1
+"Cotton County, Oklahoma(6)",103.2,61.8,163.8,2.0,71.0,4.0,-2.7,1,1
+"Park County, Montana(6)",103.2,78.4,134.6,8.0,40.0,13.0,-0.8,1,1
+"Wise County, Texas(6)",103.2,88.6,119.6,16.0,174.0,38.0,0.9,1,1
+"Winn Parish, Louisiana(7)",103.2,74.9,139.3,5.0,64.0,10.0,-0.3,1,1
+"Delaware County, Oklahoma(6)",103.1,86.0,122.7,15.0,69.0,31.0,-1.6,1,1
+"Kiowa County, Oklahoma(6)",103.0,69.8,148.1,3.0,71.0,7.0,-0.2,1,1
+"Schuyler County, Illinois(6)",103.0,66.9,155.0,2.0,100.0,6.0,-0.1,1,1
+"Miller County, Arkansas(6)",102.9,86.2,122.2,13.0,74.0,28.0,0.0,1,1
+"Douglas County, Oregon(6)",102.9,92.3,114.5,17.0,33.0,85.0,-17.1,1,0
+"Logan County, Arkansas(6)",102.9,80.6,129.9,7.0,75.0,16.0,-2.0,1,1
+"Acadia Parish, Louisiana(7)",102.8,88.3,119.1,25.0,63.0,38.0,-0.8,1,1
+"Adams County, Washington(6)",102.8,74.1,138.6,2.0,38.0,9.0,-1.3,1,1
+"Taylor County, Florida(6)",102.7,78.2,132.9,2.0,66.0,14.0,-1.5,1,1
+"Adair County, Iowa(7)",102.7,61.9,161.1,2.0,98.0,5.0,0.8,1,1
+"Weakley County, Tennessee(6)",102.7,84.1,124.4,12.0,94.0,23.0,0.0,1,1
+"Grand County, Colorado(6)",102.6,72.6,141.7,2.0,50.0,9.0,-1.7,1,1
+"Columbia County, Arkansas(6)",102.6,79.8,130.0,6.0,75.0,15.0,0.4,1,1
+"Ritchie County, West Virginia(6)",102.6,68.4,148.7,1.0,55.0,7.0,2.3,1,1
+"Overton County, Tennessee(6)",102.5,80.8,128.9,8.0,94.0,17.0,-0.4,1,1
+"Tulare County, California(7)",102.5,96.5,108.9,38.0,54.0,219.0,-0.8,1,1
+"Hutchinson County, South Dakota(6)",102.5,66.7,153.4,5.0,42.0,6.0,-0.6,1,1
+"Jeff Davis County, Georgia(7)",102.5,74.2,138.4,7.0,149.0,9.0,-0.2,1,1
+"Polk County, Arkansas(6)",102.5,78.5,132.0,5.0,75.0,14.0,-0.5,1,1
+"Nye County, Nevada(6)",102.5,86.4,121.2,4.0,11.0,37.0,-0.9,1,1
+"Clark County, Missouri(6)",102.5,63.1,159.1,3.0,112.0,5.0,0.2,1,1
+"Brown County, Ohio(6)",102.4,85.9,121.4,26.0,88.0,29.0,-0.5,1,1
+"Franklin County, Alabama(6)",102.4,82.8,125.4,15.0,67.0,20.0,-0.5,1,1
+"Brown County, Texas(6)",102.3,84.9,122.6,9.0,184.0,26.0,-1.6,1,1
+"Juab County, Utah(7)",102.3,66.2,150.7,1.0,24.0,5.0,-0.6,1,1
+"Marion County, Mississippi(6)",102.3,81.5,127.1,12.0,79.0,18.0,0.6,1,1
+"Webster County, Kentucky(7)",102.2,74.0,138.4,5.0,118.0,9.0,-0.2,1,1
+"Seward County, Nebraska(6)",102.2,76.3,134.7,13.0,64.0,11.0,-3.2,1,1
+"Gray County, Texas(6)",102.2,78.1,131.5,4.0,192.0,13.0,-1.1,1,1
+"Sevier County, Utah(7)",102.2,77.1,132.8,2.0,24.0,12.0,0.2,1,1
+"Starke County, Indiana(6)",102.1,80.3,128.7,9.0,91.0,16.0,-2.6,1,1
+"Hardy County, West Virginia(6)",102.1,74.3,137.9,2.0,55.0,10.0,-1.5,1,1
+"Bowie County, Texas(6)",102.1,90.4,114.9,34.0,172.0,59.0,-0.9,1,1
+"Jefferson County, Florida(6)",102.1,71.0,142.6,2.0,67.0,9.0,-0.1,1,1
+"Crawford County, Illinois(6)",102.1,77.0,133.2,17.0,100.0,13.0,-2.2,1,1
+"Andrew County, Missouri(6)",102.0,76.6,133.7,11.0,110.0,12.0,-0.1,1,1
+"Adair County, Kentucky(7)",102.0,76.6,133.4,9.0,118.0,12.0,1.7,1,1
+"Hart County, Kentucky(7)",102.0,77.2,132.7,7.0,118.0,12.0,-1.2,1,1
+"Clarke County, Mississippi(6)",102.0,76.0,134.5,5.0,80.0,11.0,-2.2,1,1
+"Texas County, Oklahoma(6)",102.0,76.4,133.5,6.0,71.0,11.0,1.4,1,1
+"Pike County, Indiana(6)",102.0,72.6,140.2,2.0,91.0,9.0,-1.0,1,1
+"Ida County, Iowa(7)",101.9,64.5,155.5,4.0,98.0,5.0,-0.4,1,1
+"Jerome County, Idaho(7)",101.9,77.0,132.2,7.0,37.0,12.0,-2.8,1,1
+"Jefferson County, Texas(6)",101.8,94.4,109.7,57.0,158.0,147.0,-1.6,1,0
+"Gadsden County, Florida(6)",101.8,85.9,120.0,7.0,64.0,31.0,-2.0,1,1
+"Henry County, Iowa(7)",101.7,77.1,132.1,15.0,98.0,13.0,-1.1,1,1
+"DeKalb County, Tennessee(6)",101.7,79.3,129.3,6.0,95.0,15.0,0.8,1,1
+"Monroe County, Missouri(6)",101.7,67.3,149.3,4.0,112.0,6.0,0.0,1,1
+"Montgomery County, Mississippi(6)",101.7,70.2,143.5,2.0,80.0,8.0,0.3,1,1
+"Woodward County, Oklahoma(6)",101.7,77.0,131.9,6.0,71.0,12.0,-1.6,1,1
+"Columbia County, Oregon(6)",101.6,86.8,118.5,14.0,33.0,36.0,-1.9,1,1
+"Hill County, Montana(6)",101.4,73.8,136.2,7.0,40.0,10.0,-2.2,1,1
+"Meade County, Kentucky(7)",101.4,80.2,126.7,16.0,118.0,16.0,0.5,1,1
+"Parke County, Indiana(6)",101.4,76.5,132.2,5.0,91.0,12.0,0.4,1,1
+"Humboldt County, Nevada(6)",101.3,72.5,137.8,2.0,11.0,9.0,-0.9,1,1
+"Shoshone County, Idaho(7)",101.3,71.9,139.8,5.0,37.0,9.0,-1.5,1,1
+"Powell County, Montana(6)",101.2,54.6,172.9,2.0,40.0,3.0,-3.4,1,1
+"Greene County, North Carolina(6)",101.2,76.6,131.6,8.0,100.0,13.0,-1.7,1,1
+"Franklin County, Mississippi(6)",101.2,66.5,149.5,1.0,80.0,6.0,-1.2,1,1
+"Stoddard County, Missouri(6)",101.1,81.7,124.1,18.0,109.0,21.0,-0.9,1,1
+"Madison County, Idaho(7)",101.1,75.4,132.2,6.0,37.0,11.0,1.6,1,1
+"Montgomery County, Illinois(6)",101.1,81.7,124.3,35.0,100.0,21.0,-1.7,1,1
+"Shelby County, Ohio(6)",101.1,85.3,119.1,32.0,88.0,31.0,-1.1,1,1
+"Harrison County, Missouri(6)",101.1,65.9,149.7,3.0,112.0,6.0,0.2,1,1
+"Somerset County, Maine(6)",101.1,86.7,117.5,10.0,16.0,38.0,-1.8,1,1
+"Anderson County, Texas(6)",101.1,85.1,119.3,19.0,183.0,30.0,0.8,1,1
+"Luna County, New Mexico(7)",101.1,78.2,128.7,4.0,29.0,15.0,0.4,1,1
+"Wilkinson County, Mississippi(6)",101.0,66.4,148.9,1.0,80.0,6.0,-2.2,1,1
+"Yell County, Arkansas(6)",101.0,77.9,129.2,7.0,75.0,14.0,-1.8,1,1
+"Morgan County, Colorado(6)",101.0,79.4,126.6,7.0,48.0,16.0,-0.4,1,1
+"Fayette County, Alabama(6)",101.0,76.3,132.0,8.0,67.0,12.0,-5.8,1,1
+"Trigg County, Kentucky(7)",100.9,75.6,133.3,8.0,118.0,11.0,-1.9,1,1
+"Cleburne County, Alabama(6)",100.8,73.7,135.3,6.0,67.0,10.0,-0.7,1,1
+"Crawford County, Iowa(7)",100.8,73.2,135.4,14.0,98.0,10.0,-0.9,1,1
+"Wyandot County, Ohio(6)",100.8,78.6,127.7,5.0,88.0,15.0,-2.0,1,1
+"Adair County, Oklahoma(6)",100.8,76.9,129.8,7.0,71.0,13.0,-2.3,1,1
+"Webb County, Texas(6)",100.7,92.7,109.3,61.0,159.0,117.0,-0.1,1,0
+"St. Francis County, Arkansas(6)",100.7,78.4,127.6,7.0,75.0,15.0,-0.4,1,1
+"Polk County, North Carolina(6)",100.7,78.6,128.4,23.0,100.0,19.0,-2.4,1,1
+"Potter County, Pennsylvania(6)",100.6,76.1,131.5,5.0,67.0,13.0,-3.1,1,1
+"Adams County, Wisconsin(6)",100.6,78.6,128.6,14.0,70.0,18.0,0.1,1,1
+"Socorro County, New Mexico(7)",100.6,74.1,133.9,4.0,30.0,11.0,0.3,1,1
+"Livingston County, Kentucky(7)",100.6,69.6,142.8,4.0,118.0,7.0,-1.1,1,1
+"Schuyler County, Missouri(6)",100.6,56.8,168.8,2.0,112.0,3.0,2.1,1,1
+"New Madrid County, Missouri(6)",100.4,76.4,130.2,15.0,110.0,13.0,-1.7,1,1
+"Big Horn County, Montana(6)",100.4,68.2,142.3,4.0,40.0,7.0,0.7,1,1
+"Live Oak County, Texas(6)",100.3,71.0,139.3,1.0,196.0,8.0,-1.9,1,1
+"Cochise County, Arizona(6)",100.3,90.2,111.2,4.0,11.0,85.0,-0.5,1,1
+"Wakulla County, Florida(6)",100.3,79.8,124.6,3.0,66.0,18.0,-0.2,1,1
+"Stanton County, Nebraska(6)",100.2,58.3,162.2,4.0,64.0,4.0,-0.4,1,1
+"Bee County, Texas(6)",100.2,78.4,126.4,5.0,191.0,15.0,1.2,1,1
+"Callahan County, Texas(6)",100.2,73.7,134.4,3.0,196.0,10.0,-0.8,1,1
+"Williams County, North Dakota(6)",100.2,77.2,127.7,13.0,30.0,14.0,-0.4,1,1
+"Fayette County, Texas(6)",100.1,79.3,125.2,7.0,190.0,19.0,-3.0,1,1
+"Carbon County, Utah(7)",100.1,76.2,129.4,3.0,24.0,13.0,-0.5,1,1
+"Yankton County, South Dakota(6)",100.0,77.9,127.1,16.0,42.0,16.0,-1.3,1,1
+"Hamilton County, Illinois(6)",100.0,65.9,147.3,5.0,100.0,6.0,0.2,1,1
+"Hot Spring County, Arkansas(6)",100.0,81.6,121.6,12.0,75.0,23.0,-1.2,1,1
+"Sullivan County, Missouri(6)",100.0,60.2,158.1,3.0,112.0,4.0,-0.8,1,1
+"Union County, Georgia(7)",100.0,80.5,124.1,31.0,146.0,24.0,-1.4,1,1
+"Emmet County, Iowa(7)",99.9,65.5,146.7,5.0,98.0,6.0,-0.3,1,1
+"Calhoun County, Illinois(6)",99.8,60.9,160.5,1.0,100.0,4.0,-1.4,1,1
+"Weber County, Utah(7)",99.8,91.8,108.3,11.0,22.0,118.0,-0.3,1,1
+"Jasper County, Illinois(6)",99.7,67.6,143.3,6.0,100.0,7.0,0.6,1,1
+"Crittenden County, Arkansas(6)",99.7,83.7,118.0,18.0,74.0,28.0,0.5,1,1
+"Stone County, Arkansas(6)",99.7,69.2,140.0,2.0,75.0,9.0,0.0,1,1
+"Pope County, Arkansas(6)",99.7,85.4,115.7,21.0,73.0,37.0,-1.8,1,1
+"Laclede County, Missouri(6)",99.7,81.6,120.7,33.0,108.0,23.0,-2.3,1,1
+"Gates County, North Carolina(6)",99.6,69.3,139.8,5.0,100.0,8.0,-3.3,1,1
+"Sheridan County, Wyoming(6)",99.6,80.2,122.7,6.0,22.0,21.0,-2.8,1,1
+"Carter County, Missouri(6)",99.6,60.0,157.0,3.0,112.0,4.0,-2.7,1,1
+"Beauregard Parish, Louisiana(7)",99.6,81.3,120.9,19.0,64.0,22.0,-0.7,1,1
+"Washington County, Missouri(6)",99.6,78.5,125.0,19.0,110.0,16.0,-0.7,1,1
+"Hale County, Alabama(6)",99.5,72.8,133.4,8.0,67.0,10.0,0.1,1,1
+"Deer Lodge County, Montana(6)",99.5,68.4,143.5,5.0,40.0,7.0,1.7,1,1
+"Hickory County, Missouri(6)",99.5,65.7,147.1,5.0,112.0,8.0,0.8,1,1
+"Calaveras County, California(7)",99.5,84.1,117.3,20.0,56.0,39.0,-2.2,1,1
+"Monroe County, Florida(6)",99.4,87.2,113.0,25.0,63.0,54.0,-1.4,1,1
+"Perry County, Indiana(6)",99.4,74.8,130.0,8.0,91.0,12.0,-18.4,1,0
+"Randolph County, Arkansas(6)",99.2,74.9,129.5,5.0,75.0,13.0,2.8,1,1
+"Merced County, California(7)",99.1,91.4,107.4,37.0,55.0,124.0,-0.6,1,1
+"Delaware County, Indiana(6)",98.9,88.4,110.4,49.0,89.0,71.0,-1.7,1,0
+"Cannon County, Tennessee(6)",98.9,71.3,134.5,3.0,95.0,9.0,1.1,1,1
+"Sequatchie County, Tennessee(6)",98.8,72.9,131.9,3.0,95.0,11.0,2.6,1,1
+"Colusa County, California(7)",98.8,74.3,128.9,4.0,56.0,12.0,0.0,1,1
+"Hamilton County, Florida(6)",98.7,66.4,141.5,2.0,67.0,7.0,2.1,1,1
+"Washington County, Texas(6)",98.7,80.2,120.5,11.0,189.0,23.0,-2.2,1,1
+"Jackson County, Iowa(7)",98.7,75.0,128.1,19.0,98.0,13.0,-0.3,1,1
+"Brooks County, Georgia(7)",98.7,73.0,131.2,14.0,149.0,11.0,1.9,1,1
+"Washington County, Idaho(7)",98.6,67.7,140.5,5.0,37.0,8.0,-1.4,1,1
+"Randolph County, Alabama(6)",98.6,76.7,125.2,13.0,67.0,15.0,-0.5,1,1
+"Bon Homme County, South Dakota(6)",98.5,56.5,162.3,3.0,42.0,4.0,-0.8,1,1
+"Lyon County, Iowa(7)",98.5,67.5,139.5,10.0,98.0,7.0,-1.0,1,1
+"Cedar County, Missouri(6)",98.5,71.6,133.2,11.0,111.0,10.0,-1.6,1,1
+"Early County, Georgia(7)",98.4,66.7,140.5,6.0,150.0,7.0,0.5,1,1
+"Liberty County, Texas(6)",98.4,85.6,112.6,39.0,179.0,44.0,-0.6,1,0
+"Louisa County, Iowa(7)",98.4,67.4,139.4,9.0,98.0,7.0,-1.2,1,1
+"Harney County, Oregon(6)",98.3,63.9,147.9,1.0,33.0,6.0,-2.9,1,1
+"Grant Parish, Louisiana(7)",98.3,74.9,127.3,13.0,64.0,13.0,-0.6,1,1
+"Custer County, Nebraska(6)",98.2,72.0,133.3,15.0,64.0,10.0,-2.8,1,1
+"Morgan County, West Virginia(6)",98.2,75.6,126.7,7.0,55.0,14.0,0.5,1,1
+"Kit Carson County, Colorado(6)",98.2,59.4,153.6,1.0,50.0,4.0,-2.2,1,1
+"Ste. Genevieve County, Missouri(6)",98.1,73.5,129.1,15.0,111.0,12.0,0.5,1,1
+"Franklin County, New York(7)",98.1,82.3,116.3,43.0,62.0,30.0,-1.3,1,0
+"Wayne County, Kentucky(7)",97.9,75.3,125.9,17.0,118.0,14.0,-0.9,1,1
+"Albany County, Wyoming(6)",97.9,76.1,124.0,5.0,22.0,15.0,-1.5,1,1
+"Tate County, Mississippi(6)",97.8,77.6,121.8,16.0,79.0,17.0,-0.7,1,1
+"Murray County, Georgia(7)",97.8,80.4,118.0,48.0,148.0,23.0,-0.3,1,0
+"Madison County, Montana(6)",97.7,64.2,146.7,5.0,40.0,7.0,1.4,1,1
+"Dodge County, Georgia(7)",97.6,74.5,126.1,15.0,149.0,13.0,-0.6,1,1
+"Vermillion County, Indiana(6)",97.5,72.4,129.4,6.0,91.0,11.0,-2.2,1,1
+"McIntosh County, Georgia(7)",97.5,72.1,130.5,12.0,149.0,11.0,0.8,1,1
+"Atoka County, Oklahoma(6)",97.5,68.1,135.7,5.0,71.0,8.0,-2.5,1,1
+"Butler County, Missouri(6)",97.5,81.8,115.5,40.0,107.0,30.0,-1.7,1,0
+"Putnam County, Missouri(6)",97.4,54.7,164.4,1.0,112.0,4.0,0.8,1,1
+"Franklin County, Washington(6)",97.4,83.1,113.4,22.0,38.0,34.0,-1.5,1,1
+"Wayne County, Nebraska(6)",97.3,60.9,148.2,8.0,64.0,5.0,-1.9,1,1
+"DeWitt County, Texas(6)",97.3,74.1,125.9,6.0,194.0,13.0,-3.3,1,1
+"Stark County, Illinois(6)",97.3,56.5,158.6,2.0,100.0,4.0,-2.5,1,1
+"Newton County, Mississippi(6)",97.2,74.5,124.7,14.0,80.0,13.0,-1.4,1,1
+"Murray County, Oklahoma(6)",97.1,69.4,132.9,6.0,71.0,9.0,0.1,1,1
+"Madison County, Missouri(6)",97.1,68.4,134.7,9.0,112.0,8.0,-1.9,1,1
+"Linn County, Missouri(6)",97.1,68.7,134.3,8.0,111.0,9.0,-5.1,1,1
+"Terry County, Texas(6)",97.1,64.0,140.8,1.0,197.0,6.0,0.9,1,1
+"Dent County, Missouri(6)",97.1,70.7,130.6,10.0,111.0,10.0,-4.0,1,1
+"Independence County, Arkansas(6)",97.1,80.2,116.7,18.0,75.0,24.0,-1.3,1,1
+"Carlisle County, Kentucky(7)",97.0,54.1,163.1,1.0,118.0,3.0,-7.5,1,1
+"Vernon County, Missouri(6)",96.9,73.7,125.4,17.0,111.0,13.0,-1.2,1,1
+"Breckinridge County, Kentucky(7)",96.9,73.2,126.3,13.0,118.0,13.0,-1.7,1,1
+"Benewah County, Idaho(7)",96.9,63.8,142.7,3.0,37.0,6.0,-3.1,1,1
+"Marshall County, South Dakota(6)",96.8,53.8,165.6,3.0,42.0,3.0,3.1,1,1
+"Mason County, Texas(6)",96.7,54.2,168.1,1.0,197.0,4.0,0.4,1,1
+"Eagle County, Colorado(6)",96.7,79.7,116.4,17.0,48.0,26.0,-1.7,1,1
+"Emanuel County, Georgia(7)",96.6,75.1,122.8,21.0,148.0,14.0,-0.3,1,1
+"DeKalb County, Alabama(6)",96.6,83.8,110.9,36.0,67.0,43.0,-0.6,1,0
+"Caldwell County, Kentucky(7)",96.6,68.9,132.6,8.0,118.0,9.0,-1.9,1,1
+"Antelope County, Nebraska(6)",96.5,60.2,150.3,7.0,64.0,5.0,-4.6,1,1
+"Hunt County, Texas(6)",96.5,85.0,109.2,54.0,178.0,54.0,-0.5,1,0
+"Falls County, Texas(6)",96.4,72.7,126.1,6.0,194.0,11.0,0.5,1,1
+"Cherokee County, Iowa(7)",96.4,68.2,134.1,14.0,98.0,9.0,-2.2,1,1
+"Fulton County, Kentucky(7)",96.4,55.3,157.0,1.0,118.0,4.0,-3.3,1,1
+"Atascosa County, Texas(6)",96.4,80.3,114.8,24.0,189.0,27.0,-0.8,1,0
+"Washita County, Oklahoma(6)",96.3,65.9,136.5,4.0,71.0,7.0,-3.4,1,1
+"Davis County, Iowa(7)",96.2,62.3,142.9,7.0,98.0,5.0,-0.3,1,1
+"Skamania County, Washington(6)",96.1,65.7,137.0,2.0,38.0,7.0,-1.2,1,1
+"Mason County, West Virginia(6)",96.0,77.0,118.7,12.0,55.0,19.0,-2.0,1,1
+"Wayne County, Tennessee(6)",96.0,70.8,128.4,7.0,95.0,11.0,-1.2,1,1
+"Holt County, Nebraska(6)",95.9,66.7,135.6,14.0,64.0,8.0,-5.5,1,1
+"Manassas Park City, Virginia(6)",95.9,65.0,136.4,10.0,131.0,7.0,0.9,1,1
+"Ripley County, Indiana(6)",95.9,76.6,118.9,22.0,91.0,18.0,1.0,1,1
+"Scotts Bluff County, Nebraska(6)",95.8,77.9,116.7,26.0,63.0,23.0,-3.1,1,0
+"Gallia County, Ohio(6)",95.8,77.5,117.5,31.0,88.0,21.0,-0.6,1,0
+"Switzerland County, Indiana(6)",95.8,64.0,138.6,2.0,91.0,6.0,0.8,1,1
+"Eastland County, Texas(6)",95.8,71.7,125.9,6.0,193.0,13.0,-0.8,1,1
+"Waushara County, Wisconsin(6)",95.8,74.2,122.3,20.0,70.0,16.0,-1.3,1,1
+"Asotin County, Washington(6)",95.7,75.5,120.3,15.0,38.0,17.0,-26.2,1,0
+"Maverick County, Texas(6)",95.6,79.9,113.4,28.0,188.0,27.0,1.3,1,0
+"Grady County, Oklahoma(6)",95.5,80.8,112.2,29.0,70.0,32.0,-1.9,1,0
+"Red River County, Texas(6)",95.5,67.3,132.6,3.0,196.0,9.0,-0.2,1,1
+"Carroll County, Indiana(6)",95.4,73.3,122.6,16.0,91.0,14.0,-1.3,1,1
+"Mahaska County, Iowa(7)",95.4,74.1,121.3,36.0,98.0,15.0,-1.2,1,0
+"Eddy County, New Mexico(7)",95.4,80.6,112.1,10.0,28.0,31.0,-1.0,1,1
+"Pinal County, Arizona(6)",95.3,89.7,101.2,6.0,12.0,242.0,-0.3,1,1
+"Collier County, Florida(6)",95.3,89.6,101.2,48.0,62.0,282.0,-0.6,1,0
+"White Pine County, Nevada(6)",95.2,60.6,143.6,2.0,11.0,5.0,-0.5,1,1
+"Allen Parish, Louisiana(7)",95.2,72.7,122.7,16.0,64.0,13.0,-1.1,1,1
+"Washington County, Virginia(6)",95.1,82.0,110.0,84.0,126.0,41.0,-2.7,1,0
+"Shannon County, South Dakota(6)",95.1,60.3,141.8,7.0,42.0,5.0,-0.9,1,1
+"Decatur County, Indiana(6)",95.1,75.1,119.2,18.0,91.0,16.0,1.5,1,1
+"Jackson County, West Virginia(6)",95.0,76.8,116.7,16.0,55.0,20.0,-0.8,1,1
+"Nolan County, Texas(6)",95.0,68.8,128.5,4.0,197.0,9.0,1.3,1,1
+"Grant County, West Virginia(6)",94.9,68.6,129.9,6.0,55.0,9.0,1.4,1,1
+"Scott County, Indiana(6)",94.9,73.6,120.8,14.0,91.0,14.0,-2.9,1,0
+"Bradley County, Arkansas(6)",94.9,65.7,133.7,3.0,75.0,7.0,-0.4,1,1
+"Hardin County, Tennessee(6)",94.9,75.2,118.6,20.0,95.0,18.0,-2.0,1,0
+"Union County, Mississippi(6)",94.8,74.7,118.9,19.0,80.0,16.0,0.3,1,1
+"Buena Vista County, Iowa(7)",94.8,70.3,125.2,21.0,98.0,11.0,-0.7,1,1
+"Union County, Iowa(7)",94.6,67.6,129.9,18.0,98.0,9.0,-1.2,1,1
+"Nevada County, Arkansas(6)",94.6,60.7,141.8,2.0,75.0,5.0,-1.5,1,1
+"La Salle Parish, Louisiana(7)",94.5,67.4,129.4,9.0,64.0,9.0,-1.3,1,1
+"Perry County, Tennessee(6)",94.4,58.7,145.1,1.0,95.0,5.0,-1.3,1,1
+"San Juan County, New Mexico(7)",94.4,84.3,105.4,12.0,26.0,67.0,-0.3,1,1
+"Chariton County, Missouri(6)",94.4,59.8,143.9,5.0,112.0,5.0,-3.6,1,1
+"Barton County, Missouri(6)",94.4,65.0,133.1,10.0,112.0,8.0,-1.9,1,1
+"Liberty County, Florida(6)",94.3,57.0,148.9,1.0,67.0,4.0,0.7,1,1
+"Hampshire County, West Virginia(6)",94.1,73.2,119.8,12.0,55.0,15.0,-0.5,1,1
+"Pershing County, Nevada(6)",94.1,53.8,157.3,1.0,11.0,3.0,-3.4,1,1
+"Ouachita County, Arkansas(6)",94.0,74.2,118.0,16.0,75.0,17.0,-2.5,1,0
+"Jefferson County, Nebraska(6)",94.0,61.2,141.5,11.0,64.0,6.0,5.1,1,1
+"Otero County, Colorado(6)",93.7,71.3,121.8,12.0,49.0,13.0,-0.2,1,1
+"Madison County, Texas(6)",93.7,64.4,132.5,2.0,197.0,7.0,-1.5,1,1
+"Shannon County, Missouri(6)",93.7,61.2,139.5,7.0,112.0,6.0,1.2,1,1
+"Angelina County, Texas(6)",93.6,82.1,106.4,63.0,181.0,50.0,-1.5,1,0
+"Clark County, Illinois(6)",93.5,68.7,125.1,23.0,100.0,10.0,-2.5,1,0
+"Guernsey County, Ohio(6)",93.4,77.0,112.6,44.0,88.0,25.0,12.8,1,1
+"Alleghany County, North Carolina(6)",93.4,66.1,130.7,14.0,100.0,9.0,0.8,1,1
+"Fremont County, Iowa(7)",93.4,59.2,143.6,7.0,98.0,5.0,-1.5,1,1
+"Pemiscot County, Missouri(6)",93.4,68.7,124.4,17.0,111.0,10.0,1.1,1,1
+"George County, Mississippi(6)",93.4,71.2,120.5,14.0,80.0,13.0,-1.1,1,1
+"Nacogdoches County, Texas(6)",93.3,78.9,109.5,43.0,188.0,32.0,-2.1,1,0
+"Cameron County, Texas(6)",93.2,87.5,99.2,104.0,170.0,201.0,-5.4,1,0
+"Duchesne County, Utah(7)",93.2,66.0,127.4,3.0,24.0,8.0,-0.9,1,1
+"Cooke County, Texas(6)",93.1,76.5,112.5,31.0,191.0,24.0,-2.3,1,0
+"Osage County, Oklahoma(6)",93.1,78.4,110.0,31.0,71.0,32.0,-0.8,1,0
+"Yuma County, Arizona(6)",92.9,84.9,101.5,6.0,12.0,107.0,-3.0,1,1
+"Cumberland County, Virginia(6)",92.9,62.5,134.4,14.0,131.0,7.0,0.3,1,1
+"Randolph County, Georgia(7)",92.9,59.3,140.9,7.0,150.0,5.0,-2.0,1,1
+"Ottawa County, Oklahoma(6)",92.8,74.3,114.7,22.0,71.0,19.0,-2.8,1,0
+"Johnson County, Arkansas(6)",92.8,72.5,117.2,15.0,75.0,15.0,-1.5,1,0
+"Metcalfe County, Kentucky(7)",92.6,62.8,133.0,10.0,118.0,7.0,-0.5,1,1
+"Henderson County, Tennessee(6)",92.5,73.6,115.2,24.0,95.0,18.0,-1.9,1,0
+"Larue County, Kentucky(7)",92.5,65.4,127.5,12.0,118.0,8.0,0.0,1,1
+"Colorado County, Texas(6)",92.4,70.8,119.1,13.0,195.0,14.0,-2.0,1,0
+"Moffat County, Colorado(6)",92.4,63.6,130.3,5.0,50.0,7.0,-4.3,1,0
+"Medina County, Texas(6)",92.3,77.5,109.4,38.0,188.0,29.0,0.0,1,0
+"Custer County, South Dakota(6)",92.3,58.3,141.9,9.0,42.0,6.0,-4.9,1,1
+"Bledsoe County, Tennessee(6)",92.3,64.9,128.9,8.0,95.0,8.0,-1.2,1,1
+"Lee County, Texas(6)",92.3,66.8,124.6,5.0,196.0,10.0,0.6,1,1
+"Barry County, Missouri(6)",92.2,75.0,112.4,39.0,110.0,23.0,11.6,1,1
+"Clinton County, Indiana(6)",92.2,74.1,113.6,32.0,91.0,19.0,-1.0,1,0
+"Attala County, Mississippi(6)",92.1,69.5,120.3,17.0,80.0,12.0,-6.6,1,0
+"Roosevelt County, Montana(6)",92.1,59.6,136.2,6.0,40.0,5.0,-4.9,1,0
+"Pulaski County, Georgia(7)",92.1,65.4,127.5,15.0,150.0,8.0,0.4,1,0
+"Fremont County, Idaho(7)",92.1,64.1,128.9,8.0,37.0,7.0,-3.4,1,0
+"Lauderdale County, Mississippi(6)",92.0,80.0,105.4,46.0,79.0,45.0,-0.6,1,0
+"Young County, Texas(6)",91.9,68.7,121.1,6.0,195.0,12.0,-2.5,1,0
+"Bath County, Kentucky(7)",91.9,64.0,128.6,10.0,118.0,7.0,-1.3,1,0
+"Cherokee County, Alabama(6)",91.9,72.3,115.7,24.0,67.0,18.0,-2.1,1,0
+"Sweetwater County, Wyoming(6)",91.9,73.7,113.1,9.0,22.0,19.0,-0.8,1,1
+"Trinity County, Texas(6)",91.8,65.3,126.3,4.0,197.0,10.0,1.4,1,1
+"Decatur County, Tennessee(6)",91.8,65.8,126.5,8.0,95.0,9.0,-0.3,1,1
+"Swisher County, Texas(6)",91.5,52.0,148.9,1.0,197.0,4.0,0.6,1,1
+"Park County, Colorado(6)",91.5,65.5,125.9,6.0,50.0,10.0,-1.4,1,1
+"Lamb County, Texas(6)",91.5,64.2,126.9,3.0,197.0,8.0,-3.4,1,0
+"Phillips County, Montana(6)",91.4,52.1,157.4,4.0,40.0,3.0,-0.4,1,1
+"Noble County, Oklahoma(6)",91.4,63.1,129.2,7.0,71.0,7.0,-1.3,1,1
+"McHenry County, North Dakota(6)",91.3,52.9,149.5,6.0,30.0,4.0,-3.9,1,1
+"Hale County, Texas(6)",91.2,71.8,114.3,21.0,193.0,16.0,0.8,1,0
+"Pike County, Arkansas(6)",91.2,61.9,130.8,4.0,75.0,7.0,0.7,1,1
+"Howard County, Nebraska(6)",91.2,55.4,144.5,9.0,64.0,4.0,-2.4,1,1
+"Reynolds County, Missouri(6)",91.2,54.5,146.5,4.0,112.0,4.0,-2.3,1,1
+"Assumption Parish, Louisiana(7)",91.1,69.2,117.9,21.0,64.0,13.0,-3.2,1,0
+"Campbell County, Wyoming(6)",91.0,72.7,112.5,10.0,22.0,19.0,-2.0,1,0
+"Lincoln County, West Virginia(6)",90.8,69.4,117.3,13.0,55.0,13.0,-1.5,1,0
+"Marshall County, Indiana(6)",90.8,75.8,108.1,48.0,91.0,27.0,-2.5,1,0
+"Morrill County, Nebraska(6)",90.5,52.1,151.0,7.0,64.0,3.0,-3.6,1,1
+"Rio Grande County, Colorado(6)",90.4,60.0,131.3,4.0,50.0,6.0,-1.8,1,1
+"Worth County, Georgia(7)",90.4,69.0,116.7,35.0,150.0,13.0,-0.4,1,0
+"Kemper County, Mississippi(6)",90.2,60.1,131.3,5.0,80.0,6.0,2.5,1,1
+"Long County, Georgia(7)",90.1,62.0,126.5,14.0,150.0,7.0,1.6,1,0
+"Tunica County, Mississippi(6)",90.1,58.2,133.5,4.0,80.0,5.0,-2.2,1,0
+"Red Willow County, Nebraska(6)",90.0,61.8,128.0,17.0,64.0,8.0,-1.7,1,0
+"Quitman County, Mississippi(6)",90.0,54.6,140.2,3.0,80.0,4.0,1.0,1,1
+"Ramsey County, North Dakota(6)",89.9,61.7,127.7,12.0,30.0,7.0,-2.0,1,0
+"Hidalgo County, Texas(6)",89.8,85.6,94.2,124.0,171.0,342.0,0.1,1,0
+"Nuckolls County, Nebraska(6)",89.8,50.0,156.7,5.0,64.0,4.0,-5.5,1,1
+"Wilkes County, North Carolina(6)",89.7,77.9,103.1,82.0,100.0,46.0,-0.6,1,0
+"Lafayette County, Florida(6)",89.6,55.4,139.0,2.0,67.0,4.0,-0.1,1,1
+"Scurry County, Texas(6)",89.5,64.4,121.5,9.0,197.0,9.0,-2.8,1,0
+"Sevier County, Arkansas(6)",89.4,64.1,121.6,9.0,75.0,8.0,1.5,1,0
+"Johnston County, Oklahoma(6)",89.4,61.3,127.2,8.0,71.0,7.0,-1.2,1,0
+"Dixon County, Nebraska(6)",89.4,50.3,149.3,7.0,64.0,4.0,-4.8,1,0
+"Hardee County, Florida(6)",89.2,69.1,113.5,14.0,67.0,14.0,1.4,1,0
+"Montague County, Texas(6)",89.1,66.6,117.3,17.0,197.0,12.0,7.7,1,1
+"Steuben County, Indiana(6)",89.0,71.4,109.9,41.0,91.0,20.0,-2.2,1,0
+"Jones County, Texas(6)",88.9,63.8,121.4,6.0,197.0,9.0,-0.1,1,0
+"Sac County, Iowa(7)",88.8,61.0,127.1,20.0,98.0,7.0,-1.0,1,0
+"Hughes County, Oklahoma(6)",88.4,61.6,124.0,9.0,71.0,8.0,-2.9,1,0
+"Catoosa County, Georgia(7)",88.3,76.0,102.2,98.0,148.0,38.0,-0.9,1,0
+"San Jacinto County, Texas(6)",88.3,69.3,111.2,25.0,195.0,17.0,-0.2,1,0
+"Val Verde County, Texas(6)",88.2,72.3,106.6,47.0,194.0,22.0,2.2,1,0
+"Siskiyou County, California(7)",88.1,72.9,105.7,36.0,56.0,30.0,-1.1,1,0
+"Smith County, Tennessee(6)",87.8,65.8,115.4,21.0,95.0,11.0,-0.4,1,0
+"Archer County, Texas(6)",87.8,59.5,127.8,4.0,197.0,6.0,-1.7,1,0
+"Howard County, Texas(6)",87.8,69.5,109.6,31.0,194.0,16.0,-2.1,1,0
+"Jackson County, Texas(6)",87.8,61.5,121.7,8.0,197.0,8.0,-0.8,1,0
+"Miami County, Indiana(6)",87.8,71.1,107.6,48.0,91.0,20.0,9.4,1,0
+"Walker County, Georgia(7)",87.7,75.3,101.6,101.0,147.0,39.0,-1.7,1,0
+"Andrews County, Texas(6)",87.6,60.7,122.1,7.0,197.0,7.0,-3.3,1,0
+"Avoyelles Parish, Louisiana(7)",87.6,71.7,106.2,39.0,64.0,23.0,-3.8,1,0
+"Lincoln County, Nebraska(6)",87.6,71.0,107.1,34.0,64.0,21.0,-2.4,1,0
+"McDonald County, Missouri(6)",87.5,65.6,114.5,35.0,112.0,11.0,0.3,1,0
+"Brown County, Indiana(6)",87.4,64.6,117.3,23.0,91.0,11.0,-2.4,1,0
+"Bandera County, Texas(6)",87.1,66.1,113.5,25.0,196.0,15.0,0.4,1,0
+"Pierce County, Wisconsin(6)",86.7,70.0,106.3,52.0,70.0,20.0,-1.9,1,0
+"Leon County, Texas(6)",86.7,63.9,115.8,13.0,197.0,11.0,-1.3,1,0
+"Hempstead County, Arkansas(6)",86.6,65.8,112.3,20.0,75.0,13.0,-3.5,1,0
+"Franklin County, Texas(6)",86.5,56.7,127.2,4.0,197.0,6.0,-0.3,1,0
+"Moultrie County, Illinois(6)",86.3,61.8,118.0,41.0,100.0,9.0,-1.7,1,0
+"Comanche County, Texas(6)",86.3,60.6,120.2,6.0,197.0,9.0,-2.4,1,0
+"Gilpin County, Colorado(6)",86.2,48.1,150.0,1.0,50.0,3.0,-0.4,1,1
+"Wilcox County, Georgia(7)",86.2,48.7,141.3,3.0,150.0,4.0,-1.3,1,0
+"Coleman County, Texas(6)",86.1,57.5,127.2,3.0,197.0,6.0,0.1,1,0
+"Wilson County, Texas(6)",86.0,71.0,103.4,67.0,194.0,24.0,-0.9,1,0
+"Emporia City, Virginia(6)",86.0,50.7,140.1,7.0,131.0,4.0,-5.3,1,0
+"Uintah County, Utah(7)",85.9,66.1,109.5,9.0,24.0,13.0,-1.1,1,0
+"Zapata County, Texas(6)",85.9,57.3,123.5,6.0,197.0,6.0,2.6,1,0
+"Dimmit County, Texas(6)",85.8,54.2,128.9,4.0,197.0,5.0,-0.3,1,0
+"Colfax County, Nebraska(6)",85.8,54.0,129.5,17.0,64.0,5.0,-0.4,1,0
+"Banks County, Georgia(7)",85.7,62.7,114.9,40.0,150.0,10.0,-2.7,1,0
+"Letcher County, Kentucky(7)",85.7,66.2,109.7,55.0,118.0,14.0,-2.5,1,0
+"Del Norte County, California(7)",85.4,66.2,108.9,28.0,56.0,15.0,-2.0,1,0
+"Trousdale County, Tennessee(6)",85.2,54.1,129.5,3.0,95.0,5.0,0.4,1,0
+"Wise County, Virginia(6)",85.2,69.3,103.9,93.0,130.0,22.0,-6.6,1,0
+"Washington County, Florida(6)",85.2,64.4,110.9,13.0,67.0,12.0,3.3,1,0
+"Latimer County, Oklahoma(6)",85.1,54.8,126.9,8.0,71.0,6.0,-1.3,1,0
+"DeSoto County, Florida(6)",84.7,67.0,105.9,34.0,67.0,19.0,-1.3,1,0
+"Seminole County, Oklahoma(6)",84.6,66.0,107.1,31.0,71.0,15.0,-1.7,1,0
+"Llano County, Texas(6)",84.5,65.5,109.0,34.0,195.0,19.0,-3.6,1,0
+"Bosque County, Texas(6)",84.5,63.2,111.6,29.0,197.0,12.0,-0.8,1,0
+"Santa Cruz County, Arizona(6)",84.3,69.9,101.0,7.0,15.0,25.0,-1.0,1,0
+"Mono County, California(7)",84.1,57.0,120.4,7.0,56.0,7.0,-2.2,1,0
+"Carroll County, Virginia(6)",84.1,67.0,104.7,84.0,130.0,19.0,0.3,1,0
+"Morgan County, Kentucky(7)",84.0,57.4,120.1,26.0,118.0,7.0,-0.3,1,0
+"Chester County, Tennessee(6)",84.0,60.1,114.4,22.0,95.0,9.0,-2.2,1,0
+"Washington County, Alabama(6)",83.9,61.5,112.6,25.0,67.0,10.0,-4.4,1,0
+"Rio Arriba County, New Mexico(7)",83.8,68.3,101.9,13.0,30.0,22.0,0.1,1,0
+"Hendry County, Florida(6)",83.6,66.5,103.9,37.0,67.0,17.0,0.5,1,0
+"Calhoun County, Florida(6)",83.6,58.2,117.4,6.0,67.0,8.0,0.3,1,0
+"Treutlen County, Georgia(7)",83.5,48.3,136.0,7.0,150.0,4.0,-2.7,1,0
+"Howell County, Missouri(6)",83.5,68.1,101.5,60.0,111.0,23.0,-2.3,1,0
+"Gila County, Arizona(6)",83.4,70.8,97.9,8.0,15.0,39.0,-1.3,1,0
+"Winston County, Alabama(6)",83.3,64.2,106.9,38.0,67.0,14.0,-1.9,1,0
+"Carroll County, Mississippi(6)",83.2,55.1,122.4,13.0,80.0,6.0,-3.3,1,0
+"Lea County, New Mexico(7)",83.1,69.4,98.5,15.0,30.0,27.0,0.1,1,0
+"Maries County, Missouri(6)",82.8,54.8,122.7,20.0,112.0,6.0,0.7,1,0
+"Box Butte County, Nebraska(6)",82.8,54.8,120.8,21.0,64.0,6.0,-1.6,1,0
+"Union County, Tennessee(6)",82.8,61.2,110.1,33.0,95.0,11.0,-1.3,1,0
+"Newton County, Arkansas(6)",82.7,50.5,130.2,5.0,75.0,5.0,-2.6,1,0
+"Deaf Smith County, Texas(6)",82.7,58.3,113.7,18.0,197.0,8.0,-1.3,1,0
+"Hyde County, North Carolina(6)",82.6,48.1,139.5,6.0,100.0,4.0,-1.0,1,0
+"Shelby County, Texas(6)",82.6,63.1,106.5,37.0,196.0,13.0,-1.9,1,0
+"Lafayette County, Arkansas(6)",82.5,48.5,133.4,3.0,75.0,4.0,-2.2,1,0
+"Chaves County, New Mexico(7)",82.4,69.9,96.5,16.0,30.0,33.0,-4.5,1,0
+"Gentry County, Missouri(6)",82.3,51.1,128.5,15.0,112.0,5.0,-2.7,1,0
+"Texas County, Missouri(6)",82.2,63.6,105.0,53.0,112.0,15.0,-1.9,1,0
+"Roosevelt County, New Mexico(7)",82.1,58.0,112.7,8.0,30.0,8.0,-0.8,1,0
+"Blaine County, Montana(6)",82.1,46.9,134.7,8.0,40.0,3.0,-0.3,1,0
+"Clinton County, Kentucky(7)",81.9,54.4,119.7,25.0,118.0,6.0,0.6,1,0
+"Marion County, Texas(6)",81.8,55.9,118.1,6.0,197.0,7.0,-1.5,1,0
+"Smyth County, Virginia(6)",81.4,64.8,101.4,95.0,130.0,18.0,2.1,1,0
+"Camp County, Texas(6)",81.4,55.8,115.3,15.0,197.0,7.0,-13.4,1,0
+"Wyoming County, West Virginia(6)",81.4,62.1,105.3,27.0,55.0,13.0,-2.8,1,0
+"Panola County, Texas(6)",81.1,62.2,104.6,46.0,196.0,13.0,-1.1,1,0
+"Elko County, Nevada(6)",80.8,64.6,99.7,7.0,11.0,19.0,-0.9,1,0
+"Smith County, Mississippi(6)",80.5,57.2,110.6,23.0,80.0,9.0,0.1,1,0
+"Appanoose County, Iowa(7)",80.3,57.3,111.3,42.0,98.0,8.0,-0.4,1,0
+"Edgar County, Illinois(6)",80.3,59.5,106.9,70.0,100.0,11.0,-3.6,1,0
+"Dawes County, Nebraska(6)",80.1,48.2,126.5,15.0,64.0,5.0,-2.8,1,0
+"Sabine County, Texas(6)",79.8,52.1,119.1,9.0,197.0,7.0,1.0,1,0
+"Navajo County, Arizona(6)",79.7,70.0,90.4,10.0,15.0,54.0,-1.0,1,0
+"Van Buren County, Tennessee(6)",79.4,46.4,132.0,3.0,95.0,4.0,-5.3,1,0
+"Cibola County, New Mexico(7)",79.3,60.2,102.7,13.0,30.0,13.0,-0.4,1,0
+"Pontotoc County, Oklahoma(6)",79.2,63.8,97.4,44.0,71.0,19.0,-2.7,1,0
+"Jackson County, Florida(6)",79.2,64.7,96.2,49.0,67.0,24.0,2.0,1,0
+"Conejos County, Colorado(6)",79.1,46.3,126.9,6.0,50.0,4.0,2.7,1,0
+"McKinley County, New Mexico(7)",78.8,66.5,92.7,17.0,30.0,30.0,-0.3,1,0
+"Polk County, Missouri(6)",78.7,62.1,98.5,67.0,112.0,17.0,-9.2,1,0
+"Seminole County, Georgia(7)",78.5,49.7,119.7,16.0,150.0,5.0,-1.8,1,0
+"Wright County, Iowa(7)",78.3,53.4,112.0,45.0,98.0,8.0,-2.2,1,0
+"Holmes County, Ohio(6)",78.2,62.6,96.5,72.0,88.0,18.0,-2.3,1,0
+"San Miguel County, New Mexico(7)",78.1,60.8,99.3,14.0,30.0,16.0,-0.7,1,0
+"Summit County, Colorado(6)",78.1,59.3,101.8,29.0,50.0,13.0,-3.2,1,0
+"St. Clair County, Missouri(6)",78.1,50.3,118.2,23.0,112.0,6.0,-1.5,1,0
+"Gaines County, Texas(6)",78.1,52.5,111.2,14.0,197.0,6.0,-0.3,1,0
+"Custer County, Oklahoma(6)",78.1,59.1,101.3,39.0,71.0,12.0,-3.7,1,0
+"Goshen County, Wyoming(6)",78.0,53.7,110.8,11.0,22.0,8.0,-2.1,1,0
+"Grant County, New Mexico(7)",78.0,60.9,99.0,15.0,30.0,18.0,-0.5,1,0
+"Tyler County, Texas(6)",77.5,55.7,105.4,27.0,197.0,10.0,-2.4,1,0
+"Ferry County, Washington(6)",77.2,49.0,120.6,17.0,38.0,5.0,-3.3,1,0
+"Choctaw County, Mississippi(6)",77.0,48.6,118.1,19.0,80.0,5.0,-1.1,1,0
+"Lewis County, Tennessee(6)",76.9,51.7,111.2,28.0,95.0,7.0,-17.7,1,0
+"Candler County, Georgia(7)",76.8,49.1,115.0,15.0,150.0,5.0,-2.1,1,0
+"Mitchell County, Texas(6)",76.8,45.5,123.4,6.0,197.0,4.0,0.3,1,0
+"Magoffin County, Kentucky(7)",76.6,51.2,111.0,42.0,118.0,6.0,0.0,1,0
+"Modoc County, California(7)",76.5,46.4,120.4,8.0,56.0,5.0,-3.4,1,0
+"Haskell County, Texas(6)",76.4,42.6,131.1,2.0,197.0,3.0,-3.2,1,0
+"Buchanan County, Virginia(6)",76.2,57.3,100.1,95.0,131.0,12.0,-2.2,1,0
+"McCulloch County, Texas(6)",76.0,46.9,118.8,9.0,197.0,5.0,-2.5,1,0
+"Jack County, Texas(6)",75.9,44.6,122.1,4.0,197.0,4.0,-3.8,1,0
+"Allendale County, South Carolina(6)",75.9,47.3,117.4,20.0,46.0,5.0,-2.9,1,0
+"Doddridge County, West Virginia(6)",75.8,47.2,118.7,12.0,55.0,5.0,2.5,1,0
+"Floyd County, Iowa(7)",75.8,54.9,103.1,60.0,98.0,10.0,-1.2,1,0
+"Jefferson County, Idaho(7)",75.8,55.6,100.7,22.0,37.0,10.0,-0.9,1,0
+"Day County, South Dakota(6)",75.7,43.6,128.5,14.0,42.0,4.0,-2.1,1,0
+"Pocahontas County, West Virginia(6)",75.4,49.7,113.6,19.0,55.0,6.0,-4.7,1,0
+"Telfair County, Georgia(7)",75.4,51.7,107.1,69.0,150.0,7.0,-1.2,1,0
+"Audubon County, Iowa(7)",75.0,43.1,126.5,17.0,98.0,4.0,-1.2,1,0
+"Prowers County, Colorado(6)",74.8,49.2,109.8,22.0,50.0,6.0,-4.4,1,0
+"Frio County, Texas(6)",74.6,49.4,107.7,25.0,197.0,6.0,-3.0,1,0
+"Curry County, New Mexico(7)",74.4,59.5,91.9,17.0,30.0,18.0,-0.6,1,0
+"Sanpete County, Utah(7)",74.1,54.8,98.0,15.0,24.0,10.0,-0.9,1,0
+"Dawson County, Texas(6)",73.7,46.8,110.7,13.0,197.0,5.0,-0.5,1,0
+"Zavala County, Texas(6)",73.5,45.8,111.7,9.0,197.0,5.0,0.9,1,0
+"Coosa County, Alabama(6)",72.9,49.8,105.9,34.0,67.0,7.0,-2.8,1,0
+"Hamilton County, Nebraska(6)",72.2,43.3,114.1,26.0,64.0,4.0,-4.2,1,0
+"Newton County, Texas(6)",71.9,48.6,103.4,43.0,197.0,7.0,-3.2,1,0
+"Refugio County, Texas(6)",71.3,42.9,114.1,5.0,197.0,4.0,-5.9,1,0
+"San Juan County, Utah(7)",69.9,45.9,102.1,12.0,24.0,6.0,-0.1,1,0
+"Tensas Parish, Louisiana(7)",69.8,39.2,122.5,16.0,64.0,3.0,0.2,1,0
+"Wayne County, Iowa(7)",69.6,41.7,113.7,43.0,98.0,4.0,-1.8,1,0
+"Titus County, Texas(6)",69.5,53.1,89.4,108.0,197.0,13.0,-3.4,1,0
+"Martin County, Indiana(6)",69.3,44.7,104.4,46.0,91.0,5.0,-3.4,1,0
+"Johnson County, Georgia(7)",68.4,42.5,106.8,65.0,150.0,5.0,-2.0,1,0
+"Bristol City, Virginia(6)",68.1,48.8,93.4,102.0,131.0,9.0,-4.6,1,0
+"La Paz County, Arizona(6)",67.5,47.7,93.8,8.0,15.0,11.0,-0.4,1,0
+"Twiggs County, Georgia(7)",67.5,38.3,111.6,37.0,150.0,4.0,2.4,1,0
+"Summers County, West Virginia(6)",67.2,47.2,94.6,39.0,55.0,8.0,-1.7,1,0
+"Tazewell County, Virginia(6)",66.9,53.6,82.8,116.0,131.0,20.0,-3.6,1,0
+"Calhoun County, Texas(6)",66.2,48.1,89.2,110.0,197.0,9.0,-4.2,1,0
+"Pepin County, Wisconsin(6)",66.1,37.5,110.8,34.0,70.0,4.0,-0.7,1,0
+"Madison County, Florida(6)",65.5,46.1,91.3,50.0,67.0,8.0,-0.6,1,0
+"Oregon County, Missouri(6)",65.1,41.3,99.0,59.0,112.0,5.0,-3.1,1,0
+"Apache County, Arizona(6)",64.3,53.2,77.1,12.0,15.0,25.0,-0.1,1,0
+"Brewster County, Texas(6)",63.3,35.9,104.0,32.0,197.0,4.0,-4.6,1,0
+"Dooly County, Georgia(7)",63.1,41.2,93.7,91.0,150.0,6.0,-4.0,1,0
+"Holmes County, Florida(6)",61.9,43.0,86.9,54.0,67.0,8.0,1.7,1,0
+"Willacy County, Texas(6)",60.7,41.7,85.7,129.0,197.0,7.0,-1.0,1,0
+"Douglas County, Missouri(6)",59.8,40.3,87.4,83.0,112.0,7.0,-6.5,1,0
+"Lee County, Virginia(6)",58.7,42.1,80.1,118.0,131.0,10.0,-5.2,1,0
+"Marion County, Georgia(7)",55.1,30.9,92.7,102.0,150.0,3.0,-4.4,1,0
+"Bethel Census Area, Alaska(6)",53.5,31.7,84.7,13.0,15.0,4.0,-4.1,1,0
+"Robertson County, Texas(6)",52.7,34.2,77.9,137.0,197.0,6.0,-15.7,1,0
+"Russell County, Virginia(6)",52.5,38.8,70.0,122.0,131.0,11.0,-6.5,1,0
+"Ozark County, Missouri(6)",51.3,32.5,81.6,89.0,112.0,5.0,-4.1,1,0
